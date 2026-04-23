@@ -1,0 +1,9 @@
+node_modules/
+.env
+dist/
+build/
+.DS_Store
+# Modelos de IA pesados
+public/models/
+*.gguf
+*.onnx
