@@ -24,7 +24,8 @@ export type AuditEventType =
   | 'DB_INIT_FAIL' // Error al abrir BD
   | 'LLM_LOAD_SUCCESS' // Gemma cargado
   | 'LLM_LOAD_FAIL' // Error al cargar modelo
-  | 'RAG_INIT_SUCCESS' // FAISS + corpus listo
+  | 'RAG_INIT_SUCCESS' // Voy + corpus listo
+  | 'RAG_QUERY' // Consulta RAG realizada
   | 'RAG_INIT_FAIL' // Error en RAG
   | 'EXPORT_PDF' // Historial exportado a PDF
   | 'EXPORT_JSON' // Backup JSON generado
@@ -32,6 +33,12 @@ export type AuditEventType =
   | 'WIPE_COMPLETED' // Borrado completado
   | 'WIPE_FAILED' // Error durante borrado
   | 'ERROR_CRITICAL' // Error no controlado
+  | 'TELEMETRY_BLOCKED' 
+  | 'INDEX_START'     
+  | 'INDEX_SUCCESS'  
+  | 'INDEX_FAIL'     
+  | 'TELEMETRY_BLOCK_INIT'; 
+  
 
 export interface AuditLog {
   id: string
@@ -175,33 +182,40 @@ export async function logError(error: Error, context?: string): Promise<void> {
 // ================================================================
 // CONSULTAS
 // ================================================================
-
+const safeParseMetadata = (metadata?: string) => {
+  if (!metadata) return undefined;
+  try {
+    return JSON.parse(metadata);
+  } catch {
+    return { error: "Corrupted metadata" };
+  }
+};
 /**
  * Obtiene últimos N logs - para debug o exportar
  * NO incluye contenido de mensajes
  */
 export async function getRecentLogs(limit: number = 100): Promise<AuditLog[]> {
-  if (!isInitialized ||!db) return []
+  if (!isInitialized || !db) return [];
 
   try {
     const res = await db.query(`
       SELECT * FROM audit_logs
       ORDER BY timestamp DESC
-      LIMIT?
-    `, [limit])
+      LIMIT ?
+    `, [limit]);
 
     return res.values?.map(row => ({
       id: row.id,
       eventType: row.eventType as AuditEventType,
       timestamp: row.timestamp,
       sessionId: row.sessionId,
-      metadata: row.metadata,
+      // CONEXIÓN IDÓNEA: Aquí usamos la función y desaparece el error
+      metadata: safeParseMetadata(row.metadata), 
       severity: row.severity as 'info' | 'warn' | 'error',
-    })) || []
-
+    })) || [];
   } catch (error) {
-    console.error('[RAÍCES AUDIT] Error al leer logs:', error)
-    return []
+    console.error('[RAÍCES AUDIT] Error al leer logs:', error);
+    return [];
   }
 }
 
@@ -258,15 +272,30 @@ export async function getSessionLogs(sessionId: string): Promise<AuditLog[]> {
  * Borra logs de auditoría - usado por botón de pánico
  * NOTA: secure-wipe.service.ts sobrescribe el archivo físico después
  */
+/**
+ * INTEGRACIÓN CON EL BOTÓN DE PÁNICO
+ * Modificamos clearAuditLogs para que registre su propia destrucción
+ * (Esto es un requisito de auditoría forense: "Log de la última acción")
+ */
 export async function clearAuditLogs(): Promise<void> {
-  if (!isInitialized ||!db) return
+  if (!isInitialized || !db) return;
 
   try {
-    await db.execute('DELETE FROM audit_logs')
-    await db.execute('VACUUM')
-    console.log('[RAÍCES AUDIT] Logs borrados')
+    // 1. Antes de borrar, registramos quién dio la orden (sesión)
+    await logEvent('PANIC_ACTIVATED', { 
+      severity: 'warn', 
+      metadata: { action: 'FULL_WIPE_INITIATED' } 
+    });
+
+    // 2. Borrado físico
+    await db.execute('DELETE FROM audit_logs');
+    await db.execute('VACUUM');
+    
+    // 3. Reiniciamos el estado de inicialización para obligar a un nuevo apretón de manos
+    isInitialized = false; 
+    console.log('[RAÍCES AUDIT] Evidencia eliminada por protocolo de seguridad.');
   } catch (error) {
-    console.error('[RAÍCES AUDIT] Error al borrar logs:', error)
+    console.error('[RAÍCES AUDIT] Fallo en protocolo de limpieza:', error);
   }
 }
 

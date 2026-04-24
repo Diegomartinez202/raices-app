@@ -1,15 +1,25 @@
 import { useState, useEffect } from 'react';
-import { Capacitor } from '@capacitor/core';
-import { Filesystem, Directory } from '@capacitor/filesystem';
 import { validateConfig, logger } from '@/core/config/config.service';
 import { initializeDB, isDBReady } from '@/core/db/sqlite.service';
 import { initializeLlama, isLlamaReady } from '@/core/ai/llama.service';
 import { initializeVoy, isVoyReady } from '@/core/rag/voy.service';
 import { initializeTokenizer, isTokenizerReady } from '@/core/rag/tokenizer.service';
 import { hasPIN, onSessionStateChange, initializeSessionListeners, setPIN } from '@/core/session/session.service';
-import { asegurarCorpusLocal } from '@/core/infra/infraestructura.service';
+import { InfraService } from '@/core/infra/infraestructura.service';
 import { KeyService } from '@/core/crypto/keys.service';
+import { getBlockedAttempts } from '@/core/security/telemetry-block.service';
 
+// --- IMPORTS DE AUDITORÍA ---
+import { 
+  initializeAudit, 
+  logEvent, 
+  pruneOldLogs 
+} from '@/core/audit/audit.service';
+
+// --- IMPORTS DE BASE DE DATOS ---
+import {  
+  getDBConnection // Asegúrate de que esto se exporte en sqlite.service
+} from '@/core/db/sqlite.service';
 /**
  * HOOK SOBERANO: useRaicesSystem
  * Gestiona el ciclo de vida del arranque del sistema RAÍCES.
@@ -21,53 +31,43 @@ export const useRaicesSystem = () => {
   const [isLocked, setIsLocked] = useState(true);
   const [hasPinConfigured, setHasPinConfigured] = useState(false);
 
-  // --- FUNCIÓN DE INFRAESTRUCTURA (Reincorporada) ---
-  const prepararInfraestructura = async () => {
-    const platform = Capacitor.getPlatform();
-    const isNative = Capacitor.isNativePlatform();
-    logger.log(`[SISTEMA] Preparando entorno físico en: ${platform}`);
-
-    try {
-      if (isNative) {
-        // Crear directorios para RAG y Modelos IA (Soberanía de datos)
-        await Filesystem.mkdir({ path: 'corpus', directory: Directory.Data, recursive: true }).catch(() => {});
-        await Filesystem.mkdir({ path: 'models', directory: Directory.Data, recursive: true }).catch(() => {});
-        
-        // Validación técnica para auditoría de MinCiencias
-        const checkModel = await Filesystem.stat({ 
-          path: 'models/gemma-2b-it-q4_k_m.gguf', // O el modelo que uses
-          directory: Directory.Data 
-        }).catch(() => null);
-
-        if (!checkModel) {
-          logger.warn('[ALERTA] Modelo IA no detectado en almacenamiento seguro.');
-        } else {
-          logger.log("[SISTEMA] Infraestructura física validada.");
-        }
-      } else {
-        logger.log("[SISTEMA] Ejecutando en web, se omitió infraestructura física.");
-      }
-    } catch (e) {
-      console.error("[ERROR INFRA]", e);
-      throw e; // Lanza el error para capturarlo en la bootSequence
-    }
-  };
-
   useEffect(() => {
+    
     let unsubscribe: (() => void) | undefined;
 
     const bootSequence = async () => {
       try {
         setIsSystemLoading(true);
 
+        // ================================================================
+        // --- FASE 0: PROTOCOLO CERO-RED (Blindaje de Red) ---
+        // ================================================================
+        setLoadingMsg('Activando Protocolo Cero-Red...');
+        
+        // Verificamos si el servicio de telemetría ya hizo su trabajo en main.tsx
+        const blockedCount = getBlockedAttempts(); 
+        if (blockedCount > 0) {
+        setLoadingMsg(`Protección activa: ${blockedCount} conexiones bloqueadas.`);
+        }
+        // Un pequeño delay artificial (500ms) ayuda a que el usuario lea 
+        // este mensaje tan importante para su confianza
+        await new Promise(resolve => setTimeout(resolve, 500));
+        
+        logger
         // --- FASE 1: NÚCLEO Y CONFIGURACIÓN ---
         setLoadingMsg('Validando configuración soberana...');
         validateConfig();
 
         // --- FASE 2: INFRAESTRUCTURA FÍSICA (¡Recuperada!) ---
-        setLoadingMsg('Verificando almacenamiento seguro...');
-        await prepararInfraestructura(); 
-        await asegurarCorpusLocal(); // Verifica integridad del conocimiento JEP
+// --- FASE 2: INFRAESTRUCTURA FÍSICA (Aquí pegas las 3 líneas) ---
+        setLoadingMsg('Preparando almacenamiento seguro...');
+        await InfraService.prepararInfraestructura(); // Crea las carpetas
+        
+        setLoadingMsg('Sincronizando corpus de conocimiento...');
+        await InfraService.asegurarCorpusLocal();     // Hidrata el JSON
+        
+        setLoadingMsg('Anclando modelo IA al hardware...');
+        await InfraService.ensureModelExists(); // Verifica integridad del conocimiento JEP
 
         // --- FASE 3: BÓVEDA DE SEGURIDAD (Criptografía) ---
         setLoadingMsg('Configurando bóveda de claves...');
@@ -78,7 +78,16 @@ export const useRaicesSystem = () => {
         await initializeDB();
         if (!isDBReady()) throw new Error('La base de datos SQLite no está lista.');
 
-        // --- FASE 4: MOTORES DE IA Y RAG ---
+// FASE 4: ACTIVACIÓN DE AUDITORÍA (Aquí aplicamos la lógica)
+        const dbConn = getDBConnection(); // Obtenemos la conexión
+        if (dbConn) {
+          setLoadingMsg('Configurando trazabilidad...');
+          await initializeAudit(dbConn, `SES-${Date.now()}`);
+          await pruneOldLogs(30); // Limpieza proactiva
+          await logEvent('APP_START', { severity: 'info' });
+        }
+        
+       // --- FASE 5: MOTORES DE IA Y RAG ---
         setLoadingMsg('Cargando Tokenizer local...');
         await initializeTokenizer();
         if (!isTokenizerReady()) throw new Error('Fallo crítico en el Tokenizer.');
@@ -91,25 +100,31 @@ export const useRaicesSystem = () => {
         await initializeLlama();
         if (!isLlamaReady()) throw new Error('Fallo crítico en el motor de IA Llama.');
 
-        // --- FASE 5: SESIÓN Y SEGURIDAD ---
+        // --- FASE 6: SESIÓN Y SEGURIDAD ---
+        // 1. ACTIVACIÓN DE LISTENERS (Pausa/Resumen)
         setLoadingMsg('Verificando estado de sesión...');
         initializeSessionListeners();
         
+        // 2. Verificación de PIN
         const pinExists = await hasPIN();
         setHasPinConfigured(pinExists);
         setIsLocked(pinExists);
 
-        // Listener para cambios de bloqueo (timeout)
+        // 3. Listener para cambios de bloqueo (timeout)
         unsubscribe = onSessionStateChange((state) => {
           setIsLocked(state !== 'unlocked');
         });
 
-        logger.log('[SISTEMA] Sistema RAÍCES arrancado con éxito.');
+        // --- FINALIZACIÓN ---
+        logger.info('[SISTEMA] Sistema RAÍCES arrancado con éxito.');
+        setLoadingMsg('Bóveda lista...');
+        
+        
         setIsSystemLoading(false);
 
       } catch (error: any) {
         console.error('[RAÍCES FALLO CRÍTICO AMBIENTE]', error);
-        setLoadingMsg(`ERROR EN ARRANQUE: ${error.message || error}`);
+        setLoadingMsg(`ERROR DE INFRAESTRUCTURA: ${error.message || error}`);
         // No quitamos el Loading para evitar que entre a la app rota
       }
     };
@@ -121,5 +136,41 @@ export const useRaicesSystem = () => {
     };
   }, []);
 
-  return { isSystemLoading, loadingMsg, isLocked, hasPinConfigured, setIsLocked };
+const setupSecurity = async (nuevoPin: string) => {
+    try {
+      logger.info('[SEGURIDAD] Estableciendo PIN en almacenamiento seguro...');
+      // AQUÍ SE USA EL IMPORT: Esto elimina el error de TypeScript
+      const success = await setPIN(nuevoPin); 
+      
+      if (success) {
+        setHasPinConfigured(true);
+        setIsLocked(false);
+        logger.info('[SISTEMA] Bóveda configurada y lista.');
+      }
+      return success;
+    } catch (error) {
+      logger.error('[SISTEMA] Error al establecer seguridad inicial:', error);
+      return false;
+    }
+  };
+const initializeRAG = async () => {
+    try {
+      // Tu lógica para cargar el índice Voy y el Corpus cifrado
+      logger.info('Reinicializando sistema RAG...');
+      // ...
+    } catch (e) {
+      logger.error('Error al inicializar RAG', e);
+    }
+  };
+  
+return { 
+    isSystemLoading, 
+    loadingMsg, 
+    isLocked, 
+    hasPinConfigured, 
+    setupSecurity,
+    initializeRAG,
+    setIsLocked 
+  };
 };
+  

@@ -54,3 +54,31 @@
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+@import './theme/fonts.css';
+
+body {
+  font-family: 'RaicesBody', sans-serif;
+}
+
+h1, h2, .raices-header {
+  font-family: 'RaicesTitle', sans-serif;
+}
+:root {
+  /* Stack de fuentes idóneo: sans-serif nativo de alta legibilidad */
+  --font-raices: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-raices);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #F5F1E8; /* El color crema de RAÍCES */
+}
+
+h1, h2, h3, .font-title {
+  font-family: var(--font-raices);
+  font-weight: 700;
+  letter-spacing: -0.025em;
+}

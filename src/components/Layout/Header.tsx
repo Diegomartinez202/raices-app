@@ -3,9 +3,10 @@ import { clearAllHistory } from '@/core/db/sqlite.service';
 
 interface HeaderProps {
   onExport: () => void;
+  onUpdateCorpus: () => void; // Esta es la conexión con App.tsx
 }
 
-export const Header: React.FC<HeaderProps> = ({ onExport }) => {
+export const Header: React.FC<HeaderProps> = ({ onExport, onUpdateCorpus }) => {
   const [clickCount, setClickCount] = useState(0);
   const [lastClickTime, setLastClickTime] = useState(0);
 
@@ -31,16 +32,28 @@ export const Header: React.FC<HeaderProps> = ({ onExport }) => {
 
   return (
     <header className="bg-[#C65D3B] text-white p-3 px-5 flex justify-between items-center select-none shadow-md">
+      {/* Logo con Protocolo de Pánico */}
       <div className="cursor-pointer" onClick={handleLogoClick}>
         <h1 className="m-0 text-xl font-bold tracking-tight">RAÍCES</h1>
       </div>
       
-      <div className="flex gap-2">
+      <div className="flex gap-3">
+        {/* NUEVO: Botón para actualizar Base de Conocimiento (Corpus) */}
         <button 
-          onClick={onExport}
+          onClick={onUpdateCorpus}
+          title="Actualizar Conocimiento"
           className="bg-white/15 border-none rounded-full w-9 h-9 flex items-center justify-center hover:bg-white/25 active:scale-90 transition-all"
         >
-          <span>📄</span>
+          <span style={{ fontSize: '1.2rem' }}>🔄</span>
+        </button>
+
+        {/* Botón de Exportar Historial */}
+        <button 
+          onClick={onExport}
+          title="Exportar Historial"
+          className="bg-white/15 border-none rounded-full w-9 h-9 flex items-center justify-center hover:bg-white/25 active:scale-90 transition-all"
+        >
+          <span style={{ fontSize: '1.2rem' }}>📄</span>
         </button>
       </div>
     </header>

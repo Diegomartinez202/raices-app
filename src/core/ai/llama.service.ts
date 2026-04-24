@@ -1,6 +1,6 @@
 import { Filesystem, Directory } from '@capacitor/filesystem'
 import { getPaths, getLLMParams, logger } from '@/core/config/config.service'
-
+import { logEvent } from '@/core/audit/audit.service'
 interface LlamaContext {
   free: () => void;
   completion: (params: any) => Promise<{ text: string }>;
@@ -35,7 +35,7 @@ async function getAbsolutePath(path: string): Promise<string> {
  */
 export async function initializeLlama(): Promise<boolean> {
   if (isInitialized) return true
-
+  const startTime = Date.now();
   try {
     logger.info('Iniciando carga de Gemma 2B desde almacenamiento local...');
 
@@ -68,11 +68,29 @@ export async function initializeLlama(): Promise<boolean> {
     })
 
     isInitialized = true;
+    const elapsed = Date.now() - startTime; // <--- INSERTAR AQUÍ
+
+    // AUDITORÍA IDÓNEA: Registra éxito y métricas de rendimiento
+    await logEvent('LLM_LOAD_SUCCESS', {
+      severity: 'info',
+      metadata: { 
+        model: 'gemma-2b-it-q4_k_m', 
+        duration_ms: elapsed,
+        threads: PARAMS.THREADS 
+      }
+    });    
+    
     logger.info('Motor de IA RAÍCES inicializado correctamente.');
     return true;
 
-  } catch (error) {
+} catch (error: any) { // <--- Cambia (error) por (error: any)
     logger.error('Error fatal inicializando LLM:', error);
+    
+    await logEvent('LLM_LOAD_FAIL', { 
+      severity: 'error',
+      metadata: { error: error.message || 'Error desconocido' } 
+    });
+
     isInitialized = false;
     return false;
   }
@@ -85,6 +103,7 @@ export async function generateResponse(
   question: string,
   ragContext: string[] = []
 ): Promise<string> {
+  // 1. Validaciones de estado
   if (!isInitialized || !context) {
     return "El sistema de IA se está inicializando. Por favor, espera un momento.";
   }
@@ -94,11 +113,11 @@ export async function generateResponse(
   isGenerating = true;
 
   try {
+    // 2. Preparación del contexto
     const contextString = ragContext.length > 0 
       ? ragContext.join('\n\n') 
       : 'No hay documentos específicos encontrados para esta consulta.';
     
-    // Prompt optimizado para Gemma 2B
     const finalPrompt = `Eres "RAÍCES", una IA de apoyo a víctimas en Colombia. 
 CONTEXTO SEGURO:
 ${contextString}
@@ -106,6 +125,7 @@ ${contextString}
 USUARIO: ${question}
 RESPUESTA RAÍCES:`;
 
+    // 3. Inferencia del modelo
     const response = await context.completion({
       prompt: finalPrompt,
       nPredict: PARAMS.N_PREDICT,
@@ -115,12 +135,31 @@ RESPUESTA RAÍCES:`;
       stop: ['USUARIO:', 'CONTEXTO:', 'PREGUNTA:'],
     });
 
+    // 4. Auditoría de éxito (Idoneidad MinCiencias)
+    await logEvent('RAG_INIT_SUCCESS', { 
+      severity: 'info', 
+      metadata: { 
+        context_chunks: ragContext.length,
+        prompt_size: finalPrompt.length 
+      } 
+    });
+
     isGenerating = false;
     return response.text.trim();
 
-  } catch (error) {
+  } catch (error: any) {
+    // 5. Manejo de errores y Auditoría de fallo
     isGenerating = false;
     logger.error('Error en generación local:', error);
+    
+    await logEvent('ERROR_CRITICAL', { 
+      severity: 'error',
+      metadata: { 
+        context: 'LLM_GENERATE', 
+        error: error.message || 'Error desconocido' 
+      } 
+    });
+
     return "Lo siento, tuve un problema técnico al procesar la respuesta localmente.";
   }
 }

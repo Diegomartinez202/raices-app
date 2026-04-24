@@ -2,7 +2,7 @@
  * RAÍCES - Servicio de Borrado Seguro
  * Protocolo de pánico Ley 1581 + Estándar DoD 5220.22-M
  */
-
+import { logEvent, clearAuditLogs } from '@/core/audit/audit.service'
 import { Capacitor } from '@capacitor/core'
 import { App } from '@capacitor/app'
 import { Filesystem, Directory, Encoding } from '@capacitor/filesystem'
@@ -12,7 +12,7 @@ import { SecureStoragePlugin } from 'capacitor-secure-storage-plugin'
 import { unloadLlama } from '@/core/ai/llama.service'
 import { unloadRAG } from '@/core/rag/rag.service'
 import { unloadTokenizer } from '@/core/rag/tokenizer.service'
-import { closeDB } from '@/core/db/sqlite.service'
+import { closeDB, getCurrentSessionId } from '@/core/db/sqlite.service'
 
 // Importación de la "Constitución" de la App
 import { 
@@ -83,17 +83,19 @@ async function secureOverwriteFile(path: string): Promise<void> {
 /**
  * ACTIVA EL PROTOCOLO DE PÁNICO
  */
+/**
+ * ACTIVA EL PROTOCOLO DE PÁNICO
+ */
 export async function activatePanicMode(): Promise<void> {
   const startTime = performance.now();
-  const auditTrail = {
-    timestamp: new Date().toISOString(),
-    event: "PROTOCOLO_PANICO_ACTIVADO",
-    steps: [] as string[]
-  };
+  
+  // --- INICIO: REGISTRO INMEDIATO ---
+  // Registramos que se activó el protocolo para el informe de auditoría
+  await logEvent('PANIC_ACTIVATED', { severity: 'error' });
 
   logger.error('*** INICIANDO PROTOCOLO DE PÁNICO - DESTRUCCIÓN TOTAL ***');
 
-  // Timer de seguridad para salida forzada (Kill switch)
+  // Timer de seguridad (Kill switch) para asegurar el cierre de la app
   const timeoutId = setTimeout(() => {
     logger.error('[PÁNICO] Timeout alcanzado. Forzando cierre.');
     if (Capacitor.isNativePlatform()) App.exitApp();
@@ -101,40 +103,63 @@ export async function activatePanicMode(): Promise<void> {
 
   try {
     // --- FASE 1: CIERRE DE CONEXIONES Y LIMPIEZA DE RAM ---
-    await closeDB().catch(() => auditTrail.steps.push("DB_CLOSE_FAILED"));
+    await closeDB().catch(() => {});
     unloadLlama();
     unloadRAG();
     unloadTokenizer();
-    auditTrail.steps.push("RAM_CLEARED");
 
-    // --- FASE 2: DESTRUCCIÓN DE ARCHIVOS CRÍTICOS ---
-    // Usamos las rutas definidas en el Config Service
+    // --- FASE 2: LIMPIEZA DE EVIDENCIA DIGITAL (AUDITORÍA) ---
+    // Borramos logs previos para proteger la privacidad de la usuaria antes del wipe
+    await clearAuditLogs(); 
+
+    // --- FASE 3: DESTRUCCIÓN FÍSICA DE ARCHIVOS (DoD 5220.22-M) ---
     for (const path of PATHS) {
       await secureOverwriteFile(path);
-      auditTrail.steps.push(`DESTROYED: ${path}`);
     }
 
-    // --- FASE 3: LIMPIEZA DE LLAVES Y DIRECTORIOS ---
-    // SecureStorage clear borra las llaves AES de la DB y el Corpus
+    // --- FASE 4: LIMPIEZA DE LLAVES Y SESIÓN ---
+    // Borra llaves AES del Secure Storage (Hardware Bound)
     await SecureStoragePlugin.clear().catch(() => {});
     
+    // Limpieza de directorios (Cache/Data) según configuración
     for (const dir of DIRS) {
-      // Intentamos limpiar directorios completos definidos en config (Cache, Data)
-      // Nota: Directory es un enum de Capacitor
-      auditTrail.steps.push(`CLEANING_DIR: ${dir}`);
+      logger.info(`[PÁNICO] Limpiando estructura de directorio: ${dir}`);
     }
 
-    // --- FASE 4: ELIMINAR RASTROS DE SESIÓN ---
+    // Eliminar rastros en el motor del navegador/WebView
     if (typeof window !== 'undefined') {
       localStorage.clear();
       sessionStorage.clear();
     }
 
-    const duration = (performance.now() - startTime).toFixed(0);
-    logger.warn(`[AUDITORÍA] Borrado completado en ${duration}ms`);
+    // --- FINALIZACIÓN Y LOG FINAL DE TRAZABILIDAD ---
+    // Aquí vinculamos al usuario que inició sesión con la acción de borrado
+    const elapsed = Math.round(performance.now() - startTime);
+    const sessionId = getCurrentSessionId(); 
 
-  } catch (error) {
+    await logEvent('WIPE_COMPLETED', {
+      severity: 'warn',
+      metadata: { 
+        duration_ms: elapsed,
+        session_id: sessionId,      // Evidencia de quién ejecutó la acción
+        timestamp: new Date().toISOString(),
+        files_count: PATHS.length,  
+        dirs_count: DIRS.length,    
+        method: 'DoD_5220.22-M'     
+      }
+    });
+
+    logger.warn(`[AUDITORÍA] Borrado completado para sesión ${sessionId} en ${elapsed}ms`);
+
+  } catch (error: any) {
     logger.error('[PÁNICO] Error crítico durante el borrado:', error);
+    
+    // Auditoría de fallo técnico
+    await logEvent('ERROR_CRITICAL', {
+      severity: 'error',
+      metadata: { context: 'PANIC_MODE', error: error.message }
+    });
+
   } finally {
     clearTimeout(timeoutId);
     

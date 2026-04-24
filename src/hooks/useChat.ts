@@ -5,81 +5,100 @@ import { KeyService } from '@/core/crypto/keys.service';
 import { logger } from '@/core/config/config.service';
 
 export const useChat = () => {
-  const [messages, setMessages] = useState<any[]>([]); // Cambiamos temporalmente a any para evitar choques
+  const [messages, setMessages] = useState<any[]>([]);
   const [isTyping, setIsTyping] = useState(false);
 
+  /**
+   * CARGA DE HISTORIAL: Formatea datos de DB a UI
+   */
   const loadHistory = useCallback(async () => {
-    const history = await getMessages();
-    // Convertimos de SQLite (0/1) a React (true/false) al cargar
-    const formatted = history.map(msg => ({
-      ...msg,
-      isUser: Boolean(msg.isUser)
-    }));
-    setMessages(formatted);
+    try {
+      const history = await getMessages();
+      const formatted = history.map(msg => ({
+        ...msg,
+        isUser: Boolean(msg.isUser),
+        // Formateo de fecha para la interfaz
+        displayDate: new Date(msg.timestamp).toLocaleString('es-CO', { 
+          hour12: true, 
+          hour: '2-digit', 
+          minute: '2-digit' 
+        })
+      }));
+      setMessages(formatted);
+    } catch (error) {
+      logger.error('[DB] Error cargando historial:', error);
+    }
   }, []);
 
-const sendMessage = async (text: string) => {
+  /**
+   * ENVÍO DE MENSAJE: Gestión de Seguridad y Persistencia
+   */
+  const sendMessage = async (text: string) => {
     if (!text.trim()) return;
 
-    // 1. OBTENER CLAVE DINÁMICA
+    setIsTyping(true);
+    
+    // 1. PROTOCOLO DE SEGURIDAD: Obtención de Llave Dinámica
     const sessionKey = await KeyService.obtenerClaveDinamica();
     
-    // USAMOS la llave para que el error desaparezca y para la auditoría
-    if (sessionKey) {
-       logger.info(`[SEGURIDAD] Mensaje procesado con llave de sesión activa.`);
-    }
-    
-const userMsgUI = {
-      id: Date.now().toString(),
+    // El sessionId es requerido por tu interfaz DBMessage
+    const currentSessionId = `SESSION-${sessionKey.substring(0, 8)}`;
+
+    // 2. PREPARACIÓN MENSAJE USUARIO
+    const timestampNow = Date.now();
+    const userMsgUI = {
+      id: timestampNow.toString(),
       text,
       isUser: true,
-      timestamp: Date.now()
+      timestamp: timestampNow,
+      displayDate: new Date(timestampNow).toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' })
     };
 
-    // 2. Objeto para la DB (Aquí USAMOS el tipo DBMessage)
-    // Esto quita el error de "value is never read"
     const userMsgDB: DBMessage = {
       id: userMsgUI.id,
       text: userMsgUI.text,
-      isUser: 1, // SQLite: 1 es true
-      timestamp: userMsgUI.timestamp
+      isUser: 1, 
+      timestamp: userMsgUI.timestamp,
+      sessionId: currentSessionId // Inyectamos el sessionId requerido
     };
 
     setMessages(prev => [...prev, userMsgUI]);
-    setIsTyping(true);
 
     try {
-      // Enviamos el objeto tipado correctamente
-      await saveMessage(userMsgDB as any); 
+      // 3. PERSISTENCIA CIFRADA
+      await saveMessage(userMsgDB as any);
 
+      // 4. RESPUESTA DE INTELIGENCIA ARTIFICIAL
       const aiResponseText = await generateResponse(text);
       
+      const aiTimestamp = Date.now();
       const aiMsgUI = {
-        id: (Date.now() + 1).toString(),
+        id: aiTimestamp.toString(),
         text: aiResponseText,
         isUser: false,
-        timestamp: Date.now()
+        timestamp: aiTimestamp,
+        displayDate: new Date(aiTimestamp).toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' })
       };
 
-      // Aquí también USAMOS el tipo
       const aiMsgDB: DBMessage = {
         id: aiMsgUI.id,
         text: aiMsgUI.text,
-        isUser: 0, // SQLite: 0 es false
-        timestamp: aiMsgUI.timestamp
+        isUser: 0,
+        timestamp: aiMsgUI.timestamp,
+        sessionId: currentSessionId // Trazabilidad de la respuesta
       };
 
       setMessages(prev => [...prev, aiMsgUI]);
       await saveMessage(aiMsgDB as any);
 
     } catch (error) {
-      logger.error('[CHAT ERROR]', error);
-    }
+      logger.error('[SEGURIDAD/AI] Fallo en cadena de procesamiento:', error);
     } finally {
       setIsTyping(false);
     }
   };
 
+  // RETORNO DE ESTADOS Y FUNCIONES (Asegura que App.tsx no reciba 'void')
   return {
     messages,
     isTyping,

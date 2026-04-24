@@ -1,6 +1,6 @@
 import { Filesystem, Directory, Encoding } from '@capacitor/filesystem'
 import * as ort from 'onnxruntime-web'
-
+import { logEvent } from '@/core/audit/audit.service';
 // 1. IMPORTACIONES DE SERVICIOS
 import { 
   initializeTokenizer, 
@@ -159,7 +159,7 @@ export async function initializeRAG(): Promise<boolean> {
     });
 
     // C. GESTIÓN CRIPTOGRÁFICA HÍBRIDA (Tu lógica de migración Master -> Dynamic)
-    const dynamicKey = await KeyService.getOrCreateDynamicKey();
+    const dynamicKey = await KeyService.obtenerClaveDinamica();
     const masterKey = KeyService.getMasterKey();
 
     const fileContent = await Filesystem.readFile({
@@ -188,10 +188,28 @@ export async function initializeRAG(): Promise<boolean> {
     }
 
     isInitialized = true;
+    // AUDITORÍA IDÓNEA: Registra el despliegue del conocimiento local
+    await logEvent('RAG_INIT_SUCCESS', {
+      severity: 'info',
+      metadata: { 
+        vectors: corpusMetadata.length,
+        engine: 'ONNX-WASM',
+        security: 'AES-GCM-Dynamic'
+      }
+    });
+
     logger.info(`[RAÍCES RAG] Sistema listo. Chunks activos: ${corpusMetadata.length}`);
     return true;
-  } catch (error) {
+
+} catch (error: any) {
     logger.error('[RAÍCES RAG] Fallo crítico en inicialización:', error);
+    
+    // AUDITORÍA IDÓNEA: Reporta fallo en el acceso al corpus
+    await logEvent('RAG_INIT_FAIL', { 
+      severity: 'error',
+      metadata: { error: error.message || 'Error en motor RAG o Descifrado' }
+    });
+
     isInitialized = false;
     return false;
   }
@@ -213,6 +231,13 @@ export async function retrieveContext(question: string): Promise<RAGResult> {
     .filter(r => r.score >= RAG.MIN_SCORE)
     .sort((a, b) => b.score - a.score)
     .slice(0, RAG.TOP_K)
+await logEvent('RAG_QUERY', {
+    severity: 'info',
+    metadata: { 
+      matches: topResults.length, 
+      best_score: topResults[0]?.score || 0 
+    }
+  });
 
   return {
     chunks: topResults.map(r => r.chunk.texto),

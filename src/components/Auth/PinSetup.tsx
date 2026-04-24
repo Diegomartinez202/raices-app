@@ -1,20 +1,39 @@
+import React, { useState } from 'react';
+import { useRaicesSystem } from '@/hooks/useRaicesSystem';
 
-export const PinSetup = ({ newPin, setNewPin, confirmPin, setConfirmPin, onSave }: any) => (
-  <div className="flex flex-col items-center justify-center h-screen bg-[#F5F1E8] p-6 text-center">
-    <h2 className="text-[#C65D3B] font-bold text-xl mb-4">Configura tu PIN</h2>
-    <p className="text-[12px] text-[#6B5E4F] mb-6">Protege tu información soberana local.</p>
-    <input 
-      type="password" placeholder="Nuevo PIN"
-      className="w-full p-4 mb-2 border rounded-xl text-center" 
-      value={newPin} onChange={e => setNewPin(e.target.value)} 
-    />
-    <input 
-      type="password" placeholder="Confirmar PIN"
-      className="w-full p-4 mb-4 border rounded-xl text-center" 
-      value={confirmPin} onChange={e => setConfirmPin(e.target.value)} 
-    />
-    <button onClick={onSave} className="bg-[#588157] text-white w-full py-4 rounded-xl font-bold active:scale-95 transition-transform">
-      ACTIVAR SEGURIDAD
-    </button>
-  </div>
-);
+export const SetupPin: React.FC = () => {
+  const [pin, setPin] = useState('');
+  const { setupSecurity } = useRaicesSystem();
+
+  const handleCreatePin = async () => {
+    if (pin.length === 6) {
+      const exito = await setupSecurity(pin);
+      if (exito) {
+        // Aquí rediriges al usuario al Chat o Dashboard
+        window.location.reload(); // O usa tu router: navigate('/chat');
+      }
+    }
+  };
+
+  return (
+    <div className="p-6 text-center">
+      <h2 className="text-[#C65D3B] font-bold text-xl">Configura tu Bóveda</h2>
+      <p className="text-sm mb-4">Crea un PIN de 6 dígitos para proteger tus datos.</p>
+      
+      <input 
+        type="password" 
+        maxLength={6}
+        value={pin}
+        onChange={(e) => setPin(e.target.value)}
+        className="border-2 border-[#D4A373] p-2 rounded-xl text-center text-2xl tracking-widest"
+      />
+
+      <button 
+        onClick={handleCreatePin}
+        className="mt-6 bg-[#C65D3B] text-white px-8 py-3 rounded-full font-bold"
+      >
+        GUARDAR PIN SOBERANO
+      </button>
+    </div>
+  );
+};

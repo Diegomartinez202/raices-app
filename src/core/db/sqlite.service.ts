@@ -7,6 +7,7 @@
 import { CapacitorSQLite, SQLiteConnection, SQLiteDBConnection } from '@capacitor-community/sqlite'
 import { SecureStoragePlugin } from 'capacitor-secure-storage-plugin'
 import { getPaths, getSecureKeys, getDBParams, logger } from '@/core/config/config.service'
+import { initializeAudit, logEvent } from '@/core/audit/audit.service';
 
 // --- INTERFACES ---
 const PATHS = getPaths();
@@ -31,10 +32,10 @@ export interface ChatMessage {
 }
 
 // --- ESTADO ---
-let sqlite: SQLiteConnection;
+let sqlite: SQLiteConnection | null = null;
 let db: SQLiteDBConnection | null = null;
 let isInitialized = false;
-let currentSessionId: string = '';
+let currentSessionId: string = "SESSION_PENDING";
 
 // ================================================================
 // SEGURIDAD DE CLAVES (KEYCHAIN / KEYSTORE)
@@ -59,31 +60,46 @@ async function getOrCreateDBKey(): Promise<string> {
 // ================================================================
 
 export async function initializeDB(): Promise<boolean> {
-  if (isInitialized) return true;
+  if (isInitialized && db) return true;
 
   try {
     logger.info('[RAÍCES DB] Inicializando persistencia cifrada...');
+    
+    // 1. Inicializar el motor de SQLite
     sqlite = new SQLiteConnection(CapacitorSQLite);
+    
+    // 2. Obtener o crear la llave criptográfica del hardware
     const dbKey = await getOrCreateDBKey();
 
-    db = await sqlite.createConnection(
+    // 3. Crear la conexión técnica
+    // Usamos sqlite! para asegurar que no es nulo tras la instancia
+    db = await sqlite!.createConnection(
       PATHS.DB_NAME,
       DB_PARAMS.ENCRYPTED,
-      'secret', // Activa SQLCipher
+      'secret', // Password inicial de conexión
       DB_PARAMS.VERSION,
       false
     );
 
+    // 4. Verificación de seguridad para TypeScript
+    if (!db) {
+      throw new Error('No se pudo crear la instancia de base de datos.');
+    }
+
+    // 5. Abrir el túnel de datos
     await db.open();
 
-    // Hardening SQLCipher (Nivel Bancario)
+    // --- 6. HARDENING SQLCIPHER (Nivel Bancario) ---
+    // Aplicamos la seguridad avanzada antes de crear tablas
     await db.execute(`PRAGMA key = '${dbKey}';`);
+    
     if (DB_PARAMS.CIPHER_MEMORY_SECURITY) {
       await db.execute(`PRAGMA cipher_memory_security = ON;`);
     }
+    
     await db.execute(`PRAGMA cipher_default_kdf_iter = ${DB_PARAMS.KDF_ITER};`);
 
-    // Crear tablas con soporte para sesiones y auditoría
+// --- 7. ESTRUCTURA DE DATOS (Ddl) ---
     await db.execute(`
       CREATE TABLE IF NOT EXISTS messages (
         id TEXT PRIMARY KEY NOT NULL,
@@ -93,22 +109,62 @@ export async function initializeDB(): Promise<boolean> {
         source TEXT,
         sessionId TEXT NOT NULL
       );
+      
+      -- TABLA DE AUDITORÍA (Añade esto aquí)
+      CREATE TABLE IF NOT EXISTS audit_logs (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
+        eventType TEXT NOT NULL,
+        severity TEXT NOT NULL,
+        metadata TEXT,
+        sessionId TEXT NOT NULL
+      );
+
       CREATE INDEX IF NOT EXISTS idx_timestamp ON messages(timestamp);
+      CREATE INDEX IF NOT EXISTS idx_audit_type ON audit_logs(eventType); -- Para rapidez en tu query
       CREATE INDEX IF NOT EXISTS idx_session ON messages(sessionId);
     `);
-
-    // ID de sesión único para trazabilidad de la ejecución actual
-    currentSessionId = `SESSION_${Date.now()}`;
+    // --- 8. GESTIÓN DE SESIÓN Y AUDITORÍA SOBERANA ---
+    // Generamos el ID de sesión definitivo para este arranque
+    currentSessionId = `SESS-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
     
+    // Pasamos el control a la auditoría para que use esta misma conexión
+    const auditOk = await initializeAudit(db, currentSessionId);
+
+    // Si la auditoría se inició bien, registramos el éxito del arranque
+    if (auditOk) {
+      await logEvent('DB_INIT_SUCCESS', { 
+        severity: 'info',
+        metadata: { 
+          engine: 'SQLCipher', 
+          iterations: DB_PARAMS.KDF_ITER,
+          mem_security: DB_PARAMS.CIPHER_MEMORY_SECURITY ? 'ON' : 'OFF',
+          session: currentSessionId
+        }
+      });
+    }
+
     isInitialized = true;
     logger.info(`[RAÍCES DB] SQLCipher Activo. Sesión: ${currentSessionId}`);
     return true;
-  } catch (error) {
+
+  } catch (error: any) {
     logger.error('[RAÍCES DB ERROR]', error);
+    
+    // Intentamos registrar el fallo si la base de datos permite el acceso
+    try {
+      await logEvent('DB_INIT_FAIL', { 
+        severity: 'error', 
+        metadata: { error: error.message } 
+      });
+    } catch (auditErr) {
+      // Fallo silencioso: si la DB no abrió, la auditoría no puede escribir
+    }
+
+    isInitialized = false;
     return false;
   }
 }
-
 // ================================================================
 // OPERACIONES (CRUD) - RESTAURADAS
 // ================================================================
@@ -185,9 +241,9 @@ export async function clearAllHistory(): Promise<void> {
  * Retorna la instancia activa de la base de datos
  * Útil para inicializar servicios dependientes como Auditoría
  */
-export function getDatabaseConnection(): SQLiteDBConnection | null {
-  return db;
-}
+export const getDBConnection = () => {
+  return db; // <--- Ahora retorna 'db'
+};
 // ================================================================
 // UTILIDADES Y CIERRE
 // ================================================================
@@ -196,17 +252,29 @@ export function getCurrentSessionId(): string {
   return currentSessionId; 
 }
 
+/**
+ * Verifica el estado operativo de la base de datos.
+ */
 export function isDBReady(): boolean {
   return isInitialized && db !== null;
 }
 
 export async function closeDB(): Promise<void> {
-  if (db) {
-    await db.close();
-    db = null;
+  try {
+    if (db) {
+      await db.close();
+      db = null;
+    }
+    
+    if (sqlite) {
+      // false indica que no borramos el archivo físico, solo cerramos la conexión
+      await sqlite.closeConnection(PATHS.DB_NAME, false);
+    }
+    
+    isInitialized = false;
+    logger.info('[SQLITE] Conexión cerrada y recursos liberados.');
+  } catch (error) {
+    logger.error('[SQLITE] Error al cerrar la conexión:', error);
   }
-  if (sqlite) {
-    await sqlite.closeConnection(PATHS.DB_NAME, false);
-  }
-  isInitialized = false;
 }
+

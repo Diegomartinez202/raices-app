@@ -11,6 +11,8 @@ import { Share } from '@capacitor/share'
 import { getAllMessages, getCurrentSessionId } from '@/core/db/sqlite.service'
 import { sha256 } from 'js-sha256'
 import { getExportParams, getPaths } from '@/core/config/config.service'
+import { logEvent } from '@/core/audit/audit.service';
+
 const EXPORT = getExportParams()
 const PATHS = getPaths()
 
@@ -186,23 +188,34 @@ if (!isUserMsg && msg.source) {
     // 7. GUARDA PDF EN DIRECTORIO PRIVADO
     const fileName = `RAICES_Historial_${Date.now()}.pdf`
     
+    const fileRelativePath = `${PATHS.EXPORTS_DIR}/${fileName}`
+
     // Obtenemos Base64 limpio para Capacitor
     const pdfBase64 = doc.output('datauristring').split(',')[1]
 
 await Filesystem.writeFile({
-  path: `${PATHS.EXPORTS_DIR}/${fileName}`, // ← Usa la ruta centralizada
-  data: pdfBase64,
-  directory: Directory.Documents,
-  recursive: true,
+path: fileRelativePath, 
+      data: pdfBase64,
+      directory: Directory.Documents,
+      recursive: true,
 })
 
+// LEER: Usa la MISMA variable fileRelativePath
     const fileUri = await Filesystem.getUri({
-      path: `exports/${fileName}`,
+      path: fileRelativePath,
       directory: Directory.Documents,
     })
 
     console.log('[RAÍCES EXPORT] PDF generado:', fileUri.uri)
-
+console.log('--- BLINDAJE DE AUDITORÍA: Registrando exportación ---');
+    // --- AUDITORÍA IDÓNEA: Registro de exportación ---
+    await logEvent('EXPORT_PDF', { 
+      severity: 'info', 
+      metadata: { 
+        messageCount: messages.length,
+        shared: shareAfterExport 
+      } 
+    });
     // 8. COMPARTE SI SE SOLICITA
     if (shareAfterExport) {
       await Share.share({
@@ -260,10 +273,24 @@ export async function exportHistoryToJSON(): Promise<string | null> {
       directory: Directory.Documents,
     })
 
+    // AUDITORÍA IDÓNEA: Registro de Backup (Derecho a Portabilidad)
+    await logEvent('EXPORT_JSON', { 
+      severity: 'info', 
+      metadata: { messageCount: cleanMessages.length } 
+    });
+
     return fileUri.uri
-  } catch (error) {
-    console.error('[RAÍCES EXPORT] Error al exportar JSON:', error)
-    return null
+
+} catch (error: any) { // Agrega :any
+    console.error('[RAÍCES EXPORT] Error al exportar JSON:', error);
+    
+    // AGREGA ESTO:
+    await logEvent('ERROR_CRITICAL', { 
+      severity: 'error',
+      metadata: { context: 'EXPORT_JSON', error: error.message } 
+    });
+
+    return null;
   }
 }
 

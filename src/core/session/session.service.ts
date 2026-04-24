@@ -14,7 +14,7 @@ import { unloadRAG } from '@/core/rag/rag.service'
 import { unloadVoy } from '@/core/rag/voy.service'
 import { unloadTokenizer } from '@/core/rag/tokenizer.service'
 import { closeDB } from '@/core/db/sqlite.service'
-
+import { logEvent } from '@/core/audit/audit.service';
 type SessionState = 'unlocked' | 'expired' | 'locked' // Añade 'locked'
 let sessionState: SessionState = 'locked';
 let lastActivityTime: number = Date.now();
@@ -56,6 +56,7 @@ export async function setPIN(pin: string): Promise<boolean> {
 
     await SecureStorage.set({ key: KEYS.APP_PIN, value: hashedPIN })
     logger.info('PIN configurado correctamente')
+    await logEvent('PIN_CREATED', { severity: 'info' });
     return true
   } catch (error) {
     logger.error('Error al guardar PIN:', error)
@@ -126,7 +127,10 @@ export async function authenticateWithBiometric(): Promise<boolean> {
     lastActivityTime = Date.now();
     startInactivityTimer();
     notifyStateChange();
-    
+    await logEvent('SESSION_UNLOCK', { 
+  severity: 'info', 
+  metadata: { method: 'biometric' } 
+});
     return true; 
   } catch (error) {
     logger.warn('Biometría cancelada o falló');
@@ -170,39 +174,59 @@ export async function unlockWithPIN(pin: string): Promise<boolean> {
     startInactivityTimer();
     notifyStateChange();
     logger.info('Sesión desbloqueada con PIN');
+    await logEvent('SESSION_UNLOCK', { 
+  severity: 'info', 
+  metadata: { method: 'pin' } 
+});
     return true;
   }
   
   logger.warn('Intento de desbloqueo con PIN fallido');
+  await logEvent('SESSION_UNLOCK_FAIL', { severity: 'warn' });
   return false;
 }
 /**
  * Inicia sesión desbloqueada - después de PIN o biometría exitosa
  */
 export async function unlockSession(): Promise<void> {
-  sessionState = 'unlocked'
-  lastActivityTime = Date.now()
-  startInactivityTimer()
-  notifyStateChange()
-  logger.info('Sesión desbloqueada')
+  sessionState = 'unlocked';
+  lastActivityTime = Date.now();
+  startInactivityTimer();
+  notifyStateChange();
+  logger.info('Sesión desbloqueada');
+
+  // REGISTRO CORRECTO: Avisamos que la sesión se abrió
+  await logEvent('SESSION_UNLOCK', { 
+    severity: 'info', 
+    metadata: { method: 'automatic_or_resume' } 
+  });
 }
 
 /**
  * Bloquea sesión - descarga modelos de RAM y limpia estado
  */
 export async function lockSession(): Promise<void> {
-  sessionState = 'locked'
-  stopInactivityTimer()
+  // Guardamos la razón ANTES de cambiar el estado a 'locked'
+  const reason = sessionState === 'expired' ? 'timeout' : 'manual';
   
-  // Limpia RAM para liberar memoria y proteger datos
-  unloadLlama()
-  unloadRAG()
-  unloadVoy()
-  unloadTokenizer()
-  await closeDB()
+  sessionState = 'locked'; // Ahora sí bloqueamos
+  stopInactivityTimer();
+  
+  // Limpieza de RAM (lo que ya tenías)
+  unloadLlama();
+  unloadRAG();
+  unloadVoy();
+  unloadTokenizer();
+  await closeDB();
 
-  notifyStateChange()
-  logger.info('Sesión bloqueada. RAM liberada')
+  notifyStateChange();
+  logger.info(`Sesión bloqueada por: ${reason}`);
+
+  // REGISTRO CORRECTO: Avisamos por qué se cerró
+  await logEvent('SESSION_LOCK', { 
+    severity: 'info', 
+    metadata: { reason: reason } 
+  });
 }
 
 /**
@@ -286,25 +310,55 @@ function notifyStateChange(): void {
  * Inicializa listeners de app - pausar/reanudar
  */
 export function initializeSessionListeners(): void {
-  // Cuando la app va a background, registra timestamp
-  App.addListener('appStateChange', ({ isActive }) => {
-    if (!isActive && sessionState === 'unlocked') {
-      logger.info('App en background. Sesión sigue activa.')
-      // No bloqueamos inmediatamente para no frustrar
-    } else if (isActive && sessionState === 'expired') {
-      logger.info('App vuelve a foreground. Sesión expirada.')
-      // lockSession() ya se ejecutó por el timer
-    }
-  })
+  // Listener de cambios de estado (Background/Foreground)
+  App.addListener('appStateChange', async ({ isActive }) => {
+    try {
+      if (!isActive) {
+        // --- LA APP SE PAUSA ---
+        logger.info('App en background.');
+        
+        await logEvent('APP_PAUSE', { 
+          severity: 'info',
+          metadata: { 
+            session_status: sessionState, // 'unlocked', 'locked' o 'expired'
+            last_activity: new Date(lastActivityTime).toISOString()
+          }
+        });
 
-  // Detecta cuando el usuario vuelve después de mucho tiempo
-App.addListener('resume', () => {
-  const now = Date.now();
-  const elapsed = now - lastActivityTime;
-  if (elapsed > APP.SESSION_TIMEOUT_MS) {
-    lockSession(); // Bloqueo forzado por tiempo transcurrido real, no por timer
-  }
-  })
+      } else {
+        // --- LA APP SE REANUDA ---
+        logger.info('App vuelve a foreground.');
+        
+        // Verificamos si al volver la sesión debe morir por tiempo real
+        const now = Date.now();
+        const elapsed = now - lastActivityTime;
+        
+        if (elapsed > APP.SESSION_TIMEOUT_MS && sessionState === 'unlocked') {
+          logger.warn('Tiempo de inactividad superado durante la pausa. Bloqueando...');
+          await lockSession();
+        }
+
+        await logEvent('APP_RESUME', { 
+          severity: 'info',
+          metadata: { 
+            session_status_on_resume: sessionState,
+            inactive_duration_sec: Math.round(elapsed / 1000)
+          }
+        });
+      }
+    } catch (error) {
+      logger.error('Error en auditoría de ciclo de vida:', error);
+    }
+  });
+
+  // Listener de 'resume' (específico para recuperar el foco)
+  App.addListener('resume', () => {
+    const now = Date.now();
+    const elapsed = now - lastActivityTime;
+    if (elapsed > APP.SESSION_TIMEOUT_MS && sessionState === 'unlocked') {
+      lockSession(); 
+    }
+  });
 }
 
 // ================================================================
@@ -320,5 +374,10 @@ export async function clearSession(): Promise<void> {
   await removePIN()
   await SecureStorage.remove({ key: KEYS.BIOMETRIC_ENABLED }).catch(() => {})
   sessionCallbacks = []
+  
+  await logEvent('PANIC_ACTIVATED', { 
+  severity: 'error', 
+  metadata: { action: 'session_wipe' } 
+});
   logger.warn('Sesión completamente eliminada')
 }
