@@ -1,0 +1,42 @@
+[
+  {
+    "id": "jep_comunicados",
+    "nombre": "JEP - Comunicados y Autos",
+    "url": "https://www.jep.gov.co/Sala-de-Prensa/Paginas/Comunicados.aspx",
+    "tipo": "JURIDICO_JEP",
+    "selector_links": ".dfwp-list a",
+    "selector_fecha": ".fecha",
+    "formato_fecha": "dd/MM/yyyy",
+    "base_url": "https://www.jep.gov.co"
+  },
+  {
+    "id": "corte_relatoria",
+    "nombre": "Corte Constitucional - Relatoría",
+    "url": "https://www.corteconstitucional.gov.co/relatoria/",
+    "tipo": "JURIDICO_JEP",
+    "selector_links": ".sentencia a",
+    "selector_fecha": ".fecha-sentencia",
+    "formato_fecha": "yyyy-MM-dd",
+    "base_url": "https://www.corteconstitucional.gov.co"
+  },
+  {
+    "id": "mincomercio_convocatorias",
+    "nombre": "MinComercio - Convocatorias PYMES",
+    "url": "https://www.mincit.gov.co/mipymes/convocatorias",
+    "tipo": "FINANZAS_PYMES",
+    "selector_links": ".convocatoria-item a",
+    "selector_fecha": ".fecha-publicacion",
+    "formato_fecha": "dd/MM/yyyy",
+    "base_url": "https://www.mincit.gov.co"
+  },
+  {
+    "id": "minsalud_mental",
+    "nombre": "MinSalud - Salud Mental",
+    "url": "https://www.minsalud.gov.co/salud/publica/Paginas/salud-mental.aspx",
+    "tipo": "PSICOSOCIAL",
+    "selector_links": ".documento-enlace a",
+    "selector_fecha": ".fecha-doc",
+    "formato_fecha": "yyyy-MM-dd",
+    "base_url": "https://www.minsalud.gov.co"
+  }
+]

@@ -13,7 +13,7 @@ import { unloadLlama } from '@/core/ai/llama.service'
 import { unloadRAG } from '@/core/rag/rag.service'
 import { unloadTokenizer } from '@/core/rag/tokenizer.service'
 import { closeDB, getCurrentSessionId } from '@/core/db/sqlite.service'
-
+import { clearAllSourceFiles } from '@/core/file/file.service';
 // Importación de la "Constitución" de la App
 import { 
   getCriticalPaths, 
@@ -112,6 +112,8 @@ export async function activatePanicMode(): Promise<void> {
     // Borramos logs previos para proteger la privacidad de la usuaria antes del wipe
     await clearAuditLogs(); 
 
+    logger.info('[PÁNICO] Eliminando documentos fuente (PDFs)...');
+    await clearAllSourceFiles().catch(err => logger.error('[PÁNICO] Error borrando PDFs:', err));
     // --- FASE 3: DESTRUCCIÓN FÍSICA DE ARCHIVOS (DoD 5220.22-M) ---
     for (const path of PATHS) {
       await secureOverwriteFile(path);

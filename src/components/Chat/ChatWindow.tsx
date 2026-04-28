@@ -79,7 +79,12 @@ export const ChatWindow: React.FC = () => {
 
   return (
     <div className="chat-window">
-      <Header onExport={handleExport} />
+      <Header 
+  onExport={handleExport} 
+  onUpdateCorpus={() => {}} 
+  onBack={() => {}} 
+  isConfigView={false} 
+/>
 
       <div className="messages-container" ref={scrollBox}>
         {messages.map((msg) => (

@@ -21,19 +21,26 @@ const ChatPage: React.FC<ChatPageProps> = ({ messages, onSend, isLoading = false
   return (
     <div className="flex flex-col h-full bg-[#F5F1E8]">
       {/* Área de Mensajes */}
-      <main className="flex-1 overflow-y-auto p-4 space-y-4">
-        {messages.map((msg) => (
-          // Usamos el componente ya migrado a React
-          <ChatBubble key={msg.id} message={msg} />
-        ))}
+<main className="flex-1 overflow-y-auto p-4 space-y-4">
+  {messages.map((msg) => (
+    <ChatBubble 
+      key={msg.id} 
+      message={{
+        ...msg,
+        isUser: Boolean(msg.isUser) // Forzamos booleano por seguridad
+      }} 
+    />
+  ))}
         
-        {/* Indicador de carga visual para el usuario */}
-        {isLoading && (
-          <div className="text-[10px] text-[#C65D3B] italic animate-pulse">
-            RAÍCES está consultando el corpus...
-          </div>
-        )}
-      </main>
+{isLoading && (
+    <div className="flex items-center gap-2 px-2">
+      <div className="w-1.5 h-1.5 bg-[#C65D3B] rounded-full animate-bounce" />
+      <div className="text-[10px] text-[#C65D3B] font-medium animate-pulse uppercase tracking-wider">
+        RAÍCES consultando corpus local...
+      </div>
+    </div>
+  )}
+</main>
       
       {/* Footer con el Input y lema de soberanía */}
       <footer className="p-4 bg-white border-t border-[#D4A373]/20">

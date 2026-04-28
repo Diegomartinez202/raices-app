@@ -14,6 +14,8 @@ const APP_CONFIG = {
   ENV: (import.meta.env.MODE as 'development' | 'production') || 'development',
   LOG_LEVEL: (import.meta.env.VITE_LOG_LEVEL as 'debug' | 'info' | 'warn' | 'error') || 'info',
   SESSION_TIMEOUT_MS: 30 * 60 * 1000,
+  WIPE_PASSES: 3,           // Mínimo 3 pases para DoD 5220.22-M
+  WIPE_TIMEOUT_MS: 5000,     // Tiempo máximo para completar el protocolo de pánico
 };
 
 const PATHS = {
@@ -29,6 +31,7 @@ const PATHS = {
   DB_DIR: 'db',
   SOURCES_DIR: 'sources', // <--- AGREGAR ESTA LÍNEA
   AUDIT_LOGS: 'logs/audit.db',
+  EXPORTS_DIR: 'exports',
 };
 
 const SECURE_KEYS = {
@@ -45,6 +48,7 @@ const LLM_PARAMS = {
 };
 
 const RAG_PARAMS = {
+  EMBEDDING_MODEL_NAME: 'Xenova/all-MiniLM-L6-v2',
   EMBEDDING_DIM: 384,
   TOP_K: 3,
   MIN_SCORE: 0.3,
@@ -75,8 +79,11 @@ const DB_PARAMS = {
 
 const EXPORT_PARAMS = {
   COLORS: {
-    TERRACOTA: '#C65D3B',
-    FONDO: '#F5F1E8',
+    TERRACOTA: '#9D482B',
+    FONDO: '#F4F1EA',
+    OCRE: '#D4A373',   // Agregado
+    MEDIO: '#6C757D',  // Agregado
+    OSCURO: '#212529'  // Agregado
   }
 };
 
@@ -87,7 +94,14 @@ const EXPORT_PARAMS = {
 export const getAppConfig = () => ({ ...APP_CONFIG });
 export const getPaths = () => ({ ...PATHS });
 export const getSecureKeys = () => ({ ...SECURE_KEYS });
-export const getLLMParams = () => ({ ...LLM_PARAMS });
+export const getLLMParams = () => ({
+  CONTEXT_SIZE: 2048,
+  THREADS: 4,
+  TEMPERATURE: 0.7,
+  N_PREDICT: 512,  // <--- AÑADE ESTO
+  TOP_K: 40,       // <--- AÑADE ESTO
+  TOP_P: 0.95,     // <--- AÑADE ESTO
+});
 export const getRAGParams = () => ({ ...RAG_PARAMS });
 export const getVoyParams = () => ({ ...VOY_PARAMS });
 export const getTelemetryParams = () => ({ ...TELEMETRY_PARAMS });
@@ -144,3 +158,56 @@ export function validateConfig(): void {
 
   logger.info(`Configuración v${APP_CONFIG.VERSION} cargada exitosamente [MODO VOY]`);
 }
+
+export function getCriticalPaths(): string[] {
+  return [
+    PATHS.DB_PATH,           // Usa la constante que ya tienes arriba
+    PATHS.AUDIT_LOGS,        // Borra los logs de auditoría
+    'settings.json',         // Configuraciones locales
+    'capacitor_storage.db'   // Almacenamiento interno de Capacitor
+  ];
+}
+
+export function getCriticalDirs(): string[] {
+  return [
+    PATHS.SOURCES_DIR,       // Carpeta de los PDFs
+    PATHS.CORPUS_DIR,        // Carpeta de los Embeddings/Vectores
+    'cache',
+    'audit'
+  ];
+}
+
+// Función para verificar si han pasado más de 30 días
+export function shouldUpdateCorpus(): boolean {
+  // Obtenemos la constante de ciclos de actualización (30 días)
+  const UPDATE_CYCLE_DAYS = 30;
+  const LAST_UPDATE_KEY = 'raices_last_corpus_update';
+
+  const lastUpdate = localStorage.getItem(LAST_UPDATE_KEY);
+  
+  // Si no hay fecha (primera vez), marcamos que requiere actualización
+  if (!lastUpdate) return true;
+  
+  // Calculamos la diferencia en días
+  const daysSince = (Date.now() - parseInt(lastUpdate)) / (1000 * 60 * 60 * 24);
+  
+  return daysSince >= UPDATE_CYCLE_DAYS;
+}
+
+// Función para marcar que el usuario ya actualizó hoy
+export function markCorpusUpdated(): void {
+  const LAST_UPDATE_KEY = 'raices_last_corpus_update';
+  localStorage.setItem(LAST_UPDATE_KEY, Date.now().toString());
+}
+// Asegúrate de que esta función exista y tenga el 'export'
+export const getRaicesDomains = () => ({
+  ALLOWED: [
+    'JURIDICO_JEP', 
+    'FINANZAS_PYMES', 
+    'PSICOSOCIAL'
+  ],
+  REJECT_MESSAGE: `Estoy aquí para acompañarte...`, // (tu mensaje largo)
+  DISCLAIMER: `RAÍCES te da orientación general...`, // (tu disclaimer)
+  UPDATE_CYCLE_DAYS: 30,
+  LAST_UPDATE_KEY: 'raices_last_corpus_update',
+});

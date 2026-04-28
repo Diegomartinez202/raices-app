@@ -31,7 +31,7 @@ export async function generateEmbeddings(text: string): Promise<number[]> {
   try {
     if (!extractor) {
       // Usamos el nombre del modelo definido en RAG_PARAMS (all-MiniLM-L6-v2)
-      extractor = await pipeline('feature-extraction', RAG.EMBEDDING_MODEL_NAME);
+      extractor = await pipeline('feature-extraction', RAG.EMBEDDING_MODEL_NAME as string);
     }
     const output = await extractor(text, { pooling: 'mean', normalize: true });
     return Array.from(output.data);

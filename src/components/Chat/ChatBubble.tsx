@@ -27,9 +27,9 @@ export const ChatBubble: React.FC<ChatBubbleProps> = ({ message }) => {
         <p className="text">{message.text}</p>
         
         {/* Lógica condicional: en React usamos && */}
-        {!message.isUser && message.sources && message.sources.length > 0 && (
-          <SourceBadge source={message.sources[0]} />
-        )}
+{!message.isUser && message.sources?.map((src, index) => (
+  <SourceBadge key={index} source={src} />
+))}
 
         <p className={`time ${message.isUser ? 'text-right' : 'text-left'}`}>
           {formatTime(message.timestamp)}

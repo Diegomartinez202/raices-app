@@ -3,7 +3,6 @@
  * El orden de los imports y ejecuciones aquí es CRÍTICO para la seguridad.
  */
 import { initializeTelemetryBlock, injectCSP } from '@/core/security/telemetry-block.service';
-
 // 1. BLOQUEO INMEDIATO: Antes de cualquier importación de React o lógica de App
 initializeTelemetryBlock();
 injectCSP();

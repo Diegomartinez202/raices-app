@@ -56,24 +56,29 @@ async function extractTextFromPDF(pdfPath: string): Promise<{ page: number; text
       bytes[i] = binaryString.charCodeAt(i);
     }
 
-    // EL CAMBIO ESTÁ AQUÍ:
     const pdf = await pdfjs.getDocument({ data: bytes }).promise; 
     const pages: { page: number; text: string }[] = [];
 
+    // Bucle con tolerancia a fallos por página
     for (let i = 1; i <= pdf.numPages; i++) {
-      const page = await pdf.getPage(i);
-      const textContent = await page.getTextContent();
-      const text = textContent.items
-        .map((item: any) => item.str)
-        .join(' ');
-      
-      if (text.trim().length > 50) {
-        pages.push({ page: i, text });
+      try {
+        const page = await pdf.getPage(i);
+        const textContent = await page.getTextContent();
+        const text = textContent.items
+          .map((item: any) => item.str)
+          .join(' ');
+        
+        if (text.trim().length > 50) {
+          pages.push({ page: i, text });
+        }
+      } catch (pageError) {
+        logger.warn(`[INDEX] Error en página ${i} de ${pdfPath}, saltando...`, pageError);
+        continue; 
       }
     }
     return pages;
   } catch (error) {
-    logger.error('[INDEX] Error al extraer PDF:', error);
+    logger.error('[INDEX] Error crítico al extraer PDF:', error);
     throw error;
   }
 }
@@ -135,6 +140,7 @@ function chunkText(
       startChar,
       endChar: startChar + currentChunk.length,
       tokenCount: Math.ceil(currentChunk.length / 4),
+
     })
   }
 
@@ -155,10 +161,12 @@ async function buildVoyIndex(
   if (!isTokenizerReady()) await initializeTokenizer();
 
   const total = chunks.length;
-  const voyData: any[] = []; // Especificamos tipo para evitar error 'never'
+  const voyData: any[] = [];
 
   for (let i = 0; i < chunks.length; i++) {
     const chunk = chunks[i];
+    
+    // Reporte de progreso cada 10 chunks
     if (i % 10 === 0 && onProgress) {
       onProgress({
         stage: 'embedding',
@@ -168,17 +176,26 @@ async function buildVoyIndex(
       });
     }
 
-    const embedding = await getEmbedding(chunk.text, true);
+    // MEJORA ANTI-CORRUPCIÓN: Limpieza profunda de caracteres
+    const cleanText = chunk.text
+      .replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F\uFFFD]/g, "") 
+      .replace(/\s+/g, " ") 
+      .trim();
+
+    // Si después de limpiar el texto queda muy corto, lo saltamos
+    if (cleanText.length < 10) continue;
+
+    const embedding = await getEmbedding(cleanText, true);
+    
     voyData.push({
       id: chunk.id,
       embeddings: Array.from(embedding),
       title: chunk.source,
       page: chunk.page,
-      text: chunk.text
+      text: cleanText 
     });
   }
 
-  // Serializamos para guardar
   return JSON.stringify({ bindings: voyData });
 }
 // ================================================================
@@ -195,17 +212,27 @@ async function encryptCorpus(
 ): Promise<Uint8Array> {
   onProgress?.({ stage: 'encrypting', current: 0, total: 1, message: 'Cifrando datos...' });
 
+  // FILTRO DE SEGURIDAD: Solo chunks con contenido real
+  const validMetadata = metadata.filter(m => m.text.trim().length > 20);
+  
   const keyBase64 = import.meta.env.VITE_CORPUS_KEY;
   const keyBuffer = Uint8Array.from(atob(keyBase64), c => c.charCodeAt(0));
   
   const cryptoKey = await window.crypto.subtle.importKey(
-    'raw', keyBuffer, { name: 'AES-GCM' }, false, ['encrypt']
+    'raw', 
+    keyBase64 ? keyBuffer : new Uint8Array(32), 
+    { name: 'AES-GCM' }, 
+    false, 
+    ['encrypt']
+  
   );
 
-  const plaintext = JSON.stringify(metadata);
+  const plaintext = JSON.stringify(validMetadata);
   const iv = window.crypto.getRandomValues(new Uint8Array(12));
   const encrypted = await window.crypto.subtle.encrypt(
-    { name: 'AES-GCM', iv }, cryptoKey, new TextEncoder().encode(plaintext)
+    { name: 'AES-GCM', iv }, 
+    cryptoKey, 
+    new TextEncoder().encode(plaintext)
   );
 
   const result = new Uint8Array(iv.length + encrypted.byteLength);
@@ -229,7 +256,6 @@ export async function indexPDF(
   try {
     logger.info(`[INDEX] Iniciando pipeline soberano para ${pdfPath}`);
     
-    // Auditoría: Inicio del proceso
     await logEvent('INDEX_START', {
       severity: 'info',
       metadata: { file: pdfPath }
@@ -240,7 +266,7 @@ export async function indexPDF(
     const pages = await extractTextFromPDF(pdfPath);
     if (pages.length === 0) throw new Error('El PDF no contiene texto legible.');
 
-    // 2. Chunking (Segmentación de ideas)
+    // 2. Chunking
     onProgress?.({ stage: 'chunking', current: 0, total: pages.length, message: 'Segmentando contenido...' });
     const allChunks: ChunkMetadata[] = [];
     const sourceName = pdfPath.split('/').pop() || 'doc';
@@ -249,15 +275,13 @@ export async function indexPDF(
       allChunks.push(...chunkText(page.text, sourceName, page.page));
     });
 
-    // 3. Generar Índice Voy (Vectores)
+    // 3. Generar Índice Voy
     const voyIndexSerialized = await buildVoyIndex(allChunks, onProgress);
 
-    // 4. Cifrado del Corpus (Metadata)
-    // Nota: Aquí usamos el JSON de los chunks para el sistema RAG
+    // 4. Cifrado del Corpus
     const encryptedCorpus = await encryptCorpus(allChunks, onProgress);
 
-    // 5. Persistencia en Almacenamiento Local (Capacitor Filesystem)
-    // Guardamos el índice vectorial (embeddings.json)
+    // 5. Persistencia
     await Filesystem.writeFile({
       path: PATHS.CORPUS_JSON,
       data: voyIndexSerialized,
@@ -266,7 +290,6 @@ export async function indexPDF(
       recursive: true
     });
 
-    // Guardamos el corpus cifrado (jep_corpus.json.enc)
     await Filesystem.writeFile({
       path: PATHS.CORPUS_ENCRYPTED,
       data: btoa(String.fromCharCode(...encryptedCorpus)),
@@ -276,7 +299,6 @@ export async function indexPDF(
 
     const elapsed = (performance.now() - startTime) / 1000;
 
-    // Auditoría: Éxito total
     await logEvent('INDEX_SUCCESS', {
       severity: 'info',
       metadata: { 
@@ -291,15 +313,14 @@ export async function indexPDF(
 
   } catch (error: any) {
     logger.error('[INDEX_FAIL]', error);
-    
     await logEvent('INDEX_FAIL', {
       severity: 'error',
       metadata: { pdf: pdfPath, error: error.message }
     });
-    
     return false;
   }
 }
+
 /**
  * Indexa múltiples PDFs en lote
  */
@@ -307,25 +328,18 @@ export async function indexMultiplePDFs(
   pdfPaths: string[],
   onProgress?: ProgressCallback
 ): Promise<{ success: string[]; failed: string[] }> {
-  const success: string[] = []
-  const failed: string[] = []
+  const success: string[] = [];
+  const failed: string[] = [];
 
   for (let i = 0; i < pdfPaths.length; i++) {
-    const path = pdfPaths[i]
-    onProgress?.({
-      stage: 'extracting',
-      current: i,
-      total: pdfPaths.length,
-      message: `Procesando ${i + 1}/${pdfPaths.length}: ${path}`,
-    })
-
-    const ok = await indexPDF(path, onProgress)
+    const path = pdfPaths[i];
+    const ok = await indexPDF(path, onProgress);
     if (ok) {
-      success.push(path)
+      success.push(path);
     } else {
-      failed.push(path)
+      failed.push(path);
     }
   }
 
-  return { success, failed }
+  return { success, failed };
 }

@@ -33,25 +33,35 @@ export const InfraService = {
    * Asegura que el archivo de conocimiento (embeddings.json) esté en el área de datos segura.
    * Soberanía Informativa: Extrae el conocimiento del APK hacia el almacenamiento privado.
    */
-  async asegurarCorpusLocal(): Promise<void> {
+async asegurarCorpusLocal(): Promise<void> {
     const CORPUS_PATH = 'corpus/embeddings.json';
 
     try {
+      // 1. Verificar si ya existe en el almacenamiento privado
       await Filesystem.stat({
         path: CORPUS_PATH,
         directory: Directory.Data
       });
-      logger.info('[INFRA] Corpus de conocimiento ya presente en almacenamiento seguro.');
+      logger.info('[INFRA] Corpus detectado en zona segura.');
     } catch (e) {
-      logger.info('[INFRA] Primera ejecución: Extrayendo corpus desde los assets...');
+      logger.info('[INFRA] Hidratando corpus desde semilla institucional...');
       
       try {
-        // En Capacitor, usamos fetch para leer assets locales de manera eficiente
-        const response = await fetch('assets/corpus/embeddings.json');
-        if (!response.ok) throw new Error('No se encontró el corpus en los assets.');
+        // 2. Leer la semilla desde la carpeta pública (defaults)
+        // Usamos la ruta relativa que Capacitor entiende en el despliegue
+        const response = await fetch('/defaults/corpus_base.json');
+        
+        if (!response.ok) {
+           // Si falla la carpeta nueva, intentamos la ruta por defecto por si acaso
+           logger.warn('[INFRA] Carpeta /defaults no hallada, intentando fallback...');
+           const fallback = await fetch('assets/corpus/embeddings.json');
+           if (!fallback.ok) throw new Error('No se encontró archivo semilla.');
+           return; 
+        }
         
         const data = await response.text();
 
+        // 3. Escribir en el almacenamiento privado del dispositivo
         await Filesystem.writeFile({
           path: CORPUS_PATH,
           data: data,
@@ -60,14 +70,13 @@ export const InfraService = {
           encoding: Encoding.UTF8
         });
         
-        logger.info('[INFRA] Corpus "hidratado" correctamente en el dispositivo.');
+        logger.info('[INFRA] Corpus hidratado con éxito desde semilla.');
       } catch (error) {
-        logger.error('[INFRA] Error crítico al extraer el corpus:', error);
+        logger.error('[INFRA] Error crítico en hidratación:', error);
         throw error;
       }
     }
   },
-
   /**
    * Ancla el modelo de IA (GGUF) al hardware.
    * Necesario para que el motor WASM de Llama pueda realizar inferencia local.

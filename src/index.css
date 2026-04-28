@@ -1,53 +1,83 @@
+/**
+ * RAÍCES - Sistema de Diseño Integrado
+ * Fusión de Experiencia Nativa + Diseño Trauma-informado
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Merriweather:wght@400;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
+:root {
+  /* Paleta Maestra RAÍCES */
+  --raices-terracota: #C65D3B;
+  --raices-terracota-dark: #A04A2F;
+  --raices-verde: #588157;
+  --raices-verde-dark: #3A5A40;
+  --raices-arena: #F5F1E8;
+  --raices-arena-dark: #E8E0D0;
+  --raices-carbon: #2D2A26;
+  --raices-piedra: #6B5E4F;
+  --raices-dorado: #D4A373;
+  
+  /* Tipografía */
+  --font-sans: 'Inter', -apple-system, system-ui, sans-serif;
+  --font-serif: 'Merriweather', Georgia, serif;
+
+  /* Tokens de UI */
+  --radius-lg: 0.75rem;
+  --radius-xl: 1rem;
+  --shadow-md: 0 4px 6px -1px rgba(45, 42, 38, 0.1);
+}
+
 @layer base {
   html {
-    font-family: 'Inter', system-ui, sans-serif;
-    font-size: 16px; /* WCAG AA - mínimo legible */
+    font-family: var(--font-sans);
+    font-size: 16px;
     -webkit-tap-highlight-color: transparent;
+    scroll-behavior: smooth;
   }
 
   body {
-    @apply bg-[#F5F1E8] text-[#2D2A26];
-    overscroll-behavior: none; /* Evita rebote en iOS */
+    background-color: var(--raices-arena);
+    color: var(--raices-carbon);
+    overscroll-behavior: none; /* Evita rebote en iOS/Android */
+    min-height: 100vh;
+    -webkit-font-smoothing: antialiased;
   }
 
-  /* Evita selección de texto para dar sensación de app nativa */
-    * {
+  /* SENSACIÓN DE APP NATIVA: Bloquea selección global excepto en escritura */
+  * {
     -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
     user-select: none;
   }
 
-  /* Permitir selección solo en inputs */
-  input, textarea {
+  input, textarea, [contenteditable="true"], .selectable {
     -webkit-user-select: text;
-    -moz-user-select: text;
-    -ms-user-select: text;
     user-select: text;
+  }
+
+  h1, h2, h3, .font-title {
+    font-family: var(--font-serif);
+    font-weight: 700;
   }
 }
 
 @layer components {
-  /* Colores RAÍCES como clases de utilidad */
- .bg-raices-terracota { @apply bg-[#C65D3B]; }
- .bg-raices-ocre { @apply bg-[#D4A373]; }
- .bg-raices-verde { @apply bg-[#588157]; }
- .bg-raices-fondo { @apply bg-[#F5F1E8]; }
- .text-raices-oscuro { @apply text-[#2D2A26]; }
- .text-raices-medio { @apply text-[#6B5E4F]; }
-}
-
-.spinner {
-  border: 4px solid rgba(198, 93, 59, 0.1);
-  width: 36px;
-  height: 36px;
-  border-radius: 50%;
-  border-left-color: #C65D3B;
-  animation: spin 1s linear infinite;
+  /* Clases de utilidad personalizadas para tu código anterior */
+  .bg-raices-terracota { background-color: var(--raices-terracota); }
+  .bg-raices-verde { background-color: var(--raices-verde); }
+  
+  /* El Spinner de carga que ya tenías (es excelente) */
+  .spinner {
+    border: 4px solid rgba(198, 93, 59, 0.1);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    border-left-color: var(--raices-terracota);
+    animation: spin 1s linear infinite;
+  }
 }
 
 @keyframes spin {
@@ -55,30 +85,25 @@
   100% { transform: rotate(360deg); }
 }
 
-@import './theme/fonts.css';
-
-body {
-  font-family: 'RaicesBody', sans-serif;
+/* CHAT BUBBLES - Optimizadas para la jerarquía visual */
+.bubble-ai {
+  background-color: white;
+  border: 1px solid var(--raices-dorado);
+  border-radius: var(--radius-lg);
+  border-bottom-left-radius: 4px;
 }
 
-h1, h2, .raices-header {
-  font-family: 'RaicesTitle', sans-serif;
-}
-:root {
-  /* Stack de fuentes idóneo: sans-serif nativo de alta legibilidad */
-  --font-raices: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-}
-
-body {
-  margin: 0;
-  font-family: var(--font-raices);
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #F5F1E8; /* El color crema de RAÍCES */
+.bubble-user {
+  background-color: var(--raices-terracota);
+  color: white;
+  border-radius: var(--radius-lg);
+  border-bottom-right-radius: 4px;
 }
 
-h1, h2, h3, .font-title {
-  font-family: var(--font-raices);
-  font-weight: 700;
-  letter-spacing: -0.025em;
+/* Accesibilidad: Reducción de movimiento */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
 }

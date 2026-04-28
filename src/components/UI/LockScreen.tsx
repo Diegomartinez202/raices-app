@@ -18,15 +18,22 @@ const handleUnlock = async () => {
   }
 };
 
-  return (
-    <div className="flex flex-col items-center justify-center h-screen bg-[#F5F1E8] p-6 text-center">
-      {/* Icono de Candado Soberano */}
-      <div className={`w-20 h-20 rounded-full mb-8 flex items-center justify-center border-2 transition-all ${error ? 'border-red-500 animate-shake' : 'border-[#C65D3B]'}`}>
-        <span className="text-3xl">🔒</span>
+return (
+<div className="flex flex-col items-center justify-center h-screen bg-raices-crema p-6 text-center">
+      
+      {/* EL LOGO SOBERANO */}
+      <div className={`mb-6 transition-all duration-300 ${error ? 'animate-shake' : 'hover:scale-105'}`}>
+        <img 
+          src="/icon/logo.png" 
+          alt="RAÍCES" 
+          className="w-28 h-28 object-contain drop-shadow-xl rounded-2xl border-2 border-raices-terracota/10"
+        />
       </div>
 
-      <h2 className="text-[#C65D3B] font-bold text-2xl mb-2 tracking-tight">BÓVEDA BLOQUEADA</h2>
-      <p className="text-[#6B5E4F] text-sm mb-8">Ingrese su PIN de seguridad para acceder a RAÍCES</p>
+      <h2 className="text-raices-terracota font-bold text-3xl mb-1 tracking-tighter">RAÍCES</h2>
+      <p className="text-[10px] text-raices-soft uppercase tracking-[0.4em] mb-8 font-black opacity-80">
+        Bóveda de Seguridad Local
+      </p>
 
       {/* Input de PIN */}
       <input
@@ -46,8 +53,8 @@ const handleUnlock = async () => {
         DESBLOQUEAR
       </button>
 
-      <p className="text-[10px] mt-12 opacity-40 uppercase tracking-[0.2em] text-[#6B5E4F]">
-        Tecnología Soberana - JEP
+<p className="mt-12 text-[9px] text-raices-soft opacity-40 tracking-widest uppercase font-bold">
+        Justicia y Verdad · 2026
       </p>
     </div>
   );

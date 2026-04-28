@@ -37,8 +37,20 @@ export type AuditEventType =
   | 'INDEX_START'     
   | 'INDEX_SUCCESS'  
   | 'INDEX_FAIL'     
-  | 'TELEMETRY_BLOCK_INIT'; 
-  
+  | 'TELEMETRY_BLOCK_INIT'
+  | 'FILE_UPLOAD_SUCCESS'
+  | 'FILE_UPLOAD_FAIL'
+  | 'FILE_DELETE'
+  | 'FILE_DELETE_FAIL'
+  | 'CONFIG_CHANGE' // Cambio en configuración (ej. PIN, biometría)
+  | 'SECURITY_ALERT' // Evento de seguridad relevante (ej. múltiples intentos fallidos de PIN)
+  | 'SESSION_TIMEOUT' // Sesión bloqueada por timeout
+  | 'SESSION_MANUAL_LOCK' // Usuario bloqueó manualmente la sesión
+  | 'SESSION_MANUAL_UNLOCK' // Usuario desbloqueó manualmente la sesión
+  | 'CRYPTO_KEY_ROTATION' // Rotación de claves criptográficas
+  | 'AUDIT_LOG_CLEARED' // Logs de auditoría borrados (pánico o limpieza)
+  | 'AUDIT_LOG_EXPORT' // Logs de auditoría exportados
+  | 'QUERY_REJECTED_DOMAIN'
 
 export interface AuditLog {
   id: string
