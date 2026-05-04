@@ -1,114 +1,97 @@
+// @ts-nocheck
 import * as fs from 'fs';
 import * as path from 'path';
-// @ts-ignore
-import pdf from 'pdf-parse';
+import { createRequire } from 'module';
+
+const require = createRequire(import.meta.url);
 
 /**
- * RAÍCES - Extractor de Texto para Corpus Soberano
- * Traducido a TypeScript para integración nativa con raices-app
+ * RAÍCES - Extractor de Texto (Versión Inteligente)
  */
 
 const CONFIG = {
-    INPUT_DIR: "docs/fuentes_raw",
+    // Ajustado a la carpeta donde tienes los archivos nuevos
+    INPUT_DIR: "docs/fuentes_raw", 
     OUTPUT_DIR: "docs/fuentes_txt",
-    MIN_CHARS_PER_PAGE: 100,
+    MIN_CHARS: 100
 };
 
-const JUNK_PATTERNS = [
-    /^\s*Página \d+ de \d+\s*$/i,
-    /^\s*www\.jep\.gov\.co\s*$/i,
-    /^\s*Bogotá D\.C\.,.*\d{4}\s*$/i,
-    /^\s*República de Colombia\s*$/i,
-    /^\s*Rama Judicial.*\s*$/i,
-    /^\s*-\s*\d+\s*-\s*$/i,
-];
-
-function cleanText(text: string): string {
-    const lines = text.split('\n');
-    const cleanLines = lines.filter(line => {
-        const trimmed = line.trim();
-        const isJunk = JUNK_PATTERNS.some(pattern => pattern.test(trimmed));
-        return !isJunk && trimmed.length > 0;
-    });
-
-    let cleaned = cleanLines.join('\n');
-    cleaned = cleaned.replace(/ +/g, ' ');
-    cleaned = cleaned.replace(/\n{3,}/g, '\n\n');
-    return cleaned.trim();
-}
-
-function validateFilename(filename: string): boolean {
-    const pattern = /^[A-Z]+_\d{4}_[A-Za-z0-9_]+\.pdf$/;
-    if (!pattern.test(filename)) {
-        console.log(`  ⚠️  AVISO: ${filename} no sigue formato FUENTE_ANO_TEMA.pdf`);
-        return false;
-    }
-    return true;
-}
-
-async function extractPdfToTxt(pdfPath: string, outputPath: string): Promise<boolean> {
+async function processPdf(pdfPath: string, outputPath: string) {
     try {
-        const dataBuffer = fs.readFileSync(pdfPath);
-        const data = await pdf(dataBuffer);
+        const buffer = fs.readFileSync(pdfPath);
+        const lib = require('pdf-parse');
+        let data;
+        
+        if (typeof lib === 'function') {
+            data = await lib(buffer);
+        } else if (lib.default && typeof lib.default === 'function') {
+            data = await lib.default(buffer);
+        } else {
+            const func = Object.values(lib).find(v => typeof v === 'function') as Function;
+            if (!func) throw new Error("No se encontró la función de extracción");
+            data = await func(buffer);
+        }
 
-        if (data.text.trim().length < CONFIG.MIN_CHARS_PER_PAGE) {
-            console.log(`  ❌ ERROR: No se extrajo texto útil de ${path.basename(pdfPath)}`);
+        if (!data.text || data.text.length < CONFIG.MIN_CHARS) {
+            console.log(`  ⚠️  ${path.basename(pdfPath)}: Sin texto suficiente.`);
             return false;
         }
 
-        const cleaned = cleanText(data.text);
-        
-        if (!fs.existsSync(path.dirname(outputPath))) {
-            fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+        const cleanText = data.text
+            .replace(/\n\s*\n/g, '\n\n')
+            .replace(/[ \t]+/g, ' ')
+            .trim();
+
+        if (!fs.existsSync(CONFIG.OUTPUT_DIR)) {
+            fs.mkdirSync(CONFIG.OUTPUT_DIR, { recursive: true });
         }
-        
-        fs.writeFileSync(outputPath, cleaned, 'utf-8');
-        console.log(`  ✅ ${path.basename(pdfPath)} → ${path.basename(outputPath)} | ${cleaned.length} chars`);
+
+        fs.writeFileSync(outputPath, cleanText, 'utf-8');
+        console.log(`  ✅ ${path.basename(pdfPath)} -> Procesado`);
         return true;
 
-    } catch (e) {
-        console.error(`  ❌ ERROR procesando ${path.basename(pdfPath)}: ${e}`);
+    } catch (err) {
+        console.error(`  ❌ Error en ${path.basename(pdfPath)}:`, err.message);
         return false;
     }
 }
 
 async function main() {
-    console.log("[RAÍCES] Iniciando extracción de texto desde PDFs (Versión TS)...");
-
-    const inputDir = CONFIG.INPUT_DIR;
-    const outputDir = CONFIG.OUTPUT_DIR;
-
-    if (!fs.existsSync(inputDir)) {
-        fs.mkdirSync(inputDir, { recursive: true });
-        console.log(`❌ No hay carpeta de entrada en ${inputDir}. Creada automáticamente.`);
+    console.log("\n[RAÍCES] Iniciando procesamiento de documentos...\n");
+    
+    if (!fs.existsSync(CONFIG.INPUT_DIR)) {
+        console.log(`❌ La carpeta '${CONFIG.INPUT_DIR}' no existe.`);
         return;
     }
 
-    const files = fs.readdirSync(inputDir).filter(f => f.endsWith('.pdf'));
-
+    const files = fs.readdirSync(CONFIG.INPUT_DIR).filter(f => f.toLowerCase().endsWith('.pdf'));
+    
     if (files.length === 0) {
-        console.log(`❌ No hay PDFs en ${inputDir}`);
+        console.log("❌ No se encontraron archivos PDF nuevos.");
         return;
     }
 
-    console.log(`[1/2] Encontrados ${files.length} PDFs para procesar...`);
     let success = 0;
+    let skipped = 0;
 
     for (const file of files) {
-        const pdfPath = path.join(inputDir, file);
-        const txtName = path.parse(file).name + ".txt";
-        const outputPath = path.join(outputDir, txtName);
+        const fullPath = path.join(CONFIG.INPUT_DIR, file);
+        const outPath = path.join(CONFIG.OUTPUT_DIR, file.replace('.pdf', '.txt'));
 
-        console.log(`\nProcesando: ${file}`);
-        validateFilename(file);
-
-        if (await extractPdfToTxt(pdfPath, outputPath)) {
-            success++;
+        // Salta archivos que ya procesamos antes
+        if (fs.existsSync(outPath)) {
+            console.log(`  ⏩ Saltando: ${file} (ya existe el .txt)`);
+            skipped++;
+            continue;
         }
+
+        if (await processPdf(fullPath, outPath)) success++;
     }
 
-    console.log(`\n[2/2] Extracción completada.`);
-    console.log(`✅ Éxito: ${success}/${files.length} archivos convertidos a .txt`);
+    console.log(`\n🎉 Resumen:`);
+    console.log(`   ✅ Nuevos convertidos: ${success}`);
+    console.log(`   ⏩ Ya existentes: ${skipped}`);
+    console.log(`   📊 Total analizados: ${files.length}`);
 }
 
 main();

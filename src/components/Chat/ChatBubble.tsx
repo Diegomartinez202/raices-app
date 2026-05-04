@@ -21,16 +21,42 @@ export const ChatBubble: React.FC<ChatBubbleProps> = ({ message }) => {
     return date.toLocaleTimeString('es-CO', { hour: '2-digit', minute: '2-digit' });
   };
 
+  // NUEVA MEJORA: Función para resaltar leyes y decretos con colores de seguridad (Verde Bosque)
+  const renderFormattedText = (text: string) => {
+    return text.split('\n').map((line, i) => {
+      // Si la línea contiene palabras legales, le damos un estilo de fuente segura y fuerte
+      const isLegalRef = /Auto|Ley|Decreto|Sentencia|Corte|Artículo|Párrafo/i.test(line);
+      
+      return (
+        <span 
+          key={i} 
+          style={{ 
+            color: isLegalRef ? "#2D4F1E" : "inherit", 
+            fontWeight: isLegalRef ? "700" : "normal" 
+          }}
+        >
+          {line}
+          <br />
+        </span>
+      );
+    });
+  };
+
   return (
     <div className={`bubble-wrapper ${message.isUser ? 'user-align' : 'ai-align'}`}>
       <div className={`bubble ${message.isUser ? 'user-style' : 'ai-style'}`}>
-        <p className="text">{message.text}</p>
         
-        {/* Lógica condicional: en React usamos && */}
-{!message.isUser && message.sources?.map((src, index) => (
-  <SourceBadge key={index} source={src} />
-))}
+        {/* Texto del mensaje con el nuevo formateo de leyes integrado */}
+        <p className="text">
+          {renderFormattedText(message.text)}
+        </p>
+        
+        {/* Lógica de fuentes (SourceBadge) para respuestas de la IA */}
+        {!message.isUser && message.sources?.map((src, index) => (
+          <SourceBadge key={index} source={src} />
+        ))}
 
+        {/* Hora del mensaje */}
         <p className={`time ${message.isUser ? 'text-right' : 'text-left'}`}>
           {formatTime(message.timestamp)}
         </p>
@@ -46,6 +72,7 @@ export const ChatBubble: React.FC<ChatBubbleProps> = ({ message }) => {
           padding: 12px 16px;
           border-radius: 18px;
           line-height: 1.5;
+          position: relative;
         }
 
         .user-style {
@@ -62,8 +89,19 @@ export const ChatBubble: React.FC<ChatBubbleProps> = ({ message }) => {
           box-shadow: 0 2px 4px rgba(0,0,0,0.05);
         }
 
-        .text { margin: 0; font-size: 1rem; }
-        .time { font-size: 0.7rem; margin-top: 4px; opacity: 0.7; }
+        .text { 
+          margin: 0; 
+          font-size: 1rem; 
+          word-wrap: break-word;
+        }
+        
+        .time { 
+          font-size: 0.7rem; 
+          margin-top: 6px; 
+          opacity: 0.7; 
+          font-style: italic;
+        }
+        
         .text-right { text-align: right; }
         .text-left { text-align: left; }
       `}} />

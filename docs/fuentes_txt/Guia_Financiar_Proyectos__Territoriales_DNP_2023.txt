@@ -1,0 +1,3535 @@
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Departamento Nacional
+de Planeación - DNP
+Departamento Nacional
+de Planeación - DNP
+CONSULTORÍA DNP 1709-2023
+GUÍA PARA FINANCIAR 
+PROYECTOS PRODUCTIVOS 
+TERRITORIALES. LA INVERSIÓN 
+EXTRANJERA DIRECTA COMO 
+FUENTE DE FINANCIACIÓN
+
+Guía para financiar proyectos productivos territoriales. 
+La inversión extranjera directa como fuente de financiación
+Departamento Nacional
+de Planeación - DNP
+Departamento Nacional
+de Planeación - DNP
+Jorge Iván González Barrero
+Director general 
+Juan Miguel Gallego Acevedo
+Subdirector general de Prospectiva y Desarrollo Nacional
+Sandra Bendeck Camargo
+Secretaria general
+Dirección de Innovación y Desarrollo 
+Empresarial (DIDE)
+Mónica Lorena Ortiz Medina
+Subdirección de Desarrollo Productivo (SDP)
+Yelitza Angélica Cárdenas Rojas
+Cárdenas Tobón Legal & PR
+Equipo Consultor
+Andrés Cárdenas Muñoz, director
+Julio Rodríguez Chacón, experto 1
+Neyibia Cuéllar Cuéllar, experto 2
+Natalia Tobón Tobón, experto 3
+Oficina Asesora de Comunicaciones (OAC)
+Diana María Bohórquez Losada, jefe
+Equipo de Publicaciones Técnicas
+Carmen Elisa Villamizar Camargo
+Diana Velásquez Jiménez
+© Departamento Nacional de Planeación, noviembre de 2023.
+Calle 26 núm. 13-19 Edificio Fonade
+PBX: 601 3815000 
+Bogotá D. C., Colombia
+
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+CONTENIDO
+LISTA DE SIGLAS Y ACRÓNIMOS ...................................................................................................................5
+GLOSARIO
+ ..............................................................................................................................................................6
+INTR
+ODUCCIÓN ....................................................................................................................................................9
+MÓDULO I: EL DESARROLLO PRODUCTIVO TERRITORIAL EN COLOMBIA (2022-2026) ...........10
+1.1. ¿En qué consiste la Política de Internacionalización para el Desarrollo Productivo 
+Regional?
+ .......................................................................................................................................................10
+1.2. ¿En qué consiste la Política de Reindustrialización? ..................................................................11
+1.3. ¿En qué consiste la Política de Comercio Exterior para la Internacionalización?
+
+..............11
+1.4. ¿
+Cómo se coordinan estas tres políticas? .....................................................................................12
+¿Qué se puede concluir de la coordinación entre estas tres políticas? ........................................13
+MÓDULO II: FUENTES DE FINANCIACIÓN DE PROYECTOS PRODUCTIVOS TERRITORIALES ..14
+2.1. ¿Por qué es importante desarrollar proyectos productivos territoriales?
+ ...........................14
+2.2. ¿Las apuestas territoriales deberían armonizarse con las apuestas nacionales?
+ .............14
+2.3. ¿
+Cuáles son las etapas para estructurar la financiación de un PPT? ....................................15
+2.4. ¿Cómo se estructura la financiación de un proyecto productivo?
+ ..........................................15
+2.5.¿Cuáles son las fuentes de financiación disponibles para los 
+proyectos productivos territoriales? .......................................................................................................17
+2.6. ¿Cuáles son las buenas prácticas que deberían considerar los entes territoriales 
+para la identificación y acceso a fuentes de financiación de proyectos productivos 
+territoriales? ..................................................................................................................................................18
+2.7. Estudios de caso de financiación de proyectos productivos de nivel local
+
+.........................19
+
+4
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+2.7.1. Alianzas para la reactivación ......................................................................................................19
+2.7.2. Construcción y dotación del centro de aprendizaje SENA en el Alto Oriente Caldas ......20
+2.7.3. Macana (P
+royecto de Turismo de Red EcolSierra) ................................................................21
+2.7.4. Manizales Más ................................................................................................................................22
+2.8. ¿Cómo financiar más y mejores proyectos productivos? ..........................................................24
+2.9. ¿P
+or qué se hace énfasis en la inversión externa directa (IED) como fuente de 
+financiación de proyectos productivos? .................................................................................................24
+MÓDULO III: INCENTIVOS A LA ATRACCIÓN DE INVERSIÓN EXTRANJERA DIRECTA DESDE 
+LOS TERRITORIOS
+ .............................................................................................................................................25
+3.1. ¿Por qué es importante la IED?
+ .......................................................................................................25
+3.2. Tipos de inversión ...............................................................................................................................26
+3.3. ¿Cuáles aspectos evalúan los inversionistas extranjeros de un territorio durante la toma 
+de decisiones? ...............................................................................................................................................27
+3.4.
+ .. ¿Cuál es el papel que juegan los incentivos a la atracción de IED en el incremento de la 
+IED? ..................................................................................................................................................................28
+3.5. ¿Qué tipos de incentivos se pueden diseñar para atraer IED? ................................................30
+3.6. ¿Cómo está constituido el ecosistema de inversión en Colombia? .......................................31
+3.7. ¿Es relevante coordinar los incentivos a la IED entre los niveles nacional y local?
+ ..........31
+3.8. ¿Qué incentivos a la atracción de IED se han generado en Colombia? .................................33
+3.9. ¿Cuál es el nivel de discrecionalidad de los entes territoriales para el diseño de 
+incentivos a la atracción de la IED?
+ ........................................................................................................34
+3.10. ¿Cómo diseñar incentivos para la atracción de la IED en el nivel territorial?
+ ...................35
+3.11. Estudios de caso de incentivos en el nivel local para la atracción de IED ........................37
+3.11.1. BogotáBIO ....................................................................................................................................37
+3.11.2. Call Center Pensilvania (Caldas)
+ .............................................................................................38
+3.11.3. Campuslands
+ ................................................................................................................................39
+REFERENCIAS BIBLIOGRÁFICAS
+ ..................................................................................................................40
+ANEXOS.................................................................................................................................................................46
+
+5
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+LISTA DE SIGLAS 
+Y ACRÓNIMOS
+APC Agencia Presidencial de Cooperación Internacional
+Cepal Comisión Económica para América Latina y el Caribe
+Comité 
+IED-SIFAI Comité de Facilitación a la Inversión Extranjera y Sistema de Facilitación de la 
+ Inversión Extranjera Directa
+CGV Cadenas Globales de Valor
+CRCI Comisiones Regionales de Competitividad e Innovación
+CTeI Ciencia, Tecnología e Innovación
+CTI Ciencia, Tecnología e Innovación
+DNP Departamento Nacional de Planeación
+FAO Organización de Naciones Unidas para la Agricultura y la Alimentación
+Finagro Fondo para el Financiamiento del Sector Agropecuario
+Fonpet Fondo Nacional de Pensiones de las Entidades Territoriales
+ICMA Asociación de Mercados Capitales
+IED inversión extranjera directa
+MGA Metodología General Ajustada
+MinAmbiente Ministerio de Ambiente y Desarrollo Sostenible
+MinCIT Ministerio de Industria, Comercio y Turismo
+mipyme micro, pequeña o mediana empresa
+NDC Contribución Determinadas Nacionalmente, por sus siglas en inglés
+OCAD Órgano Colegiado de Administración y Decisión
+ODS Objetivos de Desarrollo Sostenible
+OECD Organisation for Economic Co-operation and Development, por sus siglas en 
+ inglés
+PDET Programas de Desarrollo con Enfoque Territorial
+PDT Plan de Desarrollo Territorial
+PND Plan Nacional de Desarrollo
+PPT Proyectos productivos territoriales
+RNNR recursos naturales no renovables
+SGP Sistema General de Participaciones
+SGR Sistema General de Regalías
+SPGR Sistema de Presupuesto y Giro de Regalías
+VUE Ventanilla Única Empresarial
+VUI Ventanilla Única de Inversión
+ZOMAC zonas más afectadas por el conflicto armado
+
+6
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+GLOSARIO
+1 La definición partió del siguiente link https://www.competitivas.gov.co/comisiones#:~:text=Las%20Comisiones%20Regiona-
+les%20de%20Competitividad,el%20marco%20del%20Sistema%20Nacional; sin embargo, fue complementada y ajustada al 
+contexto colombiano y de la guía.
+2 La definición partió del siguiente link https://www.bancomundial.org/es/news/feature/2020/11/02/desarrollo-territorial-la-
+tinoamerica#:~:text=Lozano%3A%20El%20desarrollo%20territorial%20es,y%20ancho%20de%20un%20pa%C3%ADs; sin 
+embargo, fue complementada y ajustada al contexto colombiano y de la guía. 
+3 La definición partió del documento “Determinantes de la Inversión Extranjera Directa en Colombia” de la Revista Borradores 
+de Economía del Banco de la República (2012); sin embargo, fue complementada y ajustada al contexto colombiano y a la guía.
+4 La definición partió del documento “Incentivos a la Inversión Extranjera” de la Guía de Inversión Extranjera de Bogotá; sin em-
+bargo, fue complementada y ajustada al contexto colombiano y a la guía.
+5 La definición partió del documento “Misión de Internacionalización: una oportunidad para fortalecer la estrategia de atracción 
+de IED en Bogotá Región” de la Revista Actualidad del Entorno de Negocios de Invest in Bogotá; sin embargo, fue complemen-
+tada y ajustada al contexto colombiano y a la guía.
+Comisiones Regionales de Competitividad e Innovación (CRCI): son grupos de trabajo 
+establecidos para la coordinación y articulación de las distintas instancias de los niveles 
+departamental y subregional que desarrollan actividades dirigidas a fortalecer tanto la 
+competitividad como la innovación en los departamentos en el marco del Sistema Nacional de 
+Competitividad e Innovación
+1
+.
+Desarrollo productivo regional: es una visión del desarrollo económico la cual permite el 
+análisis de las oportunidades y retos de un país en su dimensión subnacional, mediante la 
+cual se pueden formular las políticas, programas y estrategias necesarias para apoyar el 
+crecimiento económico a través de la priorización de acciones según las necesidades de cada 
+área y facilita la coordinación entre diferentes sectores y actores
+2
+.
+Determinantes 
+de la inversión extranjera directa (IED): conjunto de variables que motivan la decisión 
+de establecer una inversión en un territorio, entre ellas se consideran, por lo general, la apertura 
+económica, el tamaño y el crecimiento de la economía; el capacidades humanas, la infraestructura 
+y, por último, la estabilidad tanto económica como política
+3
+.
+Incentivos a la IED: son las medidas tributarias y no tributarias tomadas por los actores de la 
+internacionalización de un territorio que logran que una inversión extranjera directa se establezca, 
+se mantenga y reinvierta
+4
+. 
+Internacionalización: conjunto de estrategias y acciones coordinadas entre el sector público 
+y privado de los niveles subnacional y nacional, que procuren el impulso y la diversificación de 
+las exportaciones, el fomento de la atracción de inversión extranjera y el fortalecimiento de la 
+competitividad de las empresas colombianas en el ámbito internacional, con el fin de maximizar 
+los beneficios económicos y sociales del comercio para toda la población nacional. Se trata de 
+establecer una conexión entre las personas, las empresas, los bienes y los servicios y el sistema 
+CTI colombiano con el mundo, a fin de que la economía colombiana pueda adoptar y adaptar 
+nuevas tecnologías de producción y, con ello, optimizar la productividad interna del país con miras 
+a mejorar las exportaciones del país en términos de cantidad y calidad
+5
+.
+
+7
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Inversión de eficiencia: es la inversión extranjera directa que se caracteriza por realizarse en una 
+alta proporción en sectores intensivos en tecnología. Asimismo, esta inversión tiende a insertarse en 
+las cadenas globales de valor, acción que produce un incremento en las importaciones de insumos 
+y materias primas y, por otra parte, genera un incremento de las exportaciones de bienes finales y 
+servicios
+6
+.
+Inversión extranjera directa:
+ inversión de capital que implica una relación de largo plazo, que 
+refleja un interés duradero y de control, por parte de un inversionista residente en una economía 
+sobre una empresa nueva o existente en una economía distinta —el país receptor de la inversión—. 
+Esa inversión implica un nivel elevado de intervención en el manejo de la empresa residente, 
+en contraposición con las inversiones de portafolio; es decir, las que no buscan tener control y 
+solo son parte de un portafolio de inversiones con carácter especulativo —por ejemplo, algunas 
+inversiones en bolsa de valores—
+7
+.
+Inversión sostenible: inversión que no solo generen beneficios económicos a corto plazo, sino 
+que también consideren y promuevan el desarrollo económico, social y ambiental a largo plazo en 
+el país receptor de la inversiones
+8
+.
+Mesa Nacional de Internacionalización:
+ se trata de un espacio de coordinación de las entidades 
+del orden nacional, para tener una interlocución fluida y efectiva con los departamentos, como parte 
+del marco de sus planes de internacionalización y en el que confluye toda la oferta institucional para 
+que departamentos, empresas, emprendedores, universidades y centros de investigación avancen en 
+el proceso de conexión con el mundo. Para asegurar una dinámica activa de internacionalización para 
+el desarrollo productivo regional esta mesa debe sesionar una vez al mes, es decir, llevar a cabo 12 
+sesiones durante el año
+9
+. 
+Metodología General Ajustada (MGA):
+ se presenta como un conjunto metodológico que sigue 
+una secuencia lógica y organizada de información, cuyo objetivo principal consiste en integrar de 
+manera sistemática los datos pertinentes para facilitar la toma de decisiones y la gestión eficiente 
+de los proyectos de inversión pública
+10
+.
+Proyectos productivos territoriales (PPT): son modelos de negocios que se articulan con 
+la visión de territorio los cuales buscan sostenibilidad financiera y rentabilidad, y con ello traer 
+beneficios a sus asociados y al territorio donde se desarrollan
+11
+.
+6 La definición partió del Documento CONPES 3771 de 2021; sin embargo, fue complementada y ajustada al contexto colombiano y a la guía.
+7 La definición partió del Documento CONPES 3771 de 2021; sin embargo, fue complementada y ajustada al contexto colom-
+biano y a la guía.
+8 La definición partió del Documento CONPES 4085 de 2022; sin embargo, fue complementada y ajustada al contexto colom-
+biano y a la guía.
+9 La definición partió del documento CONPES 4085 de 2022, sin embargo fue complementada y ajustada al contexto colombiano 
+y a la guía.
+10 Para obtener información adicional, se recomienda consultar: https://mgaayuda.dnp.gov.co/Recursos/Documento_concep-
+tual_2023.pdf
+11 La definición partió del siguiente link https://www.cepal.org/es/proyectos/desarrollo-productivo-territorial, sin embargo fue 
+complementada y ajustada al contexto colombiano y de la guía.
+
+8
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Sistema Nacional de Competitividad e Innovación (SNCI): se encarga de coordinar y orientar 
+las actividades que ejecutan las instancias públicas, privadas y académicas relacionadas con la 
+formulación, implementación y seguimiento de 
+las políticas que promuevan la competitividad y 
+la innovación del país con una visión de mediano y largo plazo, a fin de promover el desarrollo 
+económico, la productividad y la mejora del bienestar de la población
+12
+.
+Transferencia de tecnología: es un proceso de colaboración remunerado con el cual 
+los descubrimientos científicos, los conocimientos y la propiedad intelectual fluyen 
+desde los creadores hacia los usuarios públicos y privados quienes pretenden beneficiarse 
+de adoptar y adaptar la tecnología que le es transferida. La transferencia de tecnología no se 
+produce de manera espontánea por el establecimiento de IED en un territorio, sino que ocurre 
+cuando alguien paga por el acceso a esa tecnología
+13
+. 
+Vertical de emprendimiento: se refiere a la consolidación de procesos empresariales 
+esenciales para que la organización empresarial pueda escalar, afiance la mejora de su 
+productividad y progresivamente aumente su cuota de mercado. 
+Vertical de i
+nnovación: se relaciona con la aplicación de nuevas ideas, métodos, tecnologías 
+o procesos dentro de un sector o industria específica, con lo cual las empresas pueden lograr 
+eficiencias significativas y crecimientos exponenciales. 
+12 La definición partió del Decreto 1651 de 2019 el cual regula el SNCI, sin embargo fue complementada y ajustada al contexto 
+colombiano y a la guía.
+13 La definición partió de la página web oficial de la Organización Mundial de la Propiedad Intelectual (OMPI); sin embargo, fue 
+complementada y ajustada al contexto colombiano y a la Guía.
+
+9
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+INTRODUCCIÓN
+La Guía para financiar proyectos 
+productivos territoriales. La inversión 
+extranjera directa como fuente de financiación 
+está escrita en forma de manual para que sus 
+destinatarios puedan enfocarse en cómo lograr 
+la financiación de sus proyectos productivos 
+territoriales (PPT). El enfoque de la Guía es 
+totalmente práctico y por ello es un instrumento 
+que pueden implementar los mandatarios 
+locales y sus equipos técnicos. Dentro de los 
+contenidos se presentan casos de referencia 
+colombianos que ayudan a identificar de la 
+experiencia nacional las mejores prácticas para 
+aumentar las probabilidades de financiación 
+y el éxito de los PPT, y de la atracción de IED 
+como fuente de financiación de estos. 
+La Guía se compone de 3 módulos y un 
+anexo. En el primer módulo se explican las 
+bases de política pública de los PPT que viene 
+construyéndose en el país desde 2022 con la 
+expedición de la Política de Internacionalización 
+para el Desarrollo Productivo Regional 
+(Documento CONPES 4085), la cual, 
+ciertamente, por primera vez estableció que los 
+resultados de la internacionalización del país 
+deben estar medidos en términos del impacto 
+positivo que tenga en el desarrollo productivo 
+territorial. También se analizan las políticas 
+—posteriores— de Reindustrialización y la de 
+Comercio Exterior para la Internacionalización, 
+seguido a esto se demuestra el hilo conductor 
+que existen entre las tres políticas, y cómo 
+todas reconocen la autonomía territorial 
+—ejercida a través de los departamentos— 
+para seleccionar sus sectores priorizados para 
+la internacionalización.
+En el segundo módulo se explica cómo 
+lograr la financiación de los PPT, para ello 
+se establecen las pautas generales, se 
+establece un paso a paso que explica cómo 
+se proyecta la financiación de un PPT, desde 
+su estructuración hasta su implementación; se 
+presentan los casos de referencia que pueden 
+servir de inspiración para la estructuración de 
+nuevos PPT. 
+El tercer módulo se ocupa de explicar una 
+fuente de financiación muy singular por los 
+efectos positivos que puede irrigar al país, 
+se trata de la IED, vista desde la óptica de 
+la inversión que impulsa la productividad 
+del país. En ese contexto se presentan las 
+variables necesarias para que los entes 
+territoriales puedan diseñar incentivos a la 
+IED que permitan atraer efectos positivos a 
+sus territorios; también se presentan casos de 
+referencia colombianos, con el fin de que los 
+caminos ya recorridos por algunos territorios 
+inspiren la formación de nuevos incentivos 
+innovadores que superen el sesgo de los 
+incentivos tributarios.
+Finalmente, en el anexo se presenta una 
+relación de fuentes de financiación públicas, 
+su contenido y alcance, así como la remisión 
+a los sitios oficiales en los cuales se puede 
+profundizar. Con todo, la Guía procura que el 
+lector pueda tener una experiencia totalmente 
+práctica y pueda emplearla en su tarea de 
+diseñar PPT que encuentren financiación. La 
+Guía está dirigida a los entes territoriales 
+y a quienes participen en los procesos 
+regionales de formulación de proyectos 
+productivos, así aspira a convertirse en un 
+instrumento de apoyo permanente de las 
+Comisiones Regionales de Competitividad e 
+Innovación y particularmente de las Mesas 
+Departamentales de Internacionalización.
+
+10
+1
+MÓDULO I: EL DESARROLLO 
+PRODUCTIVO TERRITORIAL EN 
+COLOMBIA (2022-2026
+)
+En este primer módulo se explicarán los desarrollos recientes de política pública en materia de 
+desarrollo productivo territorial. Desde el año 2022 el Gobierno ha formulado tres políticas que de 
+forma consistente establecen que la internacionalización de la economía colombiana debe tener 
+como objetivo la industrialización del país. Asimismo, se ha confiado la selección de los sectores 
+priorizados para la internacionalización a los departamentos a través del Sistema Nacional de 
+Competitividad e Innovación (SNCI) y se han definido apuestas nacionales, las cuales pueden 
+impulsar a los sectores seleccionados departamentalmente. En este módulo se explica el hilo 
+conductor existente entre la Política de Internacionalización para el Desarrollo Productivo Regional, 
+la Política de Reindustrialización y la Política de Comercio Exterior para la Internacionalización.
+1.1. ¿En qué consiste la Política de Internacionalización para el 
+Desarrollo Productivo Regional?
+Crea las mesas departamentales de internacionalización y la Mesa Nacional de 
+Internacionalización para promover un diálogo entre las regiones y la nación orientado a mejorar 
+la productividad de los departamentos a través de la conexión con el mundo
+1
+.
+Objetivo Apuestas 
+Avanzar hacia el cierre de la 
+brecha tecnológica del país 
+por medio de la conexión de 
+la actividad productiva de 
+los departamentos con las 
+tecnologías que ofrece el mundo 
+para aumentar la productividad, 
+las exportaciones y la inversión 
+extranjera directa. Con esto se 
+busca lograr mayores niveles de 
+prosperidad y bienestar para los 
+colombianos.
+· Facilitar la interacción estratégica entre los 
+departamentos con extranjeros y colombianos en el 
+exterior.
+·Escalar el extensionismo tecnológico en las empresas 
+para que estas se inserten en las CGV.
+·Mejorar las condiciones del comercio exterior de bienes 
+y servicios como medio para que las empresas accedan a 
+nuevas tecnologías de producción.
+·Fortalecer el papel del ecosistema CTI en materia de 
+productividad e internacionalización empresarial.
+·Crear los mecanismos institucionales que permitan el 
+diálogo entre las regiones y la nación alrededor de la 
+internacionalización para la productividad.
+1 Esta política [37] consiste en ofrecer a los departamentos herramientas para que puedan seleccionar y desarrollar tres sec-
+tores priorizados para la internacionalización.
+
+11
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+1.2. ¿En qué consiste la Política de Reindustrialización?
+Esta Política establece un conjunto de medidas con el objetivo de promover de manera sostenible 
+y equitativa la diversificación y sofisticación de la matriz productiva del país. El propósito es crear 
+nuevos bienes y servicios para satisfacer las necesidades internas y explorar oportunidades en 
+mercados internacionales. De esta manera, se aspira a incrementar los ingresos nacionales de 
+forma significativa.
+Objetivo Apuestas 
+Aumentar la generación de valor 
+agregado en la producción de bienes 
+y servicios de los sectores económicos 
+que componen la base productiva de 
+la economía colombiana, para transitar 
+de una economía dependiente de 
+las actividades extractivas a una 
+economía basada en el conocimiento, 
+productiva, sostenible e incluyente, 
+que contribuya al desarrollo territorial 
+y al cierre de brechas en materia de 
+productividad.
+Se definen cuatro apuestas estratégicas de orden 
+nacional y una que reconoce la autonomía de los 
+territorios: 
+1. La transición energética justa.
+2. La agroindustria y la soberanía alimentaria.
+3. La reindustrialización a partir los sectores de salud. 
+4. La reindustrialización a partir del sector de la 
+defensa para la vida.
+5. Por los territorios y su tejido empresarial.
+Estas apuestas establecen las bases para transitar de una economía dependiente de 
+las actividades extractivas a una economía basada en el conocimiento, que sea productiva, 
+sostenible e incluyente, que contribuya al desarrollo territorial y al cierre de brechas en materia 
+de productividad, y se orienta, en particular, a la inclusión de las micro, pequeñas y medianas 
+empresas (Mipymes) y los segmentos de la economía popular.
+1.3. ¿En qué consiste la Política de Comercio Exterior para la 
+Internacionalización?
+La Política de Comercio Exterior busca implementar una serie de medidas que permitan que 
+la internacionalización sea un medio para el desarrollo productivo sostenible del país. Propone 
+facilitar el flujo de bienes y servicios para la transformación exportadora; es decir, hacer más fluida 
+la importación de bienes de capital, de insumos y servicios requeridos para la industrialización 
+de la economía. Asimismo, busca impulsar capacidades humanas y empresariales locales para 
+la absorción de tecnologías derivadas de la inversión extranjera directa (IED), la cooperación de 
+énfasis tecnológico con socios estratégicos en todas las regiones del mundo para dejar atrás 
+un enfoque de relaciones exclusivas y excluyentes, por uno que fomente el bilingüismo para el 
+intercambio con el mundo.
+
+12
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Objetivo Apuestas 
+Superar la 
+concentración de 
+las exportaciones 
+colombianas en 
+pocas materias 
+primas y en bienes 
+minero energéticas. 
+1. Inversión extranjera para el desarrollo sostenible y la transición 
+energética.
+2. Internacionalización de los territorios y una cultura productiva y 
+exportadora.
+3. Sur Global: integración con América Latina y el Caribe, Asia y África.
+4. Multilateralismo activo y propositivo.
+5. Internacionalización justa y equilibrada.
+1.4. ¿Cómo se coordinan estas tres políticas?
+La Política de 
+Internacionalización 
+para el Desarrollo 
+Productivo Regional 
+promueve la autonomía 
+de los departamentos 
+y la coordinación con el 
+Gobierno nacional para 
+seleccionar e impulsar 
+sectores priorizados por 
+los departamentos para la 
+internacionalización. 
+Las acciones de esta 
+política dirigen la oferta 
+del Gobierno nacional, de 
+las embajadas y oficinas 
+comerciales en el exterior 
+hacia la consolidación de 
+los sectores priorizados por 
+los departamentos.
+La Política de 
+Reindustrialización define 
+cuatro apuestas nacionales 
+en sectores estratégicos 
+que serán promovidos con 
+distintas herramientas del 
+Gobierno nacional, entre 
+ellas, la internacionalización 
+de la economía. 
+Define una quinta 
+apuesta “Territorios y 
+su Tejido Empresarial”: 
+la reafirmación expresa 
+del Gobierno nacional 
+de la importancia de 
+los departamentos en 
+la selección de sectores 
+priorizados para la 
+internacionalización.
+La Política de Comercio 
+Exterior aboga por la 
+internacionalización como 
+facilitadora del desarrollo 
+productivo sostenible 
+con énfasis en los cuatro 
+sectores de la Política de 
+Reindustrialización y hace 
+mención expresa al quinto 
+sector “Territorios y su 
+Tejido Empresarial”.
+Las apuestas de esta política 
+se encaminan principalmente 
+a compaginar la posición 
+nacional ante las distintas 
+instancias internacionales en 
+las que participa Colombia, 
+con el objetivo de lograr una 
+reindustrialización sostenible 
+y en equidad.
+Las tres políticas buscan la transformación productiva del país a través de 
+la incorporación de nuevas tecnologías o formas de producción, mediante 
+la atracción de IED sostenible y de eficiencia, un comercio exterior que 
+promueva el desarrollo industrial local, el desarrollo de capacidades locales 
+para absorber estas nuevas tecnologías y el reconocimiento expreso de la 
+autonomía territorial para la definición de apuestas productivas. Las tres 
+políticas coinciden en que la internacionalización debe ser un medio para 
+la industrialización de la economía colombiana.
+
+13
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+¿Qué se puede concluir de la coordinación entre estas tres políticas?
+ Los departamentos son los voceros de las regiones ante el Gobierno nacional en materia de 
+internacionalización para la productividad.
+ Los departamentos son los responsables de seleccionar sus sectores priorizados para 
+la internacionalización y de manera coordinada con el Gobierno nacional facilitar la 
+consolidación de estos sectores.
+ El Gobierno nacional fijó unas apuestas nacionales en cuatro sectores: (1) transición 
+energética, (2) salud, (3) agroindustria y (4) defensa —astillero y náutico—.
+ Mediante estas tres políticas los entes territoriales verán un impulso significativo del 
+Gobierno nacional en las apuestas nacionales y en los sectores que los complementen.
+ Las apuestas nacionales son una guía para la selección de los departamentos de sus 
+sectores priorizados para la internacionalización.
+
+14
+MÓDULO II: FUENTES DE 
+FINANCIACIÓN DE PROYECTOS 
+PRODUCTIVOS TERRITORIALES
+En el segundo módulo se explican los aspectos prácticos de cómo lograr financiar PPT. También 
+se presentan las fuentes de financiación más relevantes de manera esquemática, lo cual puede 
+complementarse con la información detallada de estas, las cuales se presentan en el anexo de la Guía. 
+Además, se relatan unos casos de referencia que han sido desarrollados en el país con los cuales se 
+extraen aprendizajes y buenas prácticas destinados a la financiación de PPT. Mediante estas herramientas 
+se busca presentar a modo de manual los aspectos más importantes para la estructuración de la 
+financiación de PPT para que los entes territoriales encuentren una directriz que les facilite este proceso.
+2.1. ¿Por qué es importante desarrollar proyectos productivos 
+territoriales?
+El desarrollo económico del país se gesta desde el nivel subnacional, ya que los PPT se 
+desarrollan en el nivel territorial colombiano. Por lo tanto, impulsar el desarrollo productivo 
+regional producirá más ingresos para los entes territoriales, quienes, a su vez, con mayores 
+ingresos podrán invertir en el mejoramiento de las condiciones de vida de las personas.
+El desarrollo productivo territorial puede traer estos beneficios:
+1. Generación de empleo.3. Resiliencia ante crisis económicas.
+2. Reducción de la pobreza.4. Alternativa a actividades ilegales.
+Una estrategia de desarrollo productivo territorial a mediano y largo plazo puede:
+• Ser un atractivo para atraer IED de 
+eficiencia y sostenible.
+• Diversificar la actividad económica.
+• Mejorar la oferta exportable de Colombia.• Fomentar la sostenibilidad.
+2.2. ¿Las apuestas territoriales deberían armonizarse con las 
+apuestas nacionales?
+Sí. Las apuestas territoriales deben armonizarse con las apuestas nacionales, de lo contrario 
+corren el riesgo de quedar aisladas y sin impacto. La Política de Reindustrialización definió cuatro 
+apuestas nacionales: transición energética, salud, agroindustria y defensa (astilleros y aeronáutico).
+Las apuestas nacionales son una brújula que le permite a los territorios revisar sus apuestas en 
+el caso de los departamentos donde participan los sectores priorizados para la internacionalización 
+y así lograr que se articulen con las cuatro apuestas nacionales.
+2
+
+15
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+2.3. ¿Cuáles son las etapas para estructurar la financiación de un PPT?
+ARTICULACIÓN ENTRE EL NIVEL NACIONAL Y SUBNACIONAL
+La autonomía de las entidades territoriales para la formulación de PPT se desarrolla 
+de manera armónica y coordinada con el Gobierno nacional. Para ello la instancia por 
+excelencia es el SNCI.
+PRIORIZACIÓN
+La identidad productiva del territorio es el resultado de la unión de visiones de todos 
+sus actores, justamente las Comisiones Regionales Competitividad e Innovación (CRCI) 
+es un foro que da voz a todas estas visiones. Sin embargo, para lograr PPT de alto 
+impacto es necesario priorizar estratégicamente la estructuración de lo que mejor 
+compaginen con las distintas agendas de interés.
+PREFACTIBILIDAD
+En esta etapa se determina la posibilidad de realización del PPT. En su desarrollo 
+debe revisarse cuáles son las capacidades locales para la estructuración del proyecto 
+y, si el caso lo merita, es aconsejable buscar ayuda externa.
+FACTIBILIDAD
+En esta etapa deben desarrollarse todos los elementos requeridos para obtener la 
+fuente de financiación a la que se aspira. Una referencia útil es la estructura y criterios 
+que forman la Metodología General Ajustada (MGA).
+PRESENTACIÓN Y APROBACIÓN
+En esta etapa inicia la operación de financiación y se deben hacer operativos los 
+sistemas de gestión y seguimiento.
+IMPLEMENTACIÓN Y SEGUIMIENTO
+Se deben hacer seguimientos trimestrales, ajustes y mejoras, y revisar periódicamente 
+nuevas fuentes de financiación según el momento de desarrollo del PPT.
+2.4. ¿Cómo se estructura la financiación de un proyecto productivo?
+La estructuración de un PPT depende de las fuentes de financiación a las que se requiera aplicar. 
+Según esa fuente, se definirán los componentes que debe tener el proyecto y se podrán evaluar 
+las condiciones específicas que deben cumplirse para acceder a la financiación. En la síntesis se 
+presenta un resumen de las etapas por las que se debe pasar para formular un PPT y algunas 
+anotaciones que son aplicables para cualquier tipo de proceso de postulación a financiación, así 
+como su implementación. 
+
+16
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Estructuración
+1.
+El PDT debe articularse con el 
+PND y, a su vez, los PPT deben 
+estar fundamentados en los 
+ejes tanto del PND como del 
+PDT, de esta manera aumenta 
+las probabilidades de encontrar 
+fuentes de financiación en los 
+niveles nacional y subnacional.
+4.
+Priorice los proyectos 
+estratégicamente. Prefiera los 
+PPT de mayor impacto para su 
+territorio y para el país. En el 
+proceso de priorización tenga 
+en cuenta los sectores de la 
+Política de Reindustrialización, 
+revise también las agendas 
+de los actores internacionales, 
+como bancas de desarrollo, 
+agencias de cooperación, 
+fondos de desarrollo, fondos de 
+inversión, etc.
+6.
+Evalúe objetivamente si los 
+equipos internos de trabajo 
+de su gobierno local y de las 
+entidades aliadas participantes 
+de las CRCI cuentan con la 
+experticia suficiente para 
+formular un PPT.
+9.
+Factibilidad técnica:
+• Análisis de recursos
+• Tecnología y método
+16.
+Presente el proyecto a la 
+instancia correspondiente 
+incluyendo la definición de 
+indicadores de cumplimiento 
+en cada una de las áreas 
+analizadas durante la 
+factibilidad.
+21.
+En este punto se ha conseguido 
+una estructuración exitosa, ya 
+que el PPT ha obtenido recursos 
+para su iniciación o para su 
+escalamiento. 
+25.
+Es probable que el proyecto 
+se encuentre en etapa de 
+crecimiento y escalabilidad.
+28.
+Es un proyecto que ha 
+superado el “valle de la 
+muerte” [50]. Es un momento 
+oportuno para atraer nuevos 
+socios que entreguen 
+condiciones que impulsen el 
+crecimiento y la consolidación 
+del PPT.
+2.
+Es importante que incluya 
+en el PDT un capítulo de 
+“Internacionalización para la 
+productividad” con pautas 
+generales para la estructuración 
+y fuentes de financiación.
+7.
+Si es necesario, busque 
+asistencia técnica para definir 
+la viabilidad del proyecto o 
+contrate asesores externos. En 
+el anexo de esta Guía puede 
+consultar cuáles fuentes 
+de financiación de algunas 
+entidades del Gobierno 
+nacional tienen la obligación 
+de brindarle asistencia técnica 
+a los entes territoriales para la 
+estructuración.
+10.
+Factibilidad económica: 
+• Análisis de costos
+• Análisis de ingresos
+• Punto de equilibrio 
+17.
+Promueva su proyecto a través 
+de aliados clave, como las CRCI, 
+las Cámaras de Comercio o los 
+Representantes a la Cámara 
+del Congreso Nacional por su 
+departamento.
+22. 
+Durante este período se 
+entra validar el efecto de la 
+financiación, por eso es clave 
+analizar la retroalimentación de 
+usuarios y cliente para ajustarlo 
+y mejorarlo.
+26.
+Evalúe y aplique a las fuentes 
+de financiación adecuadas para 
+esta etapa.
+Implementación y 
+seguimiento 
+a cinco y más años
+3.
+Es fundamental que articule los 
+PPT con el Gobierno nacional. 
+El medio más idóneo para 
+lograr dicha articulación son 
+las Comisiones Regionales de 
+Competitividad e Innovación 
+5.
+Entre mayores sean las 
+coincidencias de su priorización 
+con las prioridades del PND, la 
+Política de Reindustrialización, 
+y, con las agendas regionales y 
+globales, más serán las fuentes 
+de financiación a las que pueda 
+acceder su PPT.
+11.
+Factibilidad financiera: 
+• Evaluación de fuentes de 
+financiación 
+• Flujo de caja
+• Valor Presente Neto (VPN)
+• Tasa Interna de Retorno
+18.
+Si su postulación no es elegida, 
+revise las causales para pedir 
+revisión. Si no se aprueba en la 
+revisión, preséntelo a fuentes 
+de financiación alternativas.
+23.
+Será una buena señal que al 
+final de este período empiece 
+a apreciarse crecimiento en 
+algunos componentes del PPT, 
+sobre todo si ha repercutido en 
+un aumento de participación de 
+mercado.
+27.
+Un PPT para su crecimiento 
+requiere acceso a financiación 
+constante.
+Articulación entre el nivel 
+subnacional y nacional
+Priorización
+8.
+Identifique las fuentes de 
+financiación para su proyecto y 
+evalúe si este cumple con sus 
+requisitos. Normalmente, se 
+requieren cuatro componentes: 
+económico, técnico, 
+socioambiental y jurídico.
+12.
+Factibilidad ambiental y 
+social:
+• Evaluación ambiental y social
+• Plan de gestión social y 
+ambiental
+19.
+Si su proyecto es elegido 
+proceda al cumplimiento de los 
+requisitos de formalización.
+24.
+Según el desempeño del 
+PPT, evalúe los resultados y 
+aplique a nuevas fuentes de 
+financiación.
+Implementación y 
+seguimiento
+3 a 4 años
+Prefactibilidad
+13.
+Factibilidad legal y 
+regulatoria: 
+• Revisión normativa 
+• Permisos y autorizaciones
+• Riesgos laborales
+20.
+Implemente los mecanismos 
+de gestión y de seguimiento 
+establecidos en la factibilidad 
+del PPT. Usted como 
+gobernante local debe hacer 
+evaluaciones trimestrales de 
+rendimiento.
+Implementación y 
+seguimiento
+Año 1 a 3
+14.
+Factibilidad operativa: 
+• Planificación operativa
+• Capacidades organizacionales
+• Gestión de riesgos operativos
+Presentación y aprobación del 
+proyecto estructurado
+15.
+Análisis de mercado:
+• Estudio de mercado
+• Análisis de competencia
+• Estrategias de 
+comercialización
+Factibilidad
+Implementación y seguimiento
+
+2.5. ¿Cuáles son las fuentes de financiación disponibles para los proyectos productivos 
+territoriales?
+En el anexo se describe en detalle 
+algunas de las fuentes de financiación
+Fuente: elaboración propia a partir de [48].
+Fuentes internas de financiación
+A. 
+Fuentes de financiación de la inversión pública
+• Sistema General 
+de Regalías (SGR)
+Asignaciones: FDR – 
+Directas – Inversión local – 
+CTeI – Paz – Ambiental
+Fuentes externas de financiación
+C.
+ Fuentes de financiación privadas
+• Inversión extranjera 
+directa
+• Sistema General de 
+Participaciones (SGP)
+Asignaciones: Especiales – 
+Sectoriales
+• Recursos propios de los entes 
+territoriales
+• Cooperación internacional
+• Bancos de DesarrolloBancóldex - Finagro
+• Agencia de Desarrollo Rural (ADR)
+• Fondo Nacional para el Desarrollo de 
+la Infraestructura (FONDES)
+• Fondo Emprender (SENA)
+• Fondo Mujer Emprende (APC)
+D.
+ Fuentes de financiación 
+oficiales
+• Banca de Desarrollo 
+Multilateral
+• Fondos soberanos
+• Obras por Impuestos
+• Obras por Regalías
+• Estrategia de Financiamiento de 
+Cambio Climático
+B. 
+Fuentes 
+de 
+financiación 
+privada
+• Banca comercial privada
+• Mercado de capitales privados
+ Fondos de capital
+ Fondos de impacto
+17
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+
+18
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+2.6. ¿Cuáles son las buenas prácticas que deberían considerar los 
+entes territoriales para la identificación y acceso a fuentes de 
+financiación de proyectos productivos territoriales?
+A continuación, se presentarán cuatro casos de referencia, los cuales han sido seleccionados 
+específicamente por su capacidad para proveer un conocimiento práctico a los destinatarios de la 
+Guía. En este proceso de selección no se tomó en cuenta únicamente el nivel de éxito de dichos 
+casos, sino que fueron elegidos por la riqueza de elementos que ofrecen para ilustrar situaciones del 
+mundo real. Estas son las buenas prácticas:
+• En la estructuración del PPT planee las fuentes de financiación a las cuales podrá aplicar el 
+proyecto durante las distintas etapas en los primeros cinco años del proyecto.
+• Asegúrese que el PPT se conecte con las prioridades del PND, el PDT, la Política de 
+Reindustralización, las agendas de actores internacionales y con las expectativas de los fondos de 
+financiación.
+• Identificar y coincidir con los requisitos del mayor número de potenciales financiadores. Entre 
+más sean los potenciales financiadores de un PPT mayores son sus opciones de conseguir la 
+financiación requerida para su mantenimiento, crecimiento y escalamiento.
+• Entender que un PPT requiere de financiación permanente, especialmente durante sus primeros 5 
+años.
+• Revisar con realidad y consciencia el nivel de complejidad económica de la actividad empresarial 
+en el territorio y optar por soluciones acordes.
+• Revisadas con realidad y consciencia las capacidades locales, otorgue prioridad a adquirir licencias 
+de uso que permitan adoptar y adaptar nuevas tecnologías y metodologías, busque asistencia 
+técnica para la estructuración del PPT y, si es necesario, invierta en contratar asesores externos. 
+• Hay que recordar siempre que para promover la vertical de innovación primero es necesario 
+consolidar la vertical de emprendimiento.
+• Tienen mayor impacto los programas que seleccionan un número concentrado de empresas y 
+la aplicación recurrente de extensionismo tecnológico sobre ellas, que el impacto que generan 
+grandes números de empresas con intervenciones aisladas. 
+• Bancóldex es un gran aliado para la financiación de PPT. Gracias a su intermediación financiera las 
+empresas del territorio pueden recibir en créditos, entre 15 y 24 veces el valor de aporte inicial que 
+haga el ente territorial o los actores locales.
+• Tenga visión de largo plazo. Balancee los intereses electorales con proyectos que sigan teniendo 
+impacto después de su período de gobierno. La clave puede estar en establecer proyectos que 
+tengan victorias durante su período de gobierno y comunicar con asertividad a la comunidad que 
+la mayor cualidad de su administración es dejar en marcha PPT que seguirán dando frutos, y que 
+de hecho darán sus mejores frutos, después de su período de gobierno.
+Fuente: elaboración propia a partir de [48].
+
+2.7. Estudios de caso de financiación de proyectos productivos de nivel local
+2.7.1. Alianzas para la reactivación
+Antecedentes: 
+Las relaciones diplomáticas entre Emiratos Árabes Unidos y Colombia facilitaron la donación por parte del Fondo de Abu Dhabi que 
+financió el Programa Alianzas para la Reactivación en 2021.
+Colombia Productiva, por otra parte, venía desarrollando, desde 2018, Fábricas de Productividad. Esta metodología de trabajo fue 
+aportada al programa para facilitar los procesos de extensionismo tecnológico en las empresas beneficiarias.
+Para el desarrollo de su misión, Bancóldex firmó convenios con entidades de derecho público para desarrollar líneas de crédito, los 
+cuales multiplicaron en cerca de 15 veces el aporte inicial que efectuó el ente público.
+Caso
+En 2021, una donación de USD 10 millones 
+permitió que Colombia Productiva y Bancóldex 
+brindaran a 1.051 empresas extensionismo 
+tecnológico y acceso a crédito de fomento.
+ El extensionismo se brindó de forma coordinada 
+entre Colombia Productiva y las Cámaras de 
+Comercio y se basó en la metodología de trabajo 
+de Fábricas de Productividad [51]. Asimismo, 
+con estos recursos se dio financiación que 300 
+empresas por una suma total de $136.000 
+millones de crédito y en la actualidad se proyecta 
+una línea de factoring para las mismas empresas 
+beneficiadas del programa con recursos 
+remanentes de la donación. 
+Fuentes de financiación
+• Recursos de Cooperación: 
+la donación del Fondo Abu 
+Dhabi para el desarrollo 
+por USD 10 millones.
+ Para programas 
+de extensionismo 
+y desarrollo de la 
+plataforma “Compra 
+lo Nuestro”, USD 5 
+millones.
+ Destinados a la 
+financiación mediante 
+líneas Bancóldex, USD 5 
+millones.
+Estructuración
+• Acuerdo de cooperación entre el MinCIT, APC y Fondo 
+Abu Dhabi para apoyar la recuperación y el crecimiento 
+de las mipymes en Colombia por USD 45 millones.
+• Articulación entre Colombia Productiva, MinCIT y APC 
+para que MinHacienda transfiriera los recursos (USD 
+10 millones) a MinCIT.
+• Creación de la línea de crédito mediante convenio entre 
+MinCIT y Bancóldex.
+• Convenios entre Colombia Productiva, aliados 
+regionales (casi todas las Cámaras de Comercio) y 
+extensionistas para la ejecución de los recursos del 
+extensionismo tecnológico.
+• Acceso a crédito a las empresas beneficiarias de los 
+procesos de extensionismo.
+• Medición de impacto por Colombia Productiva.
+De este caso podemos aprender que:
+• Los entes territoriales deben conocer la agenda de cooperación del Gobierno nacional en materia de desarrollo productivo, ya que los 
+recursos de cooperación pueden ser una fuente de financiación significativa de PPT.
+• Los recursos que se aportan a líneas de crédito Bancóldex pueden tener un factor multiplicador cercano a 15 o 24 veces el valor del aporte 
+inicial; es decir, si un ente territorial aporta $100 millones para una línea de crédito Bancóldex, se inyectan entre $1500 y $2000 millones en 
+líneas de crédito para empresas del territorio.
+• Desarrollar metodologías propias de extensionismo, como Fábricas de Productividad, puede ser el aporte del País en proyectos en los cuales 
+cooperantes internacionales y fondos soberanos aporten sumas significativas de dinero. De hecho, Alianzas para la Reactivación fue en su 
+momento el programa de extensionismo de mayor escala en Latinoamérica. 
+19
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+
+2.7.2. Construcción y dotación del centro de aprendizaje SENA en el Alto Oriente Caldas 
+Antecedentes: 
+Obras por Impuestos se implementa en Colombia desde el 2017. Este mecanismo permite a las empresas que cumplan con los 
+requisitos de redireccionar hasta el 50 % de su impuesto de renta hacia obras de interés general y territorial. Desde la firma del Acuerdo 
+de Paz con las Fuerzas Armadas Revolucionarias de Colombia (FARC) y hasta el 2023, el mecanismo de Obras por Impuestos ha 
+permitido movilizar recursos por más de $1,9 billones en las zonas más afectadas por el conflicto armado (ZOMAC) y en municipios con 
+Programas de Desarrollo con Enfoque Territorial (PDET). 
+Obras por Impuestos es una fuente de financiamiento para los PDET y ZOMAC que progresivamente ha sido fortalecida por el Gobierno nacional. 
+En 2022 el Gobierno nacional amplió el cupo de Obras por Impuestos en $800.000 millones, lo que triplicó el cupo asignado en el año 2018.
+Caso
+Los municipios de Pensilvania, Manzanares, 
+Marquetalia, Marulanda, Samaná
+́
+ (en Caldas), 
+Fresno y Herveo (en Tolima), Nariño y Sonsón 
+(en Antioquia) plantearon un proyecto que 
+busca dar solución a las necesidades de 
+formación técnica y tecnológica de la región.
+La construcción y dotación del centro de 
+aprendizaje asciende a $63.000 millones y 
+busca impactar una población de 147.000 
+personas de los 9 municipios PDET que ya 
+fueron mencionados. 
+Este proyecto se encuentra incluido en el 
+banco de proyectos de Obras por Impuestos 
+y puede ser financiado por cualquier 
+contribuyente del impuesto de renta que 
+cumpla con los requisitos.
+Fuentes de financiación
+• Obras por Impuestos es una 
+alternativa al impuesto de renta. 
+Las empresas pueden destinar 
+hasta el 50 % de su impuesto de 
+renta a la financiación y ejecución 
+de obras. 
+• Obras por Impuestos no es un 
+incentivo tributario sino una 
+posibilidad de redireccionamiento 
+de impuestos, permitiendo 
+al contribuyente desarrollar 
+proyectos de gran impacto 
+territorial.
+• El sector de la infraestructura 
+para la productividad se 
+puede financiar con Obras por 
+Impuestos.
+Estructuración
+• Los nueve municipios de forma coordinada con el 
+Ministerio del Trabajo y el SENA llevaron a cabo 
+mesas de trabajo y formularon bajo la metodología 
+MGA la propuesta de construcción y dotación del 
+centro.
+• Para lograr la aprobación de la construcción y 
+dotación del centro se debía contar con el concepto 
+favorable del Sena, que se logró mediante el trabajo 
+conjunto.
+• El proyecto fue declarado viable en febrero de 2023. 
+• En el banco de proyectos mapainversiones.dnp.gov.
+co se encuentra este proyecto y su estado actual es 
+inactivo.
+• En marzo de 2024 se anunció que se realizaría la 
+construcción del Centro a través de la figura de obra 
+por impuestos.
+De este caso podemos aprender que:
+• Los entes territoriales pueden crear una alianza con el sector privado: los entes territoriales consiguen la aprobación del proyecto de 
+obras por impuestos y las empresas privadas asumen la financiación y desarrollo del proyecto. Así ya lo han hecho varias empresas 
+como Ecopetrol, EPM, MINEROS S.A., Enertolina, Servigenerales, Corona, Crepes and Waffles, entre otros.
+• El mecanismo de obras por impuestos permite una articulación público-privada como fuente de financiación para que el territorio ejerza 
+su autonomía en materia de productividad y financiamiento de proyectos productivos.
+• El mecanismo de obras por impuestos puede ser orientado para la construcción de infraestructura productiva.
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+20
+
+2.7.3. Macana (Proyecto de Turismo de Red EcolSierra)
+Antecedentes: 
+Red Ecolsierra es una asociación de 352 familias productoras de campesinos y caribeños, que durante 22 años han desarrollado un gran PPT que está consolidando sus 
+exportaciones de café orgánico, ha diversificado hacia la cosecha de la miel de abejas a través de la marca Miel de la Sierra y hacia el turismo comunitario a través de la 
+marca Macana. Red Ecolsierra encontró una oportunidad de desarrollar un PPT fortaleciendo las rutas de turismo comunitario con guías locales, es decir, con campesinos de 
+la Sierra Nevada de Santa Marta para dar a conocer los procesos de producción de café y miel.
+Caso
+Entre 2017 y 2020 se diseñó y se implementó 
+Macana con asistencia técnica multilateral para 
+desarrollar la infraestructura en 32 fincas campesinas 
+para recibir turistas. En 2021se convirtió en Operador 
+Turístico Autorizado y ha creado un portafolio de 
+servicios turísticos, que está en mejora constante 
+mediante la participación de programas de asistencia 
+técnica y extensionismos tecnológicos brindados 
+por las Cámaras de Comercio y por organizaciones 
+internacionales.
+Actualmente ofrece siete rutas ecoturísticas en 
+Bonda, Minca y Santa Marta y tiene tres rutas en fase 
+piloto en los municipios de San Javier, San Pedro y 
+Ciénaga.
+El proyecto produce ingresos a 300 familias 
+caficultoras de la Sierra Nevada de Santa Marta, 
+quienes operan a través de la Red Ecolsierra; y se 
+basa en la experiencia acumulada de esta Red en 
+identificar fuentes de financiación en las agendas 
+nacionales y mundiales. 
+Fuentes de Financiación
+• Recursos de asistencia técnica y cooperación internacional: en 
+2018, Red Ecolsierra adhirió al Programa “Equipares Rural”, para 
+cerrar brechas de género. Este programa fue articulado entre el 
+Ministerio de Trabajo y el PNUD. El Programa le dio a Macana:
+ Un diagnóstico organizacional con enfoque de género
+ Un plan de acción para superar la brecha de género 
+ La dotación de fincas campesinas para recibir turistas
+• Recursos propios del PPT: posteriormente, Macana se convirtió 
+en operador turístico, con ello pasó a vender servicios turísticos.
+• Extensionismo tecnológico y asistencia técnica: Macana a través 
+de asistencia técnica ofrecido por una Cámara de Comercio 
+pudo crear una experiencia turística en realidad aumentada, 
+también ha recibido asistencia técnica del programa conjunto 
+“Paisajes Sostenibles. Herencia Colombia” de la FAO, la WWF y 
+USAID. Asimismo, participa ininterrumpidamente de programas 
+ofrecidos por las Cámaras de Comercio como, por ejemplo, 
+“La Ruta Macondo” enfocado en canales de comercialización 
+y aumento de ventas. Adicionalmente, por medio de estos 
+programas de extensionismos hace parte la plataforma “Perla 
+App” impulsado por Pro Santa Marta, como uno de sus canales 
+de venta.
+Estructuración
+• Ecolsierra cuenta con una estructura 
+organizacional eficiente para el 
+cumplimiento de su misión de generar 
+ingresos a las familias campesinas que 
+representa. 
+• Se organiza como una Asociación 
+legalmente constituida y dicha Asociación 
+es la única propietaria de la Sociedad por 
+Acciones Simplificada a través de la cual 
+lleva a cabo la actividad comercial. 
+• Cuenta con centros de acopio en siete 
+municipios del Magdalena en los que 
+compra el producto a las familias 
+campesinas.
+• Su naturaleza de asociación le permite ser 
+canalizadora de recursos de proyectos de 
+cooperación que beneficien a sus familias 
+afiliadas, y la sociedad por acciones 
+simplificada le permite llevar a cabo la 
+labor de comercialización y exportaciones
+De este caso podemos aprender que:
+• Es fundamental fijar una estrategia que permita el acceso a varias fuentes de financiación durante la vida del proyecto.
+• Los PPT de mayor impacto requieren de financiación constante en todas sus etapas de desarrollo.
+• El extensionismo tecnológico y la asistencia técnica pueden ser el complemento perfecto a la financiación de PPT.
+• Los buenos resultados en el uso de las fuentes de financiación obtenidas abren las puertas para acceder a nuevas fuentes de financiación y a la diversificación de la oferta 
+del PPT.
+• Es posible tener una visión inclusiva de la población. El proyecto turístico de Red Ecolsierra logró diversificar sus servicios y con ello también insertar a 14 mujeres en sus 
+PPT, con lo que produjo nuevos ingresos a través de un enfoque de género.
+21
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+
+2.7.4. Manizales Más
+Antecedentes: 
+En 2012 varios actores de Manizales adquirieron la metodología de Babson College para potenciar las capacidades productivas de empresa. La metodología sugirió que la intervención 
+empresarial se realizara a empresas con “alta capacidad de crecimiento”, es decir, pymes de industrias tradicionales con amplia experiencia en el mercado, lo cual implicó trabajar con las 
+empresas más grandes de la región y no con mipymes nacientes. Aunque fue difícil convencer a todos de que este era el camino, decidieron aceptar el enfoque sugerido por Babson College. Así, 
+Manizales Más en los primeros ocho años se en concentró en desarrollar programas que potenciaran la vertical de emprendimiento en el ecosistema caldense sin desarrollar, inicialmente, la 
+vertical de innovación.
+Casi una década después las empresas impulsadas por Manizales Más empezaron a demandar asistencia en innovación, pues se cumplió la promesa de Babson College: las empresas de 
+Manizales Más aceleradas desde la vertical de emprendimiento y mediante trabajo continuo, ahora ya están preparadas para recibir capital de riesgo y han empezado a desarrollar empresas 
+derivadas (spin-offs), por eso, desde 2019, en alianza con el Massachusets Institute of Technlogy (MIT) Manizales Más está desarrollando un plan de acción para que a su vertical —ya 
+consolidada— de emprendimiento se le sume la vertical de innovación.
+Caso
+En 2012, la Fundación Luker lideró la unión de nueve aliados regionales para reunir recursos 
+financieros y así pagar la metodología de Babson College, escuela líder de emprendimiento 
+en el mundo. Durante el período de 2012 a 2016, Manizales Más se concentró en desarrollar 
+las habilidades propias que le permitieran absorber la metodología de trabajo de Bapson 
+(transferencia de tecnología exitosa) y desde entonces ha impulsado a 200 de empresas 
+caldenses de alto potencial.
+En 2016, Manizales Más empezó el desarrollo de sus propias metodologías, llevando a cabo 
+proyectos de mentoría y programas de consolidación de cadena de proveedores a varias 
+empresas líderes en Colombia. Luker les solicitó asesorar el proceso productivo del corregimiento 
+de Necoclí y el municipio de Tumaco, en donde la empresa tiene cultivos de cacao. Las mejoras 
+productivas en estos territorios comprobaron la capacidad de Manizales Más como actor de 
+desarrollo económico rural.
+En 2019 en el Programa “Escalonando Empresas de Alto Potencial” de INNpulsa, Manizales Más 
+fue el aliado que aceleró el mayor número de emprendimientos en el Eje Cafetero, revalidando su 
+madurez para replicar su metodología. 
+Fuentes de Financiación
+• Recursos 100 % regionales: desde su 
+fundación se ha sostenido con aporte de 
+aliados del departamento: 2 públicos, 5 
+universidades y 3 privados.
+• Actividad operacional: Manizales Más 
+vende servicios de consultoría de desarrollo 
+económico territorial, mentorías y 
+fortalecimiento de la cadena de proveedores.
+• Programa: mediante convenio “Escalonando 
+Empresas de Alto Potencial” celebrado entre 
+INNpulsa y Manizales Más, se hicieron aportes 
+proporcionales con los cuales se aceleró 78 
+empresas del Eje Cafetero con la metodología 
+de Manizales Más
+Estructuración
+• Los aportes los realizan los aliados y 
+administrados por la Universidad Autónoma 
+de Manizales. Manizales Más es una marca 
+que se encuentra registrada por la Fundación 
+Luker y se aclara que es para uso de la 
+ciudad.
+• Manizales Más opera a través de dos 
+personas jurídicas: la Fundación Universidad 
+Autónoma y la Fundación Luker. Todos los 
+recursos y contrataciones de proveeduría las 
+hace por medio de la Universidad.
+• Manizales Más es una metodología de 
+trabajo replicable a otros territorios para la 
+mejoría de las capacidades de las empresas 
+locales.
+De este caso podemos aprender que:
+• Una iniciativa regional puede transformar las capacidades productivas de un territorio. 
+• La inversión en una licencia de uso de una tecnología permitió desarrollar las capacidades locales para el fortalecimiento de empresas; este caso enseña que para obtener transferencia de 
+tecnología alguien debe pagar por ella y el receptor debe desarrollar las capacidades para absorberla.
+• Manizales Más se focalizó en un segmento de empresas tradicionales con amplia experiencia en el mercado y ha sabido entender el desarrollo productivo territorial en dos etapas: 1. Impulsar 
+sus emprendimientos hasta que puedan innovar 2. Impulsar la innovación cuando ya cuente con empresas capaces de innovar. (¡Y no al revés!)
+• Durante 11 años, Manizales Más ha atendido en más de 800 empresas con indicadores de impacto sobresalientes. Esto es un punto de reflexión sobre el número óptimo de empresas que 
+pueden ser beneficiarios de un programa de extensionismo tecnológico y la importancia de procesos continuos y sostenido para una misma unidad productiva.
+22
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+
+23
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+2.8. ¿Cómo financiar más y mejores proyectos productivos?
+La financiación de un PPT se debe planear desde su estructuración, sobre la base que para 
+su sostenimiento, crecimiento y escalamiento se requerirá financiación constante durante 
+todas las etapas de desarrollo.
+De esta manera, los entes territoriales al seleccionar apuestas productivas y los PPT a 
+través de las cuales se materialicen estas apuestas, deben lograr que sus proyectos solucionen 
+problemas prioritarios en la agenda de potenciales financiadores, nacionales e internacionales. 
+Entre mayor sea el número de potenciales financiadores para un PPT, aumentarán sus 
+posibilidades de acceder a financiación para mantener la operación, crecerla y escalarla.
+2.9. ¿Por qué se hace énfasis en la inversión externa directa (IED) 
+como fuente de financiación de proyectos productivos?
+La IED complementa los ingresos corrientes del país y es una oportunidad de conexión para 
+Colombia con el mundo. En otras palabras, la IED trae capitales con los que no contaba antes 
+el país, lo cual amplía la cantidad de recursos disponibles para financiar la transformación 
+productiva que requiere Colombia y trae también nuevas formas de producción, que con los 
+habilitadores adecuados, puede transformarse en transferencia de tecnología.
+La IED facilita el desarrollo de encadenamientos productivos con empresas colombianas 
+que les permiten integrarse en cadenas regionales y globales de valor. La IED es uno de los 
+medios con los que Colombia puede cerrar la brecha de desarrollo tecnológico.
+La atracción de IED de eficiencia debe ser medida en términos de mayores índices de 
+industrialización en el país. 
+
+24
+MÓDULO III: INCENTIVOS A 
+LA ATRACCIÓN DE INVERSIÓN 
+EXTRANJERA DIRECTA DESDE 
+LOS TERRITORIOS
+3.1. ¿Por qué es importante la IED?
+• La inversión extranjera directa (IED) es una inversión que:
+• Implica una relación de largo plazo.
+• Refleja un interés duradero y de control por parte de un inversionista sobre una empresa 
+nueva o existente en el país receptor de la inversión.
+• Implica un nivel elevado de intervención en el manejo de la empresa residente, en 
+contraposición con las inversiones de portafolio (por ejemplo, algunas inversiones en 
+bolsa de valores).
+• Ayuda al crecimiento económico porque complementa la inversión doméstica. 
+La política pública puede orientar la IED para:
+3
+La IED también puede 
+aportar al crecimiento 
+económico sostenible cuando:
+• Facilita la conservación del 
+medio ambiente
+• Contribuye con el 
+cumplimiento de cualquiera 
+de los 17 objetivos de 
+desarrollo sostenible 
+• Genera empleos de calidad 
+• Impulsa la innovación 
+• Aumenta la productividad y 
+la competitividad
+Promover 
+encadenamientos 
+productivos
+Fomentar 
+capacidad 
+productiva 
+a través 
+de flujos 
+de capital 
+extranjero
+Transferir 
+conocimiento y 
+tecnología
+Facilitar la 
+inserción 
+de sectores 
+productivos 
+en cadenas 
+globales y 
+regionales de 
+valor
+IED
+
+25
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.2. Tipos de inversión 
+La literatura académica coincide en dividir la IED en cuatro tipos de inversiones diferentes según 
+lo que buscan en el mercado receptor; así mismo, varían sus necesidades y sus efectos potenciales 
+en la economía receptora. 
+Tipo de 
+inversión
+CaracterísticasImpactos
+Busca 
+materias 
+primas
+(Petróleo, gas, 
+minería)
+• Orientada a explotar recursos naturales.
+• La disponibilidad del recurso es la 
+principal ventaja de localización que 
+ofrece el país receptor.
+• Generalmente se orienta a la 
+exportación.
+• No produce mayores derrames a 
+la economía receptora.
+• Puede incorporar algo de 
+transferencia de tecnología. 
+• Puede incentivar algunos 
+servicios especializados alrededor 
+de la actividad.
+Busca 
+mercado local
+(Industria 
+automotriz, 
+industria 
+alimentaria, 
+industria 
+financiera, 
+telecomuni 
+caciones)
+• Se dirigen a explotar el mercado 
+doméstico del país receptor.
+• Eventualmente busca expansión a 
+mercados vecinos.
+• Evalúa el tamaño y la tasa de 
+crecimiento del mercado de destino.
+• Evalúa la disminución de costos por 
+barreras físicas, transporte, etc. 
+• Puede elevar el nivel de 
+competencia en el mercado 
+doméstico.
+• Puede inducir a las firmas locales 
+que compiten con las extranjeras 
+a elevar su productividad/calidad.
+• Puede estimular la creación de 
+cadenas productivas.
+• Puede estimular el acceso al 
+comercio exterior de las firmas 
+locales que se consolidan como 
+proveedores.
+Busca 
+eficiencia 
+(Servicios 
+tercerizados a 
+las empresas, 
+industria 
+automotriz 
+regional, 
+industria 
+electrónica)
+• Buscan racionalizar la producción de 
+las distintas unidades de la corporación 
+multinacional para explotar economías 
+de especialización y de alcance y 
+diversificar riesgos.
+• Buscan concentrar diferentes líneas de 
+producción en distintas localizaciones 
+que, a su vez, abastecen múltiples 
+mercados.
+• Busca mercados con cierto grado de 
+apertura o procesos de integración 
+regional.
+• Busca mercados con un buen desarrollo 
+de infraestructura física y de servicios.
+• Puede estimular la transferencia 
+de tecnología y conocimiento.
+• Puede estimular las cadenas 
+globales de valor.
+• Puede promover 
+encadenamientos productivos.
+Busca activos 
+estratégicos
+Tienen como objetivo adquirir recursos 
+y capacidades que pueden contribuir a 
+mantener y aumentar las capacidades 
+competitivas del inversionista en el 
+mercado regional/global
+Busca activos estratégicos como:
+• Capacidades de innovación 
+• Estructuras organizacionales
+• Acceso a canales de distribución
+• Know-how de necesidades de 
+consumidores en mercados diferentes
+• Puede estimular la transferencia de 
+tecnología y conocimiento.
+• Puede estimular las cadenas globales 
+de valor.
+• Puede promover encadenamientos 
+productivos.
+Fuente: elaboración propia, basado en [10] y [11].
+
+26
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.3. ¿Cuáles aspectos evalúan los inversionistas extranjeros de un 
+territorio durante la toma de decisiones?
+La literatura académica y diversas encuestas internacionales han señalado que, en general, 
+los factores determinantes para la toma de decisión de llevar a cabo una inversión en el exterior 
+están relacionados con factores como la estabilidad política, la estabilidad jurídica, el acceso a 
+mercados, la transparencia o la calidad de la infraestructura.
+En ese sentido se puede afirmar que, en primer término, los inversionistas buscan donde 
+colocar sus recursos teniendo siempre en cuenta el tipo de inversión y el marcado receptor, 
+siguiendo:
+ Condiciones macro de entrada
+ Condiciones del país receptor teniendo en cuenta el tipo de inversión que planean realizar y, 
+ Facilidades que ofrece el país receptor para hacer negocios. 
+A continuación, se presenta un cuadro resumen de los principales determinantes para la IED:
+Marco general 
+para la 
+inversión
+Estabilidad (política, económica, social)
+Regulación IED (reglas de entrada, operación, salida de dividendos, etc.)
+Marco regulatorio (derecho de la competencia, fusiones y adquisiciones, 
+gobierno corporativo, etc.).
+Política comercial (incluye regulación aduanera) - Coherencia con la política de IED
+Política tributaria
+Protección a los derechos de propiedad (incluye propiedad intelectual)
+Políticas regionales e industriales (desarrollo de clústeres y cadenas 
+productivas)
+Tasa de cambio estable
+Determinantes 
+para la 
+inversión 
+dependiendo 
+del tipo de IED
+Inversión que busca 
+materias primas
+Costo de la tierra y de construcción
+Acceso a recursos naturales
+Acceso a materias primas
+Inversión que busca 
+nuevos mercados
+Tamaño de mercado e ingreso per cápita
+Crecimiento del mercado
+Acceso al mercado regional y global
+Preferencias del consumidor (específico del país 
+huésped)
+Ubicación geográfica
+
+27
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Determinantes 
+para la 
+inversión 
+dependiendo 
+del tipo de IED
+Inversión que busca 
+eficiencia
+Disponibilidad y costo del recurso humano
+Costos de productos intermedios, logísticos y de 
+transporte
+Pertenencia a acuerdos de integración regional
+Ventajas comparativas frente a otros países
+Mejor despliegue y uso de recursos globales
+Inversión que busca 
+activo estratégico
+Acceso a una ventaja competitiva específica (i.e. 
+tecnología, marca, etc.)
+Acceso a redes específicas de mercado, de know-
+how o de tecnología
+Activos específicos del país (herencia cultural, 
+atractivos turísticos)
+Facilidad para 
+hacer negocios
+Promoción de inversión (acceso a información país, construcción de marca 
+país, etc.)
+Incentivos a la inversión (tributarios, financieros, técnicos, regulatorios)
+Calidad de vida (acceso a colegios bilingües, servicios sociales, etc.)
+Servicios posinversión o de mantenimiento adecuado de la inversión (after 
+care)
+Posibilidad de acceder a servicios de ventanilla única (one-stop-shop) y de 
+facilitación de inversión (facilitador de inversión)
+Fuente: traducido y adaptado de [12].
+3.4. ¿Cuál es el papel que juegan los incentivos a la atracción de IED 
+en el incremento de la IED?
+Los incentivos a la IED son de los elementos que consideran las empresas extranjeras para 
+escoger el territorio en el cual establecer sus inversiones; sin embargo, no son el principal factor 
+para los inversionistas, pues existen otros con un peso más significativo en la toma de la decisión 
+de invertir. Muchas veces, las condiciones de competitividad de un territorio tienen mayor impacto 
+en la toma de decisión que los incentivos a la IED. Por eso, a la hora de diseñar un entorno atractivo 
+a la IED y para el desarrollo productivo territorial, es vital que los gobernantes locales tomen 
+decisiones estratégicas para impulsar el desarrollo de los factores de competitividad del territorio.
+Algunos factores de competitividad
+• Competitividad normativa
+ Estabilidad 
+ Predictibilidad
+ Bajos niveles de corrupción y otros
+
+28
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+• Calidad de la infraestructura
+ Física
+ Tecnológica
+• Disponibilidad del recurso humano requerido
+Relevancia de los incentivos en la toma de decisión de inversión 
+De acuerdo con el índice de confianza inversionista FDI Confidence Index 2023 que elabora 
+todos los años AT Kearney, la existencia de incentivos a la inversión fue el quinto (5.º) factor 
+determinante para elegir un mercado donde hacer una inversión. Los incentivos se posicionaron 
+en este lugar detrás de otros factores como: (1) la transparencia de las regulaciones 
+gubernamentales, (2) capacidades tecnológicas y de innovación, (3) tasas impositivas y 
+facilidad para el pago de impuestos y (4) eficiencia en los procesos legales y regulatorios.
+Las razones para elegir un destino de inversión varían según el tipo de inversión que se planea 
+llevar a cabo y el tipo de mercado receptor. El estudio de AT Kearney clasifica a Colombia como 
+un mercado emergente, en el cual los inversionistas priorizan, en su orden, siete aspectos de 
+condiciones competitivas del territorio antes que ponderar lo que se les otorga como los incentivos 
+a la IED.
+Fuente: traducido y adaptado de [39].
+Inestabilidad política
+Calida de la infraestructura
+Ambiente regulatorio
+Disponilibilda de talento humano 
+calificado
+Retos frente al movilidad del capital 
+Capacidades tecnológicas y de 
+innovación
+Tasas impositivas
+Costo mano de obra
+Falta de incetivos a la inversión
+Disponibilida de materias primas y 
+otros insumos
+Volatilidad macroecónómica
+38
+27
+27
+24
+22
+22
+19
+16
+16
+16
+11
+
+29
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.5. ¿Qué tipos de incentivos se pueden diseñar para atraer IED?
+En esta guía se entienden por incentivos a la IED las medidas tomadas por los actores de la 
+internacionalización de un territorio que logran que una inversión se establezca, se mantenga y 
+reinvierta. 
+Incentivos fiscales
+Medidas tributarias que establecen exenciones o reducciones a tributos que de otra forma serían 
+percibidos por el gobierno.
+Colombia
+Ha sido el incentivo más utilizado y se ha expresado en el país con ejemplos como la exención 
+de renta por la construcción de nuevos hoteles; tarifa diferencial en renta y exención de tributos 
+arancelarios para usuarios industriales de zonas francas o tratamientos especiales en impuestos 
+municipales como el predial o el de industria y comercio.
+Incentivos financieros
+Apoyo financiero que no tiene sustento en tributos (i.e. provisión de servicios y/o bienes públicos, 
+transferencia de fondos a través de préstamos o pagos en especie).
+Colombia
+Las líneas especiales de crédito para la internacionalización de Bancóldex constituyen un incentivo 
+financiero.
+Incentivos regulatorios
+Se expresan en la no aplicabilidad o derogatoria de la aplicación de normas nacionales o 
+subnacionales.
+Colombia
+Fue emblemático el caso de los contratos de estabilidad jurídica que otorgaban al inversionista la 
+garantía de la no aplicación de nuevas normas jurídicas que pudieran afectar el desarrollo de su 
+inversión
+Incentivos técnicos
+Apoyo a la empresa como servicios de consultoría y/o apoyo a las empresas para la facilitación de 
+sus operaciones.
+Colombia
+El caso del Programa Alianzas para la Reactivación, hoy llamado En Cadena, ofrecía jornadas de 
+emparejamiento diagnóstico y acompañamiento a las empresas para su inserción en cadenas de 
+valor.
+Nueva generación
+Se ha hallado que, en algunos casos (ver casos de estudio), los Gobiernos han diseñado incentivos 
+específicos para atraer inversiones particulares en sectores escogidos.
+Colombia
+En el caso colombiano se han identificado incentivos “a la medida” como la participación 
+(asociación) de la entidad territorial en el proyecto IED, aporte de bienes inmuebles al proyecto, 
+compras públicas por parte del Gobierno, etc.
+Fuente: elaboración propia basada en las clasificaciones de [12] [10] [13] [14].
+
+30
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.6. ¿Cómo está constituido el ecosistema de inversión en 
+Colombia? 
+Fuente: elaboración propia basada en la normativa vigente.
+3.7. ¿Es relevante coordinar los incentivos a la IED entre los niveles 
+nacional y local?
+Sí. Es fundamental que exista coordinación entre los dos niveles de gobierno. Un diseño 
+apropiado de incentivos para atracción de IED para las entidades territoriales debería considerar, 
+como mínimo, que dichos incentivos formen parte de una política integral de atracción de IED 
+NIVEL NACIONALNIVEL TERRITORIAL
+Consejo Superior de 
+Comercio Exterior
+(recomienda al 
+Gobierno general y 
+sectorial del comercio 
+exterior y de la 
+inversión extranjera)
+Ministerio de 
+Comercio, Industria y 
+Turismo
+(formula, adopta, dirige 
+y coordina las políticas 
+generales en materia 
+de promoción de la 
+inversión extranjera 
+directa)
+ProColombia
+(promoción y 
+facilitación del 
+crecimiento y 
+consolidación de 
+las iniciativas de 
+inversión extranjera 
+en Colombia y de la 
+inversión colombiana 
+en el exterior)
+Sistema 
+Nacional de 
+Competitividad 
+e Innovación
+Ventanilla Única 
+Empresarial
+Ventanilla 
+Única de 
+Inversión
+Servicio de 
+Facilitación 
+de la IED – 
+Comité
+ IED-SIFAI
+Diseño políticas 
+territoriales para la 
+atracción de IED en 
+coordinación con la 
+política nacional
+Promoción 
+y diseño de 
+estrategias
+Departamentos
+Planificación, 
+promoción, 
+coordinación del 
+desarrollo económico 
+Distritos especiales
+Impulsar el desarrollo 
+económico con énfasis 
+en aquello que sea de 
+especial interés para el 
+distrito, de acuerdo con 
+su vocación
+Municipios
+Promover alianzas 
+y sinergias público-
+privadas que 
+contribuyan al 
+desarrollo económico
+Cámaras de 
+Comercio
+Promover el 
+desarrollo regional 
+y participar 
+en programas 
+nacionales de esta 
+índole
+APRI
+Promoción, atracción 
+y retención de IED 
+a nivel territorial 
+(diseñar estrategias 
+conjuntas para atraer, 
+retener, identificar y 
+facilitar la recepción 
+de IED sostenible)
+Coordinación
+Participación
+Cámaras 
+binacionales
+(diseñar estrategias 
+conjuntas para 
+atraer, retener, 
+identificar y facilitar 
+la recepción de IED 
+sostenible)
+
+31
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+sustentada en objetivos claros de desarrollo en coordinación con los objetivos nacionales (i.e.: 
+políticas de reindustrialización, internacionalización, comercio exterior).
+Además de la coordinación, el diseño de incentivos debería basarse como mínimo en los 
+siguientes principios:
+Los incentivos no 
+son instrumentos 
+aislados
+Deben ser parte de una política y una estrategia ampliada de atracción de IED y de 
+desarrollo productivo.
+Deben estar alineados con:
+• Plan Nacional de Desarrollo + Agenda Nacional de Competitividad e Innovación
+• Política de Reindustrialización
+• Política de Internacionalización
+• Política de Comercio Exterior
+• Plan de Desarrollo Territorial + Agenda Departamental de Competitividad e 
+Innovación
+Los incentivos 
+(especialmente 
+los tributarios) 
+son siempre una 
+segunda mejor 
+opción
+Son instrumentos que corrigen fallas de mercado.
+Como tal, deben ser usados, sí y sólo sí, no hay mejores opciones de política pública 
+para corregir la falla mediante intervención directa del Estado, como por ejemplo:
+• Mejoras de infraestructura
+• Mejoras de seguridad jurídica
+• Preparación del talento humano
+Los incentivos 
+deben tener un 
+límite temporal
+Los incentivos y en especial los tributarios y financieros deben tener un límite en el 
+tiempo dado que están pensados para suplir una falla de mercado. Una vez que se 
+verifique que el incentivo ha cumplido con su cometido debería extinguirse para evitar 
+la creación de una ventaja artificial ofrecida a un grupo reducido de empresarios.
+Los incentivos 
+deben revisarse 
+y evaluarse 
+periódicamente
+La revisión se puede hacer a través de un sistema de medición de efectividad y 
+pertinencia
+Fuente: elaboración propia basada en las clasificaciones de [20] [21] [22] [23] y el trabajo de campo 
+realizado durante la consultoría DNP-1709- 2023.
+Recuerde:
+Las buenas prácticas de los casos exitosos internacionales han demostrado que las 
+estrategias de atracción de inversión se han basado, por lo menos, en los siguientes 
+principios:
+• La estrategia de desarrollo de la entidad territorial es una estrategia de largo plazo. 
+• La estrategia se basa en una política articulada de especialización e identificación de 
+sectores. 
+• Los incentivos son diseñados de tal manera que impacten principalmente a los 
+objetivos generales de la política de desarrollo. 
+
+32
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.8. ¿Qué incentivos a la atracción de IED se han generado en 
+Colombia?
+ INCENTIVOS NACIONALES [15]
+En el país los incentivos diseñados para la atracción de IED se han enfocado en ofrecer ventajas 
+tributarias a los inversionistas, así:
+• Incentivos sectoriales
+• Tratamientos especiales en el impuesto de renta a empresas que presten servicios 
+hoteleros.
+• Tratamientos especiales en renta, IVA, aranceles o depreciación por realizar ciertas 
+actividades o adquisiciones de equipos para la eficiencia energética o la producción de 
+energía de fuentes no convencionales.
+• Incentivos en el impuesto de renta destinados al desarrollo de vivienda (interés social o 
+prioritaria).
+• Descuentos en el impuesto de renta por desarrollo en ciencia y tecnología.
+• Incentivos generales
+• Descuento en el IVA por la importación, formación, construcción o adquisición de activos 
+fijos reales productivos.
+• Tratamiento especial arancelario para la importación de materias primas no producidas en 
+el país.
+• Deducciones en el impuesto de renta por la contratación de trabajadores menores de 28 
+años que están trabajando por primera vez.
+• Régimen tributario especial para las compañías holding en Colombia (CHC).
+• 
+• Regímenes especiales
+• Zonas francas [16]
+• ZOMAC: zonas más afectadas por el conflicto [17].
+• PDET: Programas de Desarrollo con Enfoque Territorial [18].
+ INCENTIVOS TERRITORIALES [19]
+El inventario de incentivos que tradicionalmente han ofrecido las entidades territoriales se ha 
+centrado casi exclusivamente en incentivos tributarios. A continuación, se relacionan de forma 
+genérica los incentivos encontrados más prevalentes:
+• Exenciones/descuentos en impuesto de industria y comercio por un tiempo determinado:
+• Establecimiento de nuevas empresas pertenecientes a diversos sectores en el territorio.
+• Establecimiento de nuevas empresas que generen un mínimo de empleos directos.
+• Establecimiento de nuevas empresas que inviertan valor mínimo.
+
+33
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+• Exenciones/descuentos en impuesto predial por:
+• Establecimiento en predios de nuevas empresas que:
+ Vinculen a un mínimo de empleos directos.
+ Traigan un mínimo de inversión.
+ Desarrollen servicios hoteleros.
+ Actividades que el municipio pretende promover.
+3.9. ¿Cuál es el nivel de discrecionalidad de los entes territoriales 
+para el diseño de incentivos a la atracción de la IED?
+El diseño y la creación de incentivos para la atracción de inversión en el nivel territorial se 
+enmarca en la autonomía de las entidades subnacionales para la gestión de sus intereses en los 
+ámbitos de sus competencias. 
+Recuerde: 
+En materia de impuestos hay una serie de competencias definidas y algunos temas 
+reservados a la ley. Para todo lo demás, use su creatividad. Revise los casos de estudio 
+al final de este módulo.
+Dicha autonomía se materializa en la administración de los asuntos seccionales, planificación, 
+la promoción, coordinación del desarrollo económico, ambiental y social de la entidad. 
+La autonomía subnacional debe ejercerse con arreglo a los tres principios constitucionales:
+• Coordinación: ejercicio articulado, coherente y armónico de las competencias de la Nación 
+y las entidades territoriales.
+• Concurrencia: acciones conjuntas entre Nación y entidades territoriales para la búsqueda 
+de un objetivo común.
+• Subsidiariedad: acción del Gobierno nacional allí donde las entidades no tengan las 
+capacidades para ejercer sus competencias.
+
+34
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+3.10. ¿Cómo diseñar incentivos para la atracción de la IED en el nivel 
+territorial?
+En la figura se presenta el proceso (tipo preguntas) para el diseño de los incentivos por las 
+entidades territoriales:
+Fuente: elaboración propia.
+Recuerde: 
+En el diseño de incentivos, existen 
+posibilidades más allá de los incentivos 
+fiscales
+¿Tiene la entidad territorial una definición 
+de vocación productiva?
+NO
+Definir las apuestas territoriales
+SÍ
+¿La vocación productiva del territorio 
+se alinea con las apuestas nacionales 
+(PND, Políticas de Internacionalización, 
+Reindustrialización, y Comercio Exterior)?
+NO
+Buscar la alineación entre las 
+apuestas nacionales (PND Políticas de 
+Internacionalización, Reindustrialización, y 
+Comercio Exterior) y el PDT
+SÍ
+¿Tiene la entidad territorial las condiciones 
+mínimas (p.ej. infraestructura, conectividad, 
+etc.) para el desarrollo de las vocaciones 
+que se planean promover en el territorio?
+NO
+Repensar las apuestas territoriales
+Definir si pueden subsanarse con políticas 
+públicas
+Definir si pueden subsanarse con incentivos 
+o proyectos productivos 
+SÍ
+¿La entidad territorial ha identificado las 
+características que hacen único y/o atractivo 
+al territorio, en relación con los proyectos 
+que planea promover y con respecto a 
+otros territorios con los que compite por los 
+recursos?
+NO
+Identificar con claridad las características 
+que el territorio ofrece para hacer atractivo 
+el desarrollo de los proyectos productivos 
+de interés
+SÍ
+¿La entidad territorial ha realizado un 
+inventario de los incentivos existentes 
+(regímenes especiales, incentivos 
+nacionales, sectoriales y locales)?
+NO
+Inventariar los incentivos disponibles para 
+promover los proyectos productivos de 
+interés
+SÍ
+¿La entidad territorial ha identificado la 
+necesidad del diseño de otros incentivos (no 
+existentes), técnicamente justificables, que 
+podría ofrecerle al potencial inversionista?
+NO
+Consultar con el inversionista qué 
+necesidades requiere subsanar para 
+garantizar el desarrollo del proyecto 
+productivo que planea promover en el 
+territorio. De ser necesario, y técnicamente 
+justificable, evalué la posibilidad de diseñar 
+incentivos para ofrecerle al inversionista
+SÍ
+Diseñe el incentivo
+
+35
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Una vez culminado el proceso de identificado y diseño del tipo de incentivo que pretende crearse, 
+la entidad territorial deberá asegurarse de que el instrumento cuenta con las características de 
+un buen incentivo (ver sección 3.7.), y procederá a cumplir el proceso jurídico (viabilidad jurídica y 
+presupuestal del incentivo) y la definición del procedimiento jurídico requerido para la expedición 
+del acto administrativo que lo ponga en vigencia.
+Proceso para la creación del incentivo
+Fuente: elaboración propia basada en la normativa vigente.
+Diseño del 
+incentivo
+Departamento
+OrdenanzaAcuerdo
+Acto 
+Legislativo
+LeyDecreto
+Otros actos 
+administrativos
+MunicipioNación
+Definición de 
+pertinencia/vía 
+legal adecuada
+Evaluación de 
+competencia
+¿Competencia 
+nacional o territorial?
+Presentación a IED/
+SIFAI a través de 
+la VUE
+Se eleva al 
+SNCI
+
+3.11. Estudios de caso de incentivos en el nivel local para la atracción de IED
+3.11.1. BogotáBIO
+Antecedentes: 
+Durante la pandemia del COVID-19 se puso de presente la falta de producción de vacunas biológicas en el país. A raíz de esta 
+evidencia, la Alcaldía de Bogotá estructuró un proyecto que le permitiera atraer un inversionista extranjero con capacidad para producir 
+vacunas, que asegurara la transferencia de tecnología y que reforzara la soberanía en materia de vacunas.
+Caso
+En el contexto de la pandemia del COVID-19 
+y dado que Bogotá se fijó como objetivo de 
+desarrollo convertirse en una capital de salud, 
+al tener una fábrica de vacunas, con recursos 
+bien invertidos del distrito, con la capacidad de 
+inversionista extranjero y con la transferencia 
+adecuada de tecnología, la ciudad puede obtener 
+soberanía de vacunas y volverse un referente en 
+las ciencias de la vida y la salud. 
+Para alcanzar resultados en el corto plazo se 
+decidió invitar a empresas extranjeras mediante 
+un proceso competitivo, que ganó Sinovac de 
+China. El proyecto se encuentra en fase de cierre 
+de términos de negociación.
+Fuentes de financiación
+• La inversión del Distrito asciende a 
+los $357.000 millones constantes 
+entre 2021 y 2026 o $334.000 
+millones en vigencias futuras para 
+infraestructura y equipamiento o 
+22.800 millones de 2021.
+• El distrito ofrece una garantía de 
+mercado, mediante una negociación 
+con el Ministerio de Salud de la 
+Nación quien se comprometerá 
+a comprar las vacunas que se 
+produzcan.
+• La empresa extranjera aportará su 
+know how, propiedad intelectual 
+y eso le dará un componente 
+accionario. 
+Estructuración
+• La empresa fabricante BogotáBio 
+será una sociedad de economía mixta 
+entre el Distrito, representado por la 
+Secretaría Distrital de Salud y Atenea, y 
+Sinovac, empresa farmacéutica china.
+• La transferencia de tecnología se 
+materializa en el aporte que hace la 
+empresa extranjera en la sociedad de 
+economía mixta.
+• El Distrito es un habilitador para 
+procesos de gestión regulatoria, predial 
+y otros necesarios para la ejecución del 
+proyecto. 
+De este caso podemos aprender que:
+• El Distrito diseñó para el proyecto específico los incentivos que realmente se convirtieran en determinantes para la llevar a cabo de 
+este tipo de inversiones.
+• Nótese que la entidad territorial evalúo más allá de los incentivos fiscales y ofreció facilidades en temas como gestión regulatoria o 
+acceso a un mercado regulado.
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+36
+
+3.11.2. Call Center Pensilvania (Caldas)
+Antecedentes: 
+Hace más de una década Manizales se caracterizó por un modelo exitoso en la atracción de inversiones de call centers y servicios a las 
+empresas. El éxito de este esquema, altamente generador de empleo, se vio disminuido en los últimos tiempos por un fenómeno de 
+alta rotación laboral en las empresas. Esta rotación afecta, en algún grado, a las empresas prestadoras de servicios quienes buscan 
+mercados donde puedan encontrar colaboradores que busquen un horizonte laboral más estable.
+Caso
+La Fundación Acesco identificó el reto 
+planteado en los antecedentes y estructuró un 
+proyecto donde se brinda trabajo de calidad en 
+zonas rurales, en donde el acceso a puestos de 
+trabajo distintos de la agricultura, son escasos. 
+Además de lo anterior, el empleo generado en 
+estas zonas da un ingreso estable a jóvenes de 
+la región y los forma en competencias básicas 
+de tecnologías de la información.
+Para ello se puso en marcha un call center con 
+participación público-privada para la creación 
+de más de 100 empleos del municipio. El 
+proyecto ya va en su segunda fase.
+Fuentes de financiación
+• Aporte inicial de la 
+Fundación Acesco: asesoría 
+y estudio de mercado.
+• Aporte inicial del municipio: 
+inmueble y $286 millones.
+• Aporte inicial del 
+departamento: $150 
+millones
+• Operador: Empresa 
+Emergia de España
+• Aliado estratégico: 
+Davivienda como principal 
+cliente.
+Estructuración
+• Convenio interadministrativo entre la gobernación 
+y la alcaldía para la adecuación del inmueble y el 
+espacio físico.
+• El municipio da dos usos al inmueble:
+ Espacio abierto al público para desarrollo social y 
+programas de formación alrededor de las TIC.
+ Espacio para el desarrollo de actividades privadas 
+que generen empleos. Se estructura un acuerdo 
+entre el municipio y el aliado estratégico en 
+forma de comodato donde el privado a cambio 
+de llevar a cabo su operación se encarga de la 
+administración, mantenimiento y conservación del 
+inmueble. 
+• Convenio entre el aliado estratégico y el operador 
+del call center.
+De este caso podemos aprender que:
+• El proyecto identificó las necesidades de la región y las potencialidades realistas de desarrollo. Aquí el incentivo principal es facilitar 
+los bienes inmuebles a cambio de unos beneficios tangibles para la entidad territorial.
+• El proyecto no tiene un esquema clásico de estructuración. Tal estructura se compone de varias etapas y modelos que se ajustan a los 
+requerimientos de los privados y a las exigencias legales de las entidades territoriales.
+• El proyecto no solo mide su efectividad de este por la cantidad de empleos generados, sino también por la formación en otras 
+capacidades de sus bachilleres. 
+37
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+
+3.11.3. Campuslands
+Antecedentes: 
+Ante la falta de programadores en Bucaramanga, Campuslands recoge experiencias de programas de formación de India, Francia y 
+España. A raíz de estas experiencias un grupo de empresarios del sector privado une sus fuerzas para iniciar la formación del talento 
+humano requerido en áreas como la programación, inglés y habilidades blandas.
+Caso
+En 2021, a raíz de una necesidad 
+de fuerza de trabajo calificada, 
+empresarios se unen para formar a 
+jóvenes de la región en programación, 
+inglés y habilidades blandas. Este 
+es un proyecto completamente 
+privado que mejora las condiciones 
+de competitividad de la región como 
+potencial receptor de servicios de la 
+tecnología de la información.
+Hoy el proyecto tiene a 250 personas 
+en formación y asegura una 
+empleabilidad del 83%.
+Fuentes de financiación
+• Inversión de USD 3 millones del grupo 
+empresarial base.
+• La empresa privada puede asociarse al proceso 
+como:
+– Socio: inversión directa en la empresa.
+– Aliado: aportante en programas de 
+responsabilidad social empresarial. 
+• La Zona Franca de Santander aportó al proyecto 
+estableciendo un arriendo a mitad de precio, 
+asumiendo los costos de la calificación de la 
+empresa como usuario de la zona franca y 
+convocando a más empresas con potencial de 
+inversión. 
+• Pago de los estudiantes con capacidad para 
+hacerlo. 
+Estructuración
+• La empresa Campuslands agrupa 
+empresas privadas como:
+– Socios
+– Aliados
+• La empresa privada puede hacerlo 
+como estrategia de responsabilidad 
+social o porque más tarde requerirá 
+vincular a los formados. 
+• Además de las posibilidades 
+anteriores, las empresas pequeñas 
+pueden vincularse con Campuslands 
+en sus espacios de coworking o como 
+contratistas del proyecto.
+De este caso podemos aprender que:
+• Si bien este proyecto no cuenta con participación de la entidad territorial directamente, se convierte en un habilitador de las 
+condiciones de competitividad para el desarrollo de la región.
+• El proyecto aprovecha otros incentivos que disfrutan sus socios como es el caso de la zona franca.
+• Las entidades territoriales podrán aportar a este tipo de proyectos con recursos para la formalización o aportando bajo la metodología 
+de pagos por resultados.
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+38
+
+39
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+REFERENCIAS 
+BIBLIOGRÁFICAS
+[1] Ministerio de Comercio, Industria y Turismo. (2023). Competitivas [Online]. https://www.
+competitivas.gov.co/comisiones#:~:text=Las%20Comisiones%20Regionales%20
+de%20Competitividad,el%20marco%20del%20Sistema%20Nacional
+[2] 
+García, L. (2020, 2 noviembre). Nuevos lentes para un viejo problema: cómo promover 
+el desarrollo territorial en Latinoamérica. [Artículo publicado por el Banco Mundial]. 
+https://www.bancomundial.org/es/news/feature/2020/11/02/desarrollo-territorial-
+latinoamerica#:~:text=Lozano%3A%20El%20desarrollo%20territorial%20es,y%20
+ancho%20de%20un%20pa%C3%ADs
+[3] Garavito, A.; Iregui, A. M. and Ramirez, M. T. (2012). Determinantes de la Inversión 
+Extranjera Directa en Colombia. Borradores de Economía del Banco de la República, 
+712, p. 52.
+[4] Invest in Bogotá. (2021). Misión de Internacionalización: una oportunidad para 
+fortalecer la estrategia de atracción de IED en Bogotá Región. Actualidad del Entorno 
+de Negocios, III trim., (27), p. 19. 
+[5] 
+Departamento Nacional de Planeación (2021). Estrategia de promoción de la 
+inversión directa colombiana en el exterior. [Documento CONPES 3771]. DNP. https://
+colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3771.pdf 
+[6] 
+Ministerio de Comercio, Industria y Turismo. (2022, 4 de marzo). Segunda Mesa 
+Nacional de Internacionalización evalúa avance de estrategia de regionalización 
+de la misión [Nota de prensa]. Recuperado el 22 de diciembre de 2023. https://
+www.mincit.gov.co/prensa/noticias/comercio/segunda-mesa-nacional-de-
+internacionalizacion#:~:text=materia%20de%20internacionalizaci%C3%B3n.-
+,Se%20trata%20de%20un%20espacio%20de%20coordinaci%C3%B3n%20de%20
+las%20entidades,empresas%2C%20emprendedores%
+[7] 
+Departamento Nacional de Planeación. (2023). Sistema Nacional de Competitividad 
+e Innovación. Recuperado el 22 de diciembre de 2023. https://www.dnp.gov.co/
+LaEntidad_/subdireccion-general-prospectiva-desarrollo-nacional/direccion-
+innovacion-desarrollo-empresarial/Paginas/sistema-nacional-de-competitividad-e-
+innovacion-SNCI.aspx
+[8] Comisión Económica para América Latina y el Caribe.(2006). Sostenibilidad del 
+Desarrollo en América Latina y el Caribe: Cifras y tendencias. Cepal.
+
+40
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+[9] World Intellectual Property Organization. (2023). WIPO. Recuperado el 22 de 
+diciembre de 2023. https://www.wipo.int/technology-transfer/es/
+[10] 
+Gligo, N. (20079). Políticas activas para atraer inversión extranjera directa en América 
+Latina y el Caribe: Serie Desarrollo Productivo Cepal, 175. https://www.cepal.org/
+sites/default/files/publication/files/4572/S0700049_es.pdf
+[11] García, P. y López, A. (2020). La inversión extranjera directa. Definiciones, 
+determinantes, impactos y políticas públicas. Banco Interamericano de Desarrollo.
+[12] Johnson, L. and Toledano, P. (2022). Investment Incentives: a survey of policies and 
+approaches for sustainable investment. Columbia University - Columbia Center on 
+Sustainable Investment. 
+[13] Christiansen, H. (2003). Checklist for Foreign Direct Investment Incentive Policies. 
+OECD Publishing. 
+[14] James, S. (2020). Tax and Non-Tax Incentives and Investments Washington World 
+Bank - IFC.
+[15] 
+Investin Colombia. (2023). Incentivos para invertir en Colombia. Recuperado el 22 
+de noviembre de 2023. https://investincolombia.com.co/es/como-invertir/incentivos-
+tributarios
+[16] 
+Investin Colombia. Régimen de Zonas Francas en Colombia. Recuperado el 22 de 
+noviembre de 2023. https://investincolombia.com.co/es/como-invertir/regimen-de-
+zonas-francas-en-colombia
+[17] 
+Presidencia de la República de Colombia. (2017, 9 de octubre). Decreto 1650 de 2017, 
+Por el cual se adiciona un artículo a la Parte 1 del Libro 1; la Sección 1 al Capítulo 23 
+del Título 1 de la Parte 2 del Libro 1 y los Anexos No. 2 y 3, al Decreto 1625 de 2016, 
+Único Reglamentario en Materia Tributaria, para reglamentar los artículos 236 y 237 
+de la Ley 1819 de 2016. Diario Oficial 50.251 del 9 de octubre de 2017. https://www.
+funcionpublica.gov.co/eva/gestornormativo/norma.php?i=83757
+[18] 
+Departamento Nacional de Planeación. (2023). Sistema Integrado de Información 
+para el Posconflicto. Recuperado el 22 de noviembre de 2023. https://siipo.dnp.gov.
+co/iniciopdet. 
+[19] Cárdenas, A. Producto 3. Recomendaciones de la Guía de incentivos IED y Fuentes de 
+financiación para entidades territoriales y coordinación institucional. Departamento 
+Nacional de Planeación. 
+[20] 
+Departamento Nacional de Planeación. (2022, 5 de mayo). Concepto Unificado 2022-
+07. Revista Jurídica OAJ-DNP, 2. https://www.dnp.gov.co/publicaciones/Revista-
+Juridica/Paginas/Asignaciones-Directas.aspx
+
+41
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+[21] Departamento Nacional de Planeación. (2022, 30 de marzo). Concepto Unificado sobre 
+Asignación para la Paz 03. Revista Jurídica OAJ-DNP, 1. https://colaboracion.dnp.gov.
+co/CDT/Normatividad/Revista%20OAJ/Primera%20edici%C3%B3n/Concepto%20
+Unificado%20-%20Asignacion%20Paz.pdf
+[22] 
+Departamento Nacional de Planeación. (2023). Sistema de Información y Consulta de 
+Distribuciones de Recursos Territoriales (SICODIS). Recuperado 22 de noviembre de 
+2023. https://sicodis.dnp.gov.co/ModPreguntasFrecuentes/Preguntas_Consulta.aspx 
+[23] 
+Departamento Nacional de Planeación. (2023). Recursos propios: financiación de 
+la política pública para víctimas. Recuperado de 22 noviembre de 2023. https://
+pazvictimas.dnp.gov.co/Como-se-responde-a-los-efectos-del-conflicto/Paginas/
+Recursos-propios-financiaci%C3%B3n-de-la-pol%C3%ADtica-p%C3%BAblica-
+para-v%C3%ADctimas.aspx#:~:text=Los%20recursos%20propios%20hacen%20
+parte,y%2Fo%20prestar%20determinados 
+[24] Contraloría General de la República. (2020). Método de cálculo de ICLD e indicadores 
+Ley 617 de 2000, Por la cual se establece el trámite de los procesos de responsabilidad 
+fiscal de competencia de las contralorías. CGR.
+[25] Departamento Nacional de Planeación. (2015). Manual para la emisión de conceptos 
+para proyectos de cooperación internacional técnica o financiera no reembolsables 
+con la banca bilateral y multilateral para entidades públicas. DNP.
+[26] Alcaldía Mayor de Bogotá D. C. (2009). Cartilla de procedimientos de banca multilateral 
+y cooperación. Secretaría Distrital de Hacienda - Dirección Distrital de Crédito Público.
+[27] 
+Banco de Desarrollo Empresarial de Colombia. (2023). Bancóldex. Recuperado el 
+22 de noviembre de 2023. https://www.bancoldex.com/es/transparencia-y-mas/
+funciones-2314#:~:text=Banc%C3%B3ldex%20es%20un%20establecimiento%20
+de,sectores%20de%20la%20econom%C3%ADa%20colombiana
+[28] 
+Banco de Desarrollo Empresarial de Colombia. (2023). Qué es Bancóldex. Recuperado 
+el 22 de noviembre de 2023. https://www.bancoldex.com/es/noticias/que-es-
+bancoldex-237
+[29] 
+Fondo para el Financiamiento del Sector Agropecuario. (2023). Finagro. Recuperado 
+el 22 de noviembre de 2023. https://www.finagro.com.co/transparencia-acceso-
+informacion-publica/informacion-entidad/mision-vision-funciones-deberes/
+informacion-institucional. 
+[30] 
+Agencia de Desarrollo Rural.(2023). Agencia de Desarrollo Rural. Recuperado el 22 
+de noviembre de 2023. https://www.adr.gov.co/transparencia/acerca-de-la-adr/. 
+
+42
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+[31] Centro de Estudios Contables, Económicos y Administrativos de la Universidad del 
+Cauca. (2005). Marco legal de la metodología de Fondo Emprender. https://www.
+unicauca.edu.co/docs/convocatorias/marco-legal-fondo-emprender
+[32] 
+Comité de Gestión Financiera del SisClima. (2023). ¿Para qué es la Estrategia Nacional 
+de Financiamiento Climático (ENFC)? Recuperado el 22 de noviembre de 2023. https://
+finanzasdelclima.dnp.gov.co/movilizacionrecursos/estrategia/Paginas/para-que-es-
+la-estrategia-nacional-de-financiamiento-climatico.aspx
+[33] 
+Departamento Nacional de Planeación. (2022). Estrategia Nacional de Financiamiento 
+Climático. Recuperado el 22 de noviembre de 2023. https://colaboracion.dnp.
+gov.co/CDT/Ambiente/Finanzas%20del%20Clima/Estrategia_Nacional_de_
+Financiemiento_Climatico.pdf
+[34] 
+Departamento Nacional de Planeación (2001, 1 de diciembre). Acceso de los entes 
+territoriales a crédito como fuente de financiación. https://colaboracion.dnp.gov.co/
+CDT/Inversiones%20y%20finanzas%20pblicas/sem_2001_Acceso_de_entes_terr_
+Credito.pdf
+[35] 
+Hobbs. J. A. &. Cortés, A. P. (2023, 28 de septiembre). Bonos Verdes y Sociales en 
+Colombia: cinco preguntas y respuestas. https://blogs.iadb.org/ciudades-sostenibles/
+es/bonos-verdes-y-sociales-en-colombia-cinco-preguntas-y-respuestas/.
+[36] 
+Alcaldía Mayor de Bogotá D. C. (2019). Análisis sobre la importancia de la Inversión 
+Extranjera Directa y el comercio exterior en Bogotá. Estudios Macro 101, diciembre. 
+https://www.sdp.gov.co/sites/default/files/101_analisis_sobre_importancia_de_la_
+inversion_extranjera_directa_y_el_comercio_exterior_en_bogota_vf.pdf. [Accessed 
+22 noviembre 2023].
+[37] 
+Departamento Nacional de Planeación (2022, 16 de mayo). Política de 
+Internacionalización para el Desarrollo Productivo Regional. Documento CONPES 
+4085. DNP. https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/4085.
+pdf
+[38] 
+World Economic Forum. (2023). Guidebook Faciliting Climate FDI. White Paper, July 
+2023. https://www3.weforum.org/docs/WEF_Guidebook_on_Facilitating_Climate_
+FDI_2023.pdf
+[39] 
+Kearney. (2023). Cautiouns optimism. The 2023 Kearney FDI Confidence Index. 
+https://www.kearney.com/service/global-business-policy-council/foreign-direct-
+investment-confidence-index/2023-full-report
+[40] 
+Christiansen, H. (Ed.). (2003). Checklist for Foreign Direct Investment Incentive Policies. 
+OECD Publishing. https://www.oecd.org/daf/inv/investment-policy/2506900.pdf
+
+43
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+[41] Ministerio de Hacienda y Crédito Público. Ministerio de Hacienda Colombia. 
+Recuperado el 22 de noviembre de 2023. https://www.minhacienda.gov.co/webcenter/
+ShowProperty?nodeId=%2FConexionContent%2FWCC_CLUSTER-209678%2F%2F
+idcPrimaryFile&revision=latestreleased
+[42] 
+Programa de las Naciones Unidas para el Desarrollo. (2019, 17 de diciembre). 
+Red Ecolsierra y Equipares Rural trabajan en favor de la igualdad de género entre 
+productores de la Sierra Nevada de Santa Marta [Nota de prensa]. PNUD. https://
+www.undp.org/es/colombia/noticias/red-ecolsierra-y-equipares-rural-trabajan-
+en-favor-de-la-igualdad-de-genero-entre-productores-de-la-sierra-nevada-de-
+santa-marta
+[43] 
+Iniciativa de Transparencia de las Industrias Extractivas, “Iniciativa de Transparencia 
+de las Industrias Extractivas (EITI) 2020. Recuperado el 22 de noviembre de 2023. 
+https://eiti.org/sites/default/files/2022-09/informe_eiti_2020_Final_compressed.pdf
+[44] 
+Fundación Ideas para la Paz (FIP), “Fundación Ideas para la Paz (FIP),” 27 julio 
+2022. [Online]. Recuperado el 22 de noviembre de 2023. https://empresaspazddhh.
+ideaspaz.org/sites/default/files/documentos-micro/FIP_NE_ObrasporImpuestos_
+CAMBIOSJULIO_V5.pdf
+[45] 
+Departamento Nacional de Planeación. (2023, 14 de septiembre). DNP fortalecerá el 
+mecanismo de Obras por Impuestos en las regiones más afectadas por el conflicto 
+[Nota de prensa]. https://www.dnp.gov.co/Prensa_/Noticias/Paginas/dnp-fortalecera-
+el-mecanismo-de-obras-por-impuestos-en-las-regiones-mas-afectadas-por-el-
+conflicto.aspx
+[46] 
+World Economic Forum. (2023). Guidebook Faciliting Climate FDI. White Paper, July 
+2023. https://www3.weforum.org/docs/WEF_Guidebook_on_Facilitating_Climate_
+FDI_2023.pdf
+[47] 
+Comisión Económica para América Latina y el Caribe. (2023). La inversión extranjera 
+directa en América Latina y el Caribe, 2023 (LC/PUB.2023/8-P/Rev.1). Cepal. https://
+repositorio.cepal.org/server/api/core/bitstreams/9a7cc765-ac4e-40dc-b69d-
+4ffe3cc4508e/content
+[48] 
+Comisión Económica para América Latina y el Caribe. (2015). El financiamiento para 
+el desarrollo en América Latina y el Caribe. Recuperado el 22 de noviembre de 2023. 
+https://repositorio.cepal.org/server/api/core/bitstreams/e66b42ee-de74-4df9-b68d-
+4f8ca85416b7/content
+[49] Departamento Nacional de Planeación (2023). Metodología General Ajustada para la 
+formación de proyectos de inversión pública en Colombia. DNP.
+
+44
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+[50] Jiménez, E.; Yepes, R.; Giraldo, J. y Rojas, I.(2021). Valle de la muerte: factores que 
+dificultan el éxito de innovaciones tecnológicas. Revista CEA, 7 (15). Instituto 
+Tecnológico Metropolitano. 
+[51] 
+Fernández de Soto, C., Escobar, C. y Trejos, A. F. (2022). El camino hacia la 
+productividad: evolución de Fábricas de Productividad 2018-2021. Colombia 
+Poductiva - Una Tinta Medios. https://www.colombiaproductiva.com/CMSPages/
+GetFile.aspx?guid=46683bc7-67e3-4568-873e-635c80c303df
+
+45
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+ANEXOS
+Anexo 1: ¿Cuáles son las fuentes de financiación disponibles para 
+los proyectos productivos territoriales?
+A continuación, se presentan las fuentes de financiación más relevantes (señaladas en la 
+sección 2.5) identificadas para proyectos productivos territoriales existentes e información inicial 
+sobre las bases y requisitos de las convocatorias. A través de los hipervínculos en la columna 
+“Conozca más” se puede acceder a sitios en línea con información específica.
+A. Fuentes internas de financiación: Fuentes de financiación de la inversión pública
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+1. Sistema General de Regalías (SGR)
+Fondo para 
+el Desarrollo 
+Regional (FDR)
+El Fondo de 
+Desarrollo Regional 
+sirve como un 
+mecanismo para las 
+entidades territoriales 
+del país.
+Tiene como finalidad 
+la financiación de 
+proyectos regionales 
+de desarrollo en los 
+términos que lo defina 
+la ley (artículo 33 de la 
+Ley 1454 de 2011).
+Los recursos están 
+divididos en un 60 % 
+para proyectos de los 
+departamentos y en un 
+40 % para proyectos de 
+las regiones.
+https://asocia-
+tividad.dnp.
+gov.co/pregun-
+tas-frecuentes/
+cu%C3%A-
+1les-son-instru-
+mentos-o-fuen-
+te-de-financia-
+cio-n-de-los-es-
+quemas-asocia-
+tivos
+La asignación, la 
+evaluación y la aprobación 
+se harán a través de 
+cuerpos colegiados, con 
+participación de alcaldes, 
+gobernadores y el 
+gobierno nacional.
+Asignaciones 
+Directas
+Las Asignaciones 
+Directas son el 
+porcentaje de 
+participación en los 
+ingresos corrientes 
+del Sistema General 
+de Regalías (SGR) al 
+que tienen derecho 
+departamentos y 
+municipios.
+Estos recursos 
+deben destinarse 
+a la financiación o 
+cofinanciación de 
+proyectos de inversión 
+para el desarrollo 
+social, económico 
+y ambiental de las 
+entidades territoriales. 
+Deben seguir un 
+trámite especial 
+(artículo 22 de la Ley 
+2056 de 2020) [20].
+Solo aplican para 
+departamentos y 
+municipios en cuyo 
+territorio se adelante la 
+explotación de recursos 
+naturales no renovables 
+(RNNR), así como a los 
+municipios con puertos 
+marítimos y fluviales por 
+donde se transporten 
+dichos recursos o 
+productos derivados de la 
+extracción.
+https://colabora-
+cion.dnp.gov.co/
+CDT/Normativi-
+dad/Revista%20
+OAJ/Segunda%20
+edici%C3%B3n/
+Concepto%20
+unificado%2007.
+pdfz
+
+46
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+1. Sistema General de Regalías (SGR)
+Asignación 
+para la 
+Inversión Local
+La Asignación para 
+la Inversión Local 
+implica la distribución 
+estratégica hacia 
+actividades 
+económicas, sectores 
+industriales del 
+ámbito nacional.
+La Asignación para 
+la Inversión Local 
+tendrá como objeto 
+financiar los proyectos 
+de impacto local 
+de los municipios 
+más pobres del país 
+de acuerdo con los 
+criterios establecidos 
+en el artículo 48 de la 
+Ley 2056 de 2020.
+Las entidades 
+territoriales receptoras 
+de la Asignación para la 
+Inversión Local deben 
+priorizar la inversión 
+de los recursos de esta 
+asignación en sectores 
+que contribuyan y 
+produzcan mayores 
+cambios positivos al cierre 
+de brechas territoriales 
+de desarrollo económico, 
+social, ambiental, 
+agropecuario y para 
+la infraestructura vial. 
+(artículo 36 Ley 2056 de 
+2020).
+https://colabora-
+cion.dnp.gov.co/
+CDT/Normativi-
+dad/Revista%20
+OAJ/Segunda%20
+edici%C3%B3n/
+Concepto%20uni-
+ficado%2008.pdf
+Asignación 
+para la Ciencia, 
+Tecnología e 
+Innovación
+La finalidad de la 
+Asignación para la 
+Ciencia, Tecnología 
+e Innovación es 
+potenciar las 
+habilidades en 
+ciencia, tecnología 
+e innovación, 
+fomentando el 
+progreso empresarial 
+y la competitividad 
+regional.
+Los recursos de la 
+Asignación para la 
+Ciencia, Tecnología 
+e Innovación se 
+destinarán para 
+financiar proyectos 
+de inversión que 
+contribuyan a la 
+producción, el uso, 
+la integración y la 
+apropiación del 
+conocimiento básico 
+y aplicado en el 
+aparato productivo 
+y en la sociedad en 
+general, incluidos, 
+entre otros, en el 
+sector agropecuario, 
+contribuyendo al 
+progreso social, al 
+dinamismo económico, 
+al crecimiento 
+sostenible y una 
+mayor prosperidad 
+para toda la población 
+y proyectos con 
+enfoques étnico 
+diferencial para los 
+pueblos étnicos 
+(artículo 52 de la Ley 
+2056 de 2020).
+La distribución de la 
+Asignación para la 
+Ciencia, Tecnología e 
+Innovación se realizará por 
+departamento. Para 2022 
+y en adelante, los recursos 
+de esta Asignación serán 
+aprobados a través de 
+convocatorias públicas, 
+abiertas y competitivas. 
+Para estas asignaciones, 
+se tendrán en cuenta las 
+demandas territoriales 
+expresadas en ejercicios 
+de planeación (artículo 53 
+de la Ley 2056 de 2020).
+https://min-
+ciencias.gov.co/
+glosario/asigna-
+cion-para-la-cien-
+cia-tecnolo-
+gia-e-innovacion
+
+47
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+1. Sistema General de Regalías (SGR)
+Asignación 
+para la Paz
+La Asignación para la 
+Paz es una destinación 
+específica de los 
+ingresos del SGR y 
+de los rendimientos 
+financieros generados 
+por el mismo Sistema 
+con la finalidad 
+de financiar y 
+ejecutar programas 
+y proyectos que 
+promuevan la 
+construcción de paz, 
+la reconciliación y la 
+estabilización de las 
+zonas afectadas por 
+el conflicto armado en 
+Colombia.
+La Asignación para 
+la Paz tiene como 
+objetivo financiar 
+proyectos de 
+inversión para la 
+implementación 
+del Acuerdo Final 
+para la Terminación 
+del Conflicto y la 
+Construcción de 
+una Paz Estable y 
+Duradera, incluyendo 
+la financiación de 
+proyectos destinados 
+a la reparación 
+de víctimas (Acto 
+Legislativo 04 de 
+2017).
+La distribución de 
+los recursos se hará 
+priorizando las entidades 
+territoriales más afectadas 
+por la pobreza rural, las 
+economías ilegales, la 
+debilidad institucional, 
+el conflicto armado y 
+los municipios en cuyo 
+territorio se adelanten 
+explotaciones de recursos 
+naturales no renovables 
+[21].
+https://colabora-
+cion.dnp.gov.co/
+CDT/Normativi-
+dad/Revista%20
+OAJ/Primera%20
+edici%C3%B3n/
+Concepto%20Uni-
+ficado%20-%20
+Asignacion%20
+Paz.pdf
+Asignación 
+Ambiental
+La Asignación 
+Ambiental son 
+recursos dirigidos 
+del Sistema General 
+de Regalías que 
+se destinan para 
+la financiación de 
+proyectos de inversión 
+que contribuyan al 
+desarrollo ambiental 
+de las entidades 
+territoriales.
+Se destinarán 
+para proyectos 
+relacionados con la 
+conservación de las 
+áreas ambientales 
+estratégicas y la 
+lucha nacional contra 
+la deforestación. 
+Deben ser 
+presentados a través 
+de convocatorias 
+que estructuren 
+el Ministerio 
+de Ambiente y 
+Desarrollo Sostenible 
+y el Departamento 
+Nacional de 
+Planeación (Acto 
+Legislativo 05 de 
+2019).
+Benefician 
+particularmente a los 
+Pueblos y Comunidades 
+Indígenas y a las 
+Comunidades Negras, 
+Afrocolombianas, Raizales 
+y Palenqueras, así como 
+las áreas ambientales 
+estratégicas de escala 
+nacional y regional, las 
+áreas protegidas, las 
+reservas forestales, 
+las zonas de bosque 
+protector, entre otras 
+(artículo 51 de la Ley 2056 
+de 2020).
+https://regalias.
+minambiente.gov.
+co/marco-legal/
+
+48
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+2. Sistema General de 
+Participaciones (SGP)
+Asignaciones 
+especiales
+El Sistema General 
+de Participaciones 
+está compuesto 
+por un conjunto de 
+cuatro asignaciones 
+especiales 
+(alimentación escolar, 
+municipios ribereños 
+del río Grande 
+de la Magdalena, 
+resguardos indígenas 
+y Fondo Nacional 
+de Pensiones de las 
+Entidades Territoriales 
+(Fonpet ).
+Las Asignaciones 
+Especiales se 
+distribuyen así: 
+para alimentación 
+escolar es el 0,5 %; 
+municipios ribereños 
+del río Grande de la 
+Magdalena el 0,08 %, 
+Resguardos indígenas 
+el 0,52 % y Fondo 
+Nacional de Pensiones 
+de las Entidades 
+Territoriales (Fonpet ) 
+el 2,9 % [22].
+Entidades territoriales 
+(departamentos, distritos 
+y municipios). También, 
+se transfiere una parte 
+de estos recursos a los 
+resguardos indígenas, 
+siempre y cuando no 
+se hayan constituido 
+en entidad territorial 
+indígena. [22]
+https://www.min-
+hacienda.gov.co/
+webcenter/portal/
+SistemaGeneral
+
+Participaciones 
+https://sicodis. 
+dnp.gov.co/Mo-
+dPreguntas 
+Frecuentes/Pre-
+guntas_Consulta.
+aspx
+2. Sistema General de 
+
+Participaciones (SGP)
+Asignaciones 
+sectoriales
+El Sistema General 
+de Participaciones 
+está compuesto 
+por asignaciones 
+sectoriales (educación, 
+salud, agua potable y 
+saneamiento básico y 
+una participación de 
+propósito general). 
+La participación de 
+las asignaciones 
+sectoriales es del 
+96 %, y se distribuye 
+el 58,5 %; salud 
+24,5%; agua potable 
+5,4 % y propósito 
+general 11,6 % [22].
+3. Recursos propios de las 
+
+entidades territoriales
+Las entidades 
+territoriales 
+cuentan con 
+recursos 
+propios que 
+hacen parte de 
+los Ingresos 
+Corrientes 
+de Libre 
+Destinación 
+(ICLD).
+Los entes territoriales 
+pueden destinar estos 
+recursos con el fin 
+apoyar proyectos y 
+apuestas productivas 
+que movilicen el 
+desarrollo económico 
+del departamento. De 
+igual manera, desde 
+el Plan de Desarrollo 
+Departamental, los 
+entes territoriales 
+pueden apoyar 
+el desarrollo de 
+apuestas productivas 
+sectoriales [23].
+Estos ingresos 
+los recaudan 
+departamentos y 
+municipios, los cuales 
+al hacer parte de los 
+Ingresos Corrientes 
+de Ingresos de Libre 
+Destinación (ICDL), no 
+están afectados por la 
+existencia de una ley 
+o acto administrativo 
+(acuerdo municipal 
+u ordenanza 
+departamental) [24].
+https://pazvictimas.
+dnp.gov.co/Como-se-
+responde-a-los-efectos-
+del-conflicto/Paginas/
+Recursos-propios-
+financiaci%C3%B3n-
+de-la-pol%C3%ADtica-
+p%C3%BAblica-para-
+v%C3%ADctimas.
+aspx#
+:~:text=Los%20
+recursos%20
+propios%20hacen%20
+parte,y%2Fo%20
+prestar%20
+determinados%20
+servicios.
+
+49
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+4. Cooperación internacional
+Son recursos financieros, de asistencia, 
+técnica, tecnologías, conocimientos, 
+habilidades o experiencias por parte de 
+países u organizaciones multilaterales.
+Estos recursos 
+tienen como objetivo 
+apoyar el desarrollo 
+socioeconómico de las 
+entidades públicas y 
+el Gobierno nacional 
+[25].
+Gobiernos nacionales, sus 
+agendas de cooperación, 
+los organismos 
+multilaterales y regionales. 
+Además, Gobiernos 
+locales y regionales, 
+organizaciones no 
+gubernamentales (ONG), 
+entidades sin ánimo de 
+lucro, fundaciones de 
+la empresa privada y la 
+propia empresa privada 
+[26].
+https://colabo-
+racion.dnp.gov.
+co/CDT/Inversio-
+nes%20y%20
+finanzas%20
+pblicas/Ma-
+nual%20emi-
+si%C3%B3n%20
+conceptos%20
+proyectos%20
+de%20Coopera-
+ci%C3%B3n%20
+Internacional%20
+No%20Reembol-
+sable.pdf
+
+https://www.
+apccolombia.gov.
+co/sites/default/
+files/2022-03/Car-
+tilla%20de%20
+Banca%20Multi-
+lateral%20y%20
+Cooperacio%C-
+C%81n.pdf
+5. Bancos de Desarrollo
+Bancóldex
+Institución 
+financiera destinada 
+al crecimiento 
+empresarial en 
+Colombia, la cual 
+tiene como objetivo 
+apoyar a compañías 
+de todos los tamaños, 
+sectores y de todas 
+las regiones del 
+país ofreciendo 
+sus servicios de 
+conocimiento 
+e instrumentos 
+financieros.
+La financiación tiene 
+como objetivo atender 
+las necesidades de 
+capital de trabajo 
+y activos fijos de 
+proyectos o empresas 
+viables de todos los 
+tamaños y todos 
+los sectores de la 
+economía colombiana 
+[27].
+Empresas colombianas de 
+todos los tamaños (micro, 
+pequeñas, medianas y 
+grandes), ya sea de la 
+cadena exportadora o 
+del mercado nacional. 
+También atiende a las 
+entidades públicas o 
+privadas 
+
+—nacionales o 
+internacionales—, y 
+establece alianzas con 
+entes territoriales de 
+Colombia [28].
+https://www.ban-
+coldex.com/es/no-
+ticias/que-es-ban-
+coldex-237
+
+50
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+5. Bancos de Desarrollo
+Fondo para el 
+Financiamiento 
+del Sector 
+Agropecuario 
+(Finagro)
+El Fondo promueve 
+el desarrollo 
+del sector rural 
+colombiano a través 
+de instrumentos de 
+financiamiento.
+Otorga recursos 
+en condiciones 
+de fomento a las 
+entidades financieras, 
+para que estas, a 
+su vez, otorguen 
+créditos a proyectos 
+productivos que 
+promuevan el 
+desarrollo del sector 
+agropecuario y rural 
+colombiano para 
+financiar actividades 
+de producción en sus 
+distintas fases y/o 
+comercialización del 
+sector agropecuario 
+[29].
+Entidades pertenecientes 
+al Sistema Nacional de 
+Crédito Agropecuario 
+u otras instituciones 
+bancarias o financieras 
+debidamente autorizadas 
+por la Superintendencia 
+Bancaria (artículo 8 Ley 16 
+de 1990).
+https://www.
+finagro.com.co/
+transparencia-ac-
+ceso-informa-
+cion-publica/infor-
+macion-entidad/
+mision-vision-fun-
+ciones-deberes/
+informacion-insti-
+tucional
+6. Agencia de Desarrollo Rural (ADR)
+Es la entidad responsable de promover 
+el desarrollo agropecuario y rural 
+integral de país a través de programas 
+de impacto regional.
+Promoción, 
+estructuración, 
+cofinanciación y 
+ejecución de planes y 
+proyectos integrales 
+de desarrollo 
+agropecuario y rural 
+[30].
+Productores del campo 
+colombiano [30].
+https://www.adr.
+gov.co/transpa-
+rencia/acerca-de-
+la-adr/
+
+51
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+7.Fondo Nacional para el Desarrollo 
+
+de la Infraestructura (FONDES)
+El Fondo Nacional para el Desarrollo 
+de la Infraestructura el cual será 
+administrado por la Financiera de 
+Desarrollo Nacional y/o la entidad que 
+defina el Gobierno nacional (artículo 144 
+Ley 1955 de 2019).
+Invierte y financia 
+proyectos de 
+infraestructura, e 
+invierte en el capital 
+social de empresas 
+de servicios públicos 
+mixtas u oficiales 
+(artículo 56 Ley 1955 
+de 2019).
+Sociedades cuyo objeto 
+incluya el desarrollo, la 
+inversión, la ejecución 
+y el financiamiento 
+de proyectos de 
+infraestructura y empresas 
+de servicios públicos 
+mixtas u oficiales. (artículo 
+2.19.11 Decreto 277 de 
+2020).
+http://www.
+secretariase-
+nado.gov.co/
+senado/basedoc/
+ley_1955_2019.
+html
+
+https://www.
+funcionpublica.
+gov.co/eva/gestor-
+normativo/norma.
+php?i=107614
+8. Fondo Emprender - 
+SENA
+El Fondo Emprender - SENA 
+es un programa de apoyo a los 
+emprendedores en Colombia.
+El Fondo tiene como 
+objetivo financiar 
+proyectos productivos 
+para promover el 
+emprendimiento, 
+la generación de 
+empleo y el desarrollo 
+empresarial en el país.
+Ciudadanos colombianos, 
+mayores de edad, que 
+estén interesados en 
+iniciar un proyecto 
+empresarial en cualquier 
+región del país y que 
+acrediten, en el momento 
+de la inscripción del plan 
+de negocios, alguna de las 
+condiciones estipuladas en 
+el artículo 1 del Acuerdo 
+007 del 2 junio de 2005 
+[31].
+https://www.
+fondoemprender.
+com/Normativi-
+dad/Manual%20
+de%20Operaci%-
+C3%B3n%20FE.
+pdf
+9. Obras por Impuestos
+Es un mecanismo tributario que permite 
+a las empresas privadas la inversión 
+de una porción de sus impuestos en 
+proyectos de desarrollo en regiones 
+afectadas por el conflicto armado o con 
+alto índice de pobreza.
+Fomenta la inversión 
+privada en proyectos 
+de infraestructura 
+y desarrollo social 
+(educación, salud, 
+deportes, cultura, 
+entre otros) a través 
+de beneficios fiscales 
+para las empresas que 
+participan (artículo 
+238 Ley 1819 de 
+2016).
+Personas jurídicas 
+contribuyentes del 
+impuesto sobre la renta 
+y complementario 
+en Colombia, cuyos 
+ingresos brutos sean 
+iguales o superiores a 
+33.610 UVT (Unidad de 
+Valor Tributario). Estas 
+empresas pueden ser de 
+diferentes sectores, como 
+minería, construcción, 
+energía, banca, entre 
+otros. Los recursos se 
+dirigen a beneficiar a 
+los municipios ZOMAC 
+(artículo 1.6.5.1.2. Decreto 
+1915 de 2017.
+http://www.
+secretariase-
+nado.gov.co/
+senado/basedoc/
+ley_1819_2016.
+html
+
+https://www.
+funcionpublica.
+gov.co/eva/gestor-
+normativo/norma.
+php?i=84354
+
+52
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+Fuente de financiación
+AsignaciónDefiniciónRubros que financiaDestinatariosConozca más
+10. Obras por Regalías
+Es un mecanismo que permite a las 
+empresas formular y ejecutar proyectos 
+con el objetivo de promover la inversión 
+y desarrollo de las entidades territoriales 
+productoras (artículo 51 Ley 1942 de 
+2018 modificada por el Decreto 2106 de 
+2019).
+Se financia la 
+ejecución de proyectos 
+relacionados con 
+la construcción de 
+infraestructura en 
+servicios públicos, 
+vías terciarias, 
+proyectos agrícolas 
+y productivos, en el 
+sector urbano y rural 
+(Resolución 40207 de 
+2021).
+Se da con el fin de 
+permitir la formación, 
+presentación y ejecución 
+de proyectos de inversión 
+para el desarrollo de las 
+entidades territoriales 
+beneficiarias de 
+asignaciones directas.
+https://www.anm.
+gov.co/?q=a-par-
+tir-de-aho-
+ra-las-empre-
+sas-del-sec-
+tor-de-hidrocar-
+buros-y-mine-
+ria-pueden-ejecu-
+tar-obras-por-re-
+galias#
+:~:-
+text=El%20
+decreto%20
+de%20’Obras%
+-
+20por,de%20bre-
+chas%20de%20
+los%20municipios.
+11. Estrategia de Financiamiento 
+
+del Cambio Climático
+La Estrategia de Financiamiento del 
+Cambio Climático tiene como objetivo 
+movilizar recursos para cumplir los 
+objetivos de la Política Nacional de 
+Cambio Climático (PNCC) y los desafíos 
+de NDC.
+Identifica caminos que 
+permitan movilizar 
+de manera sostenible 
+y escalable recursos 
+para alcanzar los 
+objetivos de la 
+Política Nacional de 
+Cambio Climático 
+(PNCC) y las metas 
+de las estrategias 
+climáticas de largo 
+plazo del país, son 
+ellas: la Contribución 
+Determinada 
+Nacionalmente 
+(NDC 2020), el 
+Plan Nacional de 
+Adaptación al Cambio 
+Climático (PNACC) y 
+la Estrategia Climática 
+de Largo Plazo 
+(E2050)[32].
+Ministerios y agencias del 
+Gobierno nacional a través 
+de planes integrales 
+de gestión de cambio 
+climático sectoriales y, 
+autoridades territoriales 
+a través de planes 
+integrales de gestión 
+de cambio climático 
+territoriales [33].
+https://finanzas-
+delclima.dnp.gov.
+co/movilizacionre-
+cursos/estrategia/
+Paginas/pa-
+ra-que-es-la-es-
+trategia-nacio-
+nal-de-financia-
+miento-climatico.
+aspx
+
+https://colabora-
+cion.dnp.gov.co/
+CDT/Ambiente/
+Finanzas%20
+del%20Clima/
+Estrategia_Nacio-
+nal_de_Financie-
+miento_Climatico.
+pdf
+
+53
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+B. Fuentes internas de financiación: Fuentes de financiación privada
+Fuente de 
+financiación
+Definición
+Rubros que 
+financia
+DestinatariosConozca más
+1.
+Banca 
+comercial 
+privada
+Los bancos 
+comerciales 
+ofrecen sus 
+recursos a las 
+tasas y condiciones 
+vigentes del 
+mercado.
+Cualquier 
+entidad o 
+persona jurídica 
+puede acceder 
+a estos recursos 
+que son de libre 
+destinación; 
+es decir, los 
+recursos se 
+pueden dirigir a 
+cualquier sector 
+o proyecto [34].
+Las instituciones 
+financieras 
+ofrecen créditos 
+a las entidades 
+territoriales a partir 
+de los estudios 
+de capacidad de 
+endeudamiento y 
+solvencia financiera.
+https://
+colaboracion.
+dnp.gov.co/CDT/
+Inversiones%20
+y%20finanzas%20
+pblicas/sem_2001_
+Acceso_de_entes_
+terr_Credito.pdf
+2.
+Mercado de 
+capitales 
+privados 
+- Emisión 
+de bonos 
+verdes y 
+sociales
+Los bonos verdes 
+y sociales son 
+instrumentos 
+financieros de 
+deuda utilizados 
+para recaudar 
+fondos para 
+la promoción 
+de proyectos 
+medioambientales 
+o relacionados 
+con el cambio 
+climático.
+Estos fondos 
+son destinados 
+específicamente 
+a proyectos 
+con objetivos 
+ambientales 
+o sociales 
+específicos, 
+alineados a los 
+principios de 
+la Asociación 
+de Mercados 
+Capitales 
+(ICMA) [35].
+Los municipios 
+pueden emitir 
+bonos temáticos 
+respaldados por 
+su capacidad de 
+endeudamiento 
+general, los cuales 
+podrían financiar 
+diversas iniciativas 
+definidas como 
+prioritarias por 
+el municipio. 
+Alternativamente, 
+los bonos se 
+pueden emitir a 
+través de entidades 
+descentralizadas 
+municipales 
+específicamente 
+para financiar 
+proyectos de 
+infraestructura 
+pública [35].
+https://blogs.iadb.
+org/ciudades-
+sostenibles/es/
+bonos-verdes-
+y-sociales-en-
+colombia-cinco-
+preguntas-y-
+respuestas/
+
+54
+GUÍA PARA FINANCIAR PROYECTOS PRODUCTIVOS TERRITORIALES. 
+LA INVERSIÓN EXTRANJERA DIRECTA COMO FUENTE DE FINANCIACIÓN
+C. Fuentes externas de financiación: Fuentes de financiación privadas
+Fuente de 
+financiación
+Definición
+Rubros que 
+financia
+DestinatariosConozca más
+1.
+Inversión 
+extranjera 
+directa
+Es la inversión de 
+capital que implica 
+una relación de 
+largo plazo, que 
+refleja un interés 
+duradero y de 
+control, por parte 
+de un inversionista 
+residente en una 
+economía sobre 
+una empresa nueva 
+o existente en una 
+economía distinta 
+(el país receptor de 
+la inversión).
+Es una fuente 
+de recursos 
+para las 
+economías 
+locales 
+formada 
+con el fin de 
+mejorar su 
+competitividad 
+a través, 
+principalmente, 
+de la 
+transferencia 
+tecnológica y 
+el intercambio 
+de experiencias 
+entre la 
+economía 
+receptora y la 
+inversora [36].
+Gobiernos 
+nacionales y 
+territoriales.
+https://colaboracion.
+dnp.gov.co/CDT/Estu-
+dios%20Econmicos/In-
+versi%C3%B3n%20ex-
+tranjera%20directa%20
+en%20Colombia%20
+caracter%C3%ADsti-
+cas%20y%20tenden-
+cias.pdf
+D. Fuentes externas de financiación: Fuentes de financiación oficiales
+Fuente de 
+financiación
+Definición
+Rubros que 
+financia
+DestinatariosConozca más
+1.
+Banca de 
+desarrollo 
+multilateral
+Son instituciones 
+financieras que 
+operan a escala 
+internacional 
+creadas por 
+múltiples países 
+para proporcionar 
+apoyo financiero 
+y técnico a 
+proyectos de 
+desarrollo.
+Proporciona 
+financiamiento 
+y asistencia, 
+preparación, 
+ejecución y 
+evaluación, a 
+los Gobiernos 
+nacionales y 
+territoriales, de 
+proyectos que 
+contribuyan 
+al desarrollo 
+económico y 
+social de una 
+región [26].
+Gobiernos 
+nacionales y 
+territoriales 
+en vía de 
+desarrollo [26].
+https://www.
+apccolombia.gov.
+co/sites/default/
+files/2022-03/
+Cartilla%20
+de%20Banca%20
+Multilateral%20y%20
+Cooperacio%CC%81n.
+pdf

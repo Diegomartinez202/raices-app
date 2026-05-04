@@ -1,0 +1,1126 @@
+Guía para la 
+formulación y 
+elaboración de tu 
+Plan de empresa
+Cartilla Práctica
+
+Clara Eugenia López Obregón
+Alcaldesa Mayor de Bogotá D.C. (D) 
+Hernando Gómez Serrano
+Secretario Distrital
+de Desarrollo Económico
+Nubia Elsy Martínez Castañeda
+Subsecretaria Distrital
+de Desarrollo Económico Bogotá 
+Emprende 
+Ángel Fernando Cantini Ardila 
+Director de Formación y Desarrollo
+Empresarial de la Secretaría Distrital 
+de Desarrollo Económico
+Consuelo Caldas Cano
+Presidenta
+Cámara de Comercio de Bogotá
+María Isabel Agudelo Valencia
+Vicepresidenta de Competitividad Empresarial
+Cámara de Comercio de Bogotá
+Juan Carlos Rodríguez Arana
+Director Centro de Emprendimiento
+Cámara de Comercio de Bogotá
+Liliana del Pilar Pineda González
+Jefe de Contenidos y Servicios
+Vicepresidencia de
+Competitividad Empresarial
+Elaboración 
+Miguel Antonio Morales Beltrán
+Consultor Externo Cámara de Comercio de Bogotá
+Revisión técnica 
+Adriana Montenegro Bernal y Rolando Alberto Lara Neva
+Área Crea Centro de Emprendimiento Bogotá Emprende 
+Revisión de estilo
+Fernando Carretero Socha
+Diseño, diagramación e impresión
+Editorial Kimpres Ltda.
+PBX: 413 6884
+www.kimpres.com
+2011
+Cámara de Comercio de Bogotá
+Secretaría Distrital de Desarrollo Económico
+
+3
+Tabla de 
+Contenido
+Introducción ............................................................................ 5
+I. Estructuración de tu empresa a través del Plan de empresa .. 7
+ A. Alcance del Plan de empresa .......................................... 7
+ B. Utilidades del Plan de empresa ...................................... 8
+II. Formulación y elaboración del Plan de empresa .................. 9
+ A. ¿Qué necesitas para la elaboración del Plan de empresa? . 9
+ B. Estructura y contenido del Plan de empresa ................... 10
+ C. Elaboración del módulo 1. Presentación ......................... 10
+ Esquema – Guía de elaboración ..................................... 11
+ D. Elaboración del módulo 2. Mercadeo ............................ 12
+ Esquema – Guía de elaboración ..................................... 13
+ E. Elaboración del módulo 3. Producción y calidad ............ 16
+ Esquema – Guía de elaboración ..................................... 17
+ F. Elaboración del módulo 4. Organización y gestión ........ 20
+ Esquema – Guía de elaboración ..................................... 20
+ G. Elaboración del módulo 5. Jurídico – Tributario ............. 23
+ Esquema – Guía de elaboración ..................................... 23
+ H. Elaboración del módulo 6. Financiero ............................ 26
+ Esquema – Guía de elaboración ..................................... 26
+ I. Elaboración del módulo 7. Valoración ........................... 30
+ Esquema – Guía de elaboración ..................................... 30
+III. Recomendaciones ................................................................ 32
+ A. Sobre la presentación ..................................................... 32
+ B. Cómo puedes saber si tu proyecto de empresa es viable .. 33
+ C. ¡Unas últimas sugerencias! .............................................. 33
+Referencias ............................................................................... 35
+
+5
+En Bogotá Emprende (BE), un programa de la Alcaldía Ma-
+yor de Bogotá y la Cámara de Comercio de Bogotá (CCB), 
+somos conscientes de la importancia para ti de realizar tu pro-
+yecto empresarial. Por eso, te damos diversas opciones que te 
+ayudarán a desarrollarlo y concretar tu idea de negocio. 
+La creación de empresa como opción de vida es una decisión 
+trascendental que exige una oportuna y adecuada orientación para 
+iniciar la estructuración, puesta en marcha y consolidación de la 
+nueva empresa, lo cual aumenta las posibilidades de éxito de esta.
+Esta Guía para la formulación y elaboración de tu Plan de 
+empresa (la Guía) es, un paso a paso para formular, elaborar y 
+presentar un buen plan de empresa, basada en la herramienta 
+Plan de Empresa en Línea (PEL) y en los contenidos relaciona-
+dos con el plan de empresa que brinda el Centro de Empren-
+dimiento Bogotá Emprende. Puedes acceder al PEL en el portal 
+www.bogotaemprende.com.
+El objetivo principal de la Guía es apoyar el diseño estraté-
+gico de tu negocio y su viabilidad, con un enfoque de plan de 
+empresa que atienda a tres finalidades:
+ El diseño estratégico de tu negocio.
+ La evaluación de la inversión.
+ El soporte de solicitud de financiación.
+La estructura propuesta adopta el formato interactivo de 
+proposición / respuesta, que facilita la recopilación sistemá-
+tica de información, asegurando que ningún aspecto clave del 
+Introducción
+
+6
+diseño de tu empresa quede sin analizarse. Se sigue una estruc-
+tura típica fundamentada en la subdivisión del Plan de empresa 
+en siete módulos: 
+1. Presentación.
+2. Mercadeo.
+3. Producción y calidad.
+4. Organización y gestión.
+5. Jurídico-Tributario.
+6. Financiero.
+7. Valoración. 
+Con el fin de sacar el mayor provecho posible de esta Guía, 
+te sugerimos seguir estas recomendaciones:
+1. Lee la cartilla completa y rápidamente, siguiendo su secuen-
+cia, a fin de obtener una visión integral de su contenido.
+2. Inicia una nueva lectura, con “lápiz y papel en mano”. 
+3. Identifica, a medida que vas leyendo, los aspectos y/o ac-
+tividades que no aplican a tu oportunidad de negocio y 
+descártalas.
+4. No te saltes secciones. Cada una de las secciones se funda-
+menta en las anteriores.
+5. Desarrolla las secciones de la Guía en hojas sueltas; preferi-
+blemente utiliza el computador.
+6. Investiga acerca de la información necesaria para completar 
+la Guía.
+7. Organiza y edita tu Plan de empresa.
+No olvides que en el portal de Bogotá Emprende (www.
+bogotaemprende.com) dispones de la información que necesi-
+tas para crear, consolidar e innovar tu empresa, a través de la 
+“Biblioteca Virtual”.
+Todas las publicaciones se han seleccionado y editado debi-
+damente por expertos del Centro de Emprendimiento Bogotá 
+Emprende, quienes han dispuesto para ti información actualiza-
+da y relevante en materia de gestión de empresas.
+
+7
+A veces se cree que lo más im-
+portante es averiguar cómo cons-
+tituir y formalizar la empresa. 
+Esto es importante, pero también 
+el último paso que debe darse. 
+Para hacer realidad tu proyecto 
+empresarial, un componente im-
+prescindible es la estructuración 
+de tu empresa.
+Este trabajo se concentra en la 
+elaboración del “Plan de empresa”, un documento escrito que 
+recoge de forma ordenada, clara, pertinente y coherente, los as-
+pectos claves de un proyecto empresarial (incluyen todas las ac-
+tividades por desarrollar, así como la planificación de los medios 
+necesarios para llevarlas a cabo), a fin de concretar su factibilidad 
+técnico-económica o viabilidad, permitiendo llegar a conclusiones 
+y decidir si finalmente debe constituirse la empresa que se preten-
+de crear, asumiendo unos riesgos controlados, o si debe desechar-
+se la idea de negocio, evitando de esta manera un fracaso seguro. 
+Tanto en uno como en otro caso, el plan de empresa es una herra-
+mienta de gran utilidad. 
+A. Alcance del Plan de empresa
+El Plan de empresa, según la metodología de Bogotá Em-
+prende permite:
+I. Estructuración 
+de tu empresa 
+a través del Plan 
+de empresa
+
+8
+ Comprender plenamente tu negocio.
+ Facilitar el diseño estratégico de tu nueva empresa.
+ Valorar la rentabilidad esperada de tu iniciativa empresarial.
+ Determinar la capacidad de tu proyecto de retornar adecua-
+damente el capital requerido en la financiación e inversión.
+ Orientar hacia la selección del canal y del tipo de financia-
+ción más adecuado, en relación con la destinación (uso) que 
+les darás a los recursos (fondos) recibidos.
+ A otras personas y entidades interesadas (posibles socios o 
+inversionistas, entidades financieras, o entidades de apoyo), 
+evaluar y decidir la idoneidad de tu proyecto empresarial y 
+los apoyos solicitados.
+ Monitorear los resultados obtenidos frente a lo planeado.
+B. Utilidades del Plan de empresa
+La tarea de pasar el proyecto que tienes en la cabeza al pa-
+pel es un ejercicio que te obliga a escribir, que es una forma de 
+pensar sistemática. 
+El Plan de empresa te obliga a examinar detenidamente 
+muchos de los aspectos fundamentales que, de lo contrario, 
+pasarían inadvertidos. Te exige tomar con seriedad tus metas y 
+te sirve para detectar a tiempo los errores o deficiencias y para 
+diseñar las estrategias para sortearlos. En este sentido, cuantos 
+más detalles de la oportunidad de negocio reflejes, menor será 
+el margen de error que corres. 
+Una utilidad inmediata de un plan de empresa es, precisa-
+mente, que te sirve para “contártelo a ti mismo”. El Plan de 
+empresa va dirigido, principalmente, al propio emprendedor. 
+Cuando uno se pone a ello se da cuenta de que no es tan fácil 
+demostrar lo grande que es el mercado accesible, o la cuota de 
+mercado que puede alcanzarse en un tiempo determinado, o 
+que los costos no son tan bajos como se pensaba.
+
+9
+A. ¿Qué necesitas para la elaboración 
+del Plan de empresa?
+La formulación de un proyecto de iniciativa empresarial se 
+soporta principalmente en tener definida la idea empresarial 
+de manera clara; es decir: conocimiento sobre el desarrollo de 
+la actividad; el mercado objetivo; y los recursos necesarios. Si 
+no es así, investiga un poco más éstos aspectos, para luego sí 
+continuar con el Plan de empresa.
+La redacción del Plan de empresa 
+es una tarea que no se puede dele-
+gar. Tú como emprendedor es quien 
+mejor conoces tu proyecto y quien 
+puede explicarlo mejor.
+Como emprendedor debes te-
+ner unos conocimientos mínimos en 
+cada una de los módulos del Plan de 
+empresa que vas desarrollar; de lo 
+contrario, tendrás que adquirir unas nociones básicas de mer-
+cadeo, producción, finanzas, formas jurídicas, impuestos, entre 
+otras. Por otro lado, debes tener o adquirir unas habilidades 
+para emprender con éxito (organización, negociación, ventas). 
+En el Centro de Emprendimiento Bogotá Emprende organi-
+zamos periódicamente eventos formativos en estos temas, que 
+II. Formulación y 
+elaboración del 
+plan de empresa
+
+10
+pueden ser de gran interés y ayuda para ti. Consulta nuestra 
+programación en (www.bogotaemprende.com).
+B.Estructura y contenido del Plan de empresa
+Una posible estructura del Plan de empresa es la que se des-
+pliega en adelante, la cual se basa en la herramienta Plan de 
+Empresa en Línea (PEL) y en los contenidos relacionados con el 
+Plan de empresa que te brinda el Centro de Emprendimiento 
+Bogotá Emprende; además, esta estructura se corresponde con 
+un modelo universal de Plan de empresa con la que te propo-
+nemos que trabajes tu plan. Puedes acceder al PEL en el portal 
+www.bogotaemprende.com.
+Se sigue una estructura típica fundamentada en la subdivi-
+sión del Plan de empresa en siete módulos: 
+ Módulo 1. Presentación. 
+
+Módulo 2. Mercadeo. 
+
+Módulo 3. Producción y calidad. 
+
+Módulo 4. Organización y gestión. 
+
+Módulo 5. Jurídico-Tributario. 
+
+Módulo 6. Financiero.
+
+Módulo 7. Valoración. 
+A continuación, te guiaremos en cómo estructurar y ela-
+borar correctamente tu Plan de empresa. Recuerda que debes 
+iniciar el trabajo con “lápiz y papel en mano”.
+C. Elaboración del módulo 1. Presentación
+En este primer módulo vas a presentar el negocio que quie-
+res realizar y a las personas que lo promueven.
+Piensa que estás presentando tu proyecto. Y, ya sabes, la 
+primera impresión es la que más cuenta: de lo que aquí escribas 
+puede depender que un tercero (socio, inversionista, banco...) 
+se interese en tu proyecto y continúe leyendo.
+
+11
+¿Qué esperas para empezar a trabajar en tu plan de empre-
+sa? ¡Adelante!
+Esquema -guía de elaboración
+A continuación te presentamos un esquema-guía que permi-
+te la elaboración de este módulo 1 (Presentación) de tu Plan 
+de empresa.
+1. Presentación
+1.1. Definición del negocio
+Actividad
+- ¿En qué sector se clasifica la actividad económica (código CIIU) que pien-
+sas realizar? ¿Dónde se ubicará tu empresa y cuándo piensas inicia? Si ya 
+iniciaste la actividad, ¿desde cuándo empezaste?
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+Oportunidad de negocio
+- Presenta cómo surgió la idea del negocio. ¿Qué oportunidad de negocio 
+has detectado? ¿Qué necesidad del mercado viene a cubrir tu producto 
+y/o servicio?
+______________________________________________________________
+______________________________________________________________
+______________________________________________________________
+1.2. Descripción del equipo emprendedor
+Equipo
+- Precisa tus antecedentes y experiencia empresariales y la de tu equipo 
+directamente relacionada con la idea de negocio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+12
+- Señala cómo es la participación en el negocio de cada uno de los empren-
+dedores: ¿en qué se complementa(n)? ¿Qué aporta(n) al proyecto (trabajo, 
+capital o ambos)? Si tiene(n) conocimiento de la actividad,,¿qué tipo de 
+contactos tiene(n)? ¿Qué objetivos comparte(n)?
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Relaciona los colaboradores y asesores y detalla su relación y participa-
+ción con tu proyecto empresarial:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Formación y experiencia
+- Resume tu formación y experiencia y la de tu equipo. Anexa al documen-
+to de Plan de empresa la hoja de vida de cada una de las personas que 
+componen tu equipo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+D. Elaboración del módulo 
+2. Mercadeo
+En este módulo vas a: presentar las características generales 
+del mercado que tu empresa va a enfrentar; caracterizar los 
+clientes o segmentos de mercado a los que tu empresa apuntará 
+específicamente. Así mismo, vas a elaborar el plan estratégico de 
+mercadeo (producto-precio-promoción-distribución) que sustenta 
+tu estrategia comercial.
+Cuando hayas escrito esta parte de tu Plan de empresa, ten-
+drás claro cuáles son y cómo son todos los productos y/o servi-
+cios que quieres ofrecer, además de cómo funciona el mercado 
+en el que vas a trabajar.
+No olvides que es fundamental suministrar información ac-
+tualizada, debidamente respaldada y documentada. De lo con-
+trario, le restarías seriedad y credibilidad a tu Plan de empresa.
+
+13
+Es una tarea dura pero apasionante, así que... ¡a investigar!
+Esquema- guía de elaboración
+A continuación te presentamos un esquema- guía que per-
+mite la elaboración de este módulo 2 (Mercadeo) de tu Plan 
+de empresa.
+2. Mercadeo
+2.1. Productos y/o servicios
+Descripción del producto y/o servicio
+- Describe cuáles son los distintos grupos de productos y/o servicios que 
+ofrece tu empresa, destacando las características o factores comunes:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Necesidades
+- Explica qué problema(s) resuelve tu producto y/o servicio o qué 
+necesidad(es) satisface:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Aspectos diferenciales
+- Resalta en qué se diferencia tu producto y/o servicio del de la competen-
+cia o qué necesidades cubre de manera exclusiva:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Nuevos productos y/o servicios
+- Si tienes intención de desarrollar nuevos productos y/o servicios en el 
+futuro, descríbelos:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+14
+2.2. Mercado
+Ámbito geográfico
+- Qué características tiene el alcance comercial de tu empresa (barrio, re-
+gión, ciudad, en todo el país, por internet, en todo el mundo, etcétera): 
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Público objetivo
+- Describe cómo segmentaste tu mercado y qué variables utilizaste:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Cliente y consumidor
+- Identifica qué personas intervienen (comprador, consumidor, influencia-
+dor) en el proceso de compra de tu producto y/o servicio y qué papeles 
+desempeña cada una de ellas:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Situación del mercado
+- Describe cuál va a ser la tendencia de tu mercado: si es un mercado en 
+crecimiento, si es estable o si se prevé un retroceso:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Describe y cuantifica cuál es el volumen y cuáles son las dimensiones del 
+mercado en el que quieres entrar:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+2.3. Competencia
+Descripción de la competencia
+- Desarrolla un estudio de cuáles son tus principales competidores directos 
+e indirectos más importantes:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+15
+- Detalla y cuantifica la participación en el mercado de cada uno de ellos:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Comparación con la competencia
+- Presenta qué resultado arroja el análisis de comparación (ventajas y des-
+ventajas) con tus competidores a partir de la información compilada:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+2.4. Precio
+Variables para la fijación del precio
+- Relaciona y justifica las variables (costo de producción; precios de tu com-
+petencia; capacidad adquisitiva de tu cliente) que tienes en cuenta para 
+fijar el precio de tu producto y/o servicio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Determinación del precio
+- Precisa cuál es tu estrategia (acciones) más adecuada para incorporar 
+tu producto y/o servicio en el mercado en el que vas a trabajar y la lista 
+correspondiente de precios:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+2.5. Distribución
+Canales de distribución
+- Precisa cuál es tu estrategia (acciones) de distribución que has diseñado 
+para el producto y/o servicio: 
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+16
+- Explica cuáles van a ser los canales de distribución que utilizarás para 
+hacer llegar tu producto y/o servicio al cliente:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+2.6. Promoción
+Medios de publicidad
+- Precisa cuál es tu estrategia (acciones) de promoción (comunicación) y 
+el presupuesto asignado para la inversión en publicidad, demostraciones 
+comerciales, y cualquier otro medio de promoción que utilizas o utilizarás 
+para llegar a tus potenciales clientes:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Presenta la información, folletos u hojas de datos sobre el producto y/o 
+servicio de la cual ya dispones. Adjunta una muestra:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+2.7. Proyecciones de ventas
+Proyecciones de ventas anuales
+- Explica cuánto vas a vender y en qué te basas para hacer ese cálculo, pre-
+sentando tus proyecciones de ventas, mes tras mes para el año1 y totales 
+del año 2 y 3:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+E. Elaboración del módulo 
+3. Producción y calidad
+En este módulo vas a presentar los aspectos técnicos que 
+conciernen a la producción de los productos y/o servicios de tu 
+
+17
+empresa, como los procesos requeridos, todo lo relativo a los 
+medios empleados (materias primas necesarias, herramientas, 
+maquinaria, infraestructura locativa), especialización y tiempos 
+requeridos, cantidad que podrá ofrecerse con los recursos ini-
+ciales, la gestión de la calidad, y las medidas de protección en 
+el trabajo.
+Cuando hayas acabado de escribir esta parte de tu plan de 
+empresa, tendrás claro cómo vas a producir todos los produc-
+tos y/o servicios que quieres ofrecer, además qué instalaciones 
+y equipamiento se requieren.
+No olvides que la información que escribas en este módulo 
+ha de estar en relación con lo que escribas en los siguientes 
+módulos del Plan de empresa, como en el de organización y el 
+financiero.
+¿Qué esperas para dar respuesta a todas las preguntas de 
+esta área? ¡Ánimo!
+Esquema -guía de elaboración
+A continuación te presentamos un esquema-guía que permi-
+te la elaboración de este módulo 3 (Producción y calidad) de 
+tu Plan de empresa.
+3. Producción y calidad
+3.1. Producción
+Proceso de elaboración
+- Describe cuáles son las actividades o acciones necesarias, para producir y 
+poner tu producto y/o servicio al alcance de tu cliente:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+18
+- ¿Cómo es el diagrama de bloques o el diagrama de flujo de tu proceso 
+desde que contactas al cliente hasta que le entregas a satisfacción el pro-
+ducto y/o servicio? Además, identifica los puntos críticos y la duración del 
+ciclo productivo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Tecnologías necesarias
+- Presenta de forma clara y justifica la escala de modernidad tecnológica 
+que utilizarás (tecnología primitiva, obsoleta, atrasada, moderna, de pun-
+ta) para desarrollar y producir tu producto y/o servicio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Gestión de inventarios (stocks)
+- Precisa los consumos y el manejo de materias primas, insumos y/o pro-
+ductos necesarios para cumplir tus proyecciones de ventas:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Costos
+- Presenta cómo es la composición y cuantificación de los costos operacio-
+nales (costos de producción, gastos de administración, gastos de ventas o 
+de distribución, gastos de financiación) de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Presenta la clasificación y cuantificación de los costos fijos y variables de 
+tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Determina el margen de cada producto y/o servicio: 
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+19
+3.2. Calidad
+Control de calidad
+- Precisa cómo realizarás el control de calidad:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+3.3. Equipos e infraestructura locativa
+Equipos e infraestructura necesarios
+- Establece cuáles son exactamente las necesidades de equipos y mobiliarios 
+(características, modelos, forma de adquisición, capacidad de producción, 
+precio estimado):
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Define cuáles son las características del local / planta que necesita tu em-
+presa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Precisa las estrategias (acciones) que utilizarás para poner al alcance de tu 
+empresa la infraestructura (equipo, mobiliario y locativa) requerida:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Determina la capacidad operativa instalada total (potencial) y el nivel de 
+utilización (requerido) de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Presenta cómo es la composición y cuantificación de la inversión total 
+inicial requerida para poner en marcha tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+20
+3.4. Seguridad en el trabajo y medio ambiente
+Normativa de prevención de riesgos
+- Resume qué tipo de medidas debes adoptar, en la actividad que vas a 
+desarrollar, respecto a la higiene y seguridad en el trabajo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Normativa ambiental y productos contaminantes
+- Resume qué tipo de medidas debes adoptar, en la actividad que vas a 
+desarrollar, respecto al medio ambiente y manejo de residuos:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+F. Elaboración del módulo 
+4. Organización y gestión
+En este módulo definirás cómo vas a organizar tu empresa. 
+Además, tendrás que fijar los objetivos que crees que puede 
+asumir el negocio a lo largo de los tres primeros años. Debes 
+tener en cuenta que la planificación de la organización ha de 
+estar en relación con otras áreas de la actividad empresarial, 
+como el capital con el que cuenta la empresa, la situación del 
+mercado y de la competencia, entre otros.
+Lo que definas en esta área te será de gran utilidad más 
+adelante, cuando llegues al módulo jurídico-tributario y te ayu-
+dará, también, a completar las proyecciones contables del mó-
+dulo financiero.
+¡Ánimo! Empieza ya a trabajar en tu plan de organización. 
+Esquema- guía de elaboración
+A continuación te presentamos un esquema-guía que permi-
+te la elaboración de este módulo 4 (Organización y gestión) 
+de tu Plan de empresa.
+
+21
+4. Organización y gestión
+4.1 Planificación y programación
+Planificación de ventas
+- Presenta el cronograma de cómo piensas cumplir tus proyecciones de 
+ventas:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Planificación de producción 
+- Presenta cuáles son los objetivos y el cronograma de producción y/o 
+prestación del servicio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Planificación de personal
+- Presenta cuántos trabajadores necesitas incorporar y cuándo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Planificación de inversiones
+- Presenta el cronograma de retorno de tu crédito o préstamo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Detalla cuánta inversión y en qué activos fijos deberás hacer:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Sistema de evaluación de resultados
+- Establece cómo es el sistema de seguimiento de metas y proyecciones de 
+tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Presenta el cronograma de implementación de tu proyecto empresarial:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+22
+4.2. Organización
+Equipo
+- Define cómo está organizada (organigrama) tu empresa y cómo quedará 
+cuando esté operando de manera rutinaria:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Organización del trabajo
+- Describe brevemente los puestos o cargos, sus funciones y sus perfiles:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+4.3. Gestión de personal 
+Proceso de selección
+- Detalla cuál es el mecanismo de selección e incorporación de personal 
+que seguirás:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Formación
+- Detalla cómo adelantarás el proceso capacitación y entrenamiento del 
+personal que requieres:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Retribución del emprendedor
+- Detalla cómo fijas tu sueldo, la cantidad mínima por concepto de tu sala-
+rio o anticipo de beneficios para ti y tus socios:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Sueldos
+- Detalla el valor por concepto de salarios (escala salarial) de tus traba-
+jadores, los aportes a salud y fondo de pensiones que deberás prever y 
+afrontar periódicamente (mensualmente, por lo general):
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+23
+G. Elaboración del módulo 
+5. Jurídico – Tributario
+Este módulo hace referencia a todos los trámites adminis-
+trativos y legales necesarios para la constitución de tu empresa, 
+así como el régimen fiscal aplicable. Es muy importante que 
+tengas en cuenta las diferentes posibilidades legales existentes al 
+escoger la forma jurídica más adecuada para tu empresa (¿crea-
+rás una persona natural o persona jurídica?). También, deberás 
+averiguar los trámites necesarios para la puesta en marcha y sus 
+costos. En caso de que necesites establecimiento de comercio, 
+deberás averiguar los trámites y costos de su apertura.
+Cuando hayas acabado de escribir esta parte de tu plan de 
+empresa, tendrás claro los aspectos legales que te afectarán en 
+el momento de constituir legalmente tu empresa y en el trans-
+curso de su operación diaria. 
+¿Qué esperas? ¡Empieza ya a analizar cuál 
+es la forma jurídica que te conviene!
+Esquema- guía de elaboración
+A continuación te presentamos un esquema-guía que permi-
+te la elaboración de este módulo 5 (Jurídico – Tributario) de 
+tu Plan de empresa.
+5. Jurídico – Tributario
+5.1 Determinación de la forma jurídica
+Determinación de la forma jurídica
+- Precisa cuál forma jurídica has escogido para tu empresa y por qué te 
+conviene:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+24
+Pasos para la tramitación de la forma jurídica de tu empresa
+- Relaciona qué tramitación debe seguir la forma jurídica de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Costo
+- Precisa y cuantifica en qué costos y gastos de constitución y formalización 
+incurre tu nueva empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+5.2. Aspectos laborales del emprendedor
+Seguridad social del emprendedor
+- Define qué régimen de seguridad social y demás aspectos de legalización 
+laboral deberá cumplir tu empresa con los socios y tú:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+5.3. Aspectos laborales y seguridad social de los tra-
+bajadores
+Modalidades contractuales
+- Define qué tipos de contratos de trabajo y régimen de seguridad social 
+piensas utilizar con tus empleados y por qué crees que es la mejor opción:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+5.4. Obligaciones tributarias o fiscales
+Impuestos
+- Presenta cómo es la estructura y cuantificación de las obligaciones tribu-
+tarias (impuestos) que tienes que pagar según el tipo de actividad o forma 
+jurídica de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+25
+5.5. Permisos, licencias y documentación oficial
+Permisos y licencias
+- Relaciona qué permisos y/o licencias necesitas para el desarrollo de tu 
+actividad y cuál es su costo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Documentación oficial
+- Resume cómo vas a llevar la contabilidad tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Relaciona cuáles libros de contabilidad debes registrar en la Cámara de 
+Comercio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+5.6. Cobertura de responsabilidades
+Seguros
+- Define cuáles los seguros se requieren o convienen para tu empresa y su 
+costo:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+5.7. Patentes, marcas y otros tipos de registros
+Protección legal
+- Presenta qué tipo de protección legal requiere tu producto o actividad y 
+precisa cuánto te va a costar:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Registro de dominio
+- Presenta cómo vas a proteger y cuánto te va a costar la creación de tu 
+página web:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+26
+H. Elaboración del módulo 6. Financiero
+¡Por fin has llegado al módulo financiero! En este módu-
+lo debes presentar todo el análisis económico-financiero de 
+tu proyecto empresarial, el cual te permite o a tu equipo de 
+emprendedores examinar la viabilidad del proyecto y tomar 
+conciencia de la inversión necesaria para convertir la idea de 
+negocio en una empresa rentable.
+La información recogida en el 
+plan financiero será decisiva a la 
+hora que necesites financiamiento, 
+pues allí se expresarán los datos a 
+través de los cuales se puede eva-
+luar si el rendimiento esperado es 
+interesante y se sostiene coherente-
+mente con los datos aportados por 
+el resto del Plan. 
+La mayoría de los temas ya los has trabajado, por tanto, te 
+recomendamos que revises los anteriores módulos del Plan de 
+empresa, para que el componente financiero esté siempre en 
+coherencia con ellos.
+Recuerda que en el portal de Bogotá Emprende (www.bo-
+gotaemprende.com) puedes descargar la “Herramienta Plan 
+Financiero”, que te permite desarrollar en formato Microsoft 
+Excel toda la elaboración del plan financiero de tu proyecto 
+empresarial.
+Ha llegado la hora de hacer números, ¡manos a la obra!
+Esquema-guía de elaboración
+A continuación te presentamos un esquema-guía que per-
+mite la elaboración de este módulo 6 (Financiero) de tu Plan 
+de empresa.
+
+27
+6. Financiero
+6.1. Plan financiero
+Nota: las cifras para este apartado las obtienes de la infor-
+mación que resulta del plan financiero que has elaborado.
+Inversión total inicial
+- Presenta cómo es la composición y cuál es la cuantía de la inversión total 
+inicial requerida para poner en marcha tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Estructura de financiamiento 
+- Presenta cómo es la composición de la estructura de financiamiento de tu 
+proyecto, identificando las fuentes de fondos (aportes de los socios, présta-
+mos, etcétera) y cómo se utilizarán estos para cubrir las inversiones iniciales 
+(inversión en activos fijos o en capital de trabajo):
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Presupuesto de ingresos 
+- Resume el presupuesto de ingresos y gastos de tu empresa para cada uno 
+de los tres primeros años:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Costos indirectos
+- Resume los costos fijos de tu actividad, es decir, los gastos de tu empresa 
+que no están relacionados de manera directa al producto y/o servicio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Utilidades y política de su distribución
+- Presenta la utilidad bruta y neta que tendrá tu empresa y define los crite-
+rios de distribución de utilidades que seguirás:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+28
+Impuestos
+- Qué impuestos y su cuantía tendrás que pagar:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+6.2. Sistema de cobros y pagos
+Sistema de cobros
+- Establece cómo será el sistema o estructura de gestión de cobros a tus 
+clientes:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Sistema de pagos
+- Establece cómo será el sistema o estructura de gestión de pagos a tus 
+proveedores:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+6.3. Resumen de los datos financieros más relevantes
+Nota: las cifras para este apartado las obtienes de la infor-
+mación que resulta del plan financiero que has elaborado.
+Proyecciones contables
+- Precisa el punto de equilibrio operativo, es decir, el punto en el que tu 
+empresa no ganaría ni perdería, y el tiempo en que lo lograrías:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Resume cómo es el comportamiento proyectado del flujo de caja o de 
+efectivo, mes tras mes, para el primer año de operación de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+29
+- Resume cómo es el comportamiento proyectado del estado de resultados 
+económicos (pérdidas o ganancias), mes tras mes, para el primer año de 
+operación de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Resume cómo es el comportamiento proyectado del balance general, mes 
+tras mes, para el primer año de operación de tu empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Resume los supuestos y las conclusiones principales derivadas de los esta-
+dos financieros (flujo de caja o de efectivo, estado de resultados, balance 
+general) que elaboraste:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+-- Resume los valores que reportan los indicadores de rentabilidad econó-
+mica y financiera (tasa interna de retorno (TIR), valor presente neto (VPN) 
+y periodo de recuperación de inversión (PRI)) de tu proyecto empresarial:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Relaciona cuáles son las variables más sensibles o críticas, por ejemplo: 
+ingresos; precio y/o unidades; costos fijos de la operación; costos variables 
+por unidad; que al cambiar su valor inciden significativamente en los resul-
+tados financieros de tu negocio:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Precisa cuál es el impacto o resultados en el proyecto empresarial, ante 
+cambios en las variables más sensibles o críticas anteriormente relaciona-
+das, en tres situaciones o escenarios: normal (esperada), optimista y pesi-
+mista:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+30
+I. Elaboración del módulo 
+7. Valoración
+Llegaste al final de tu Plan de empresa. En este último mó-
+dulo debes hacer la valoración de tu proyecto empresarial. Este 
+trabajo es fundamental, pues se trata de preparar argumentos 
+para vender tu proyecto a la hora de presentarlo al banco al ir 
+a buscar financiación; conseguir posibles socios para tu nego-
+cio, convencer a buenos profesionales del sector para que ven-
+gan a trabajar contigo; conseguir que tus proveedores confíen 
+en ti y en la solvencia de tu empresa.
+¡Adelante! Investiga cuáles son tus puntos 
+fuertes y tus puntos débiles.
+Esquema- guía de elaboración
+A continuación te presentamos un esquema-guía que per-
+mite la elaboración de este módulo 7 (Valoración) de tu Plan 
+de empresa.
+7. Valoración
+7.1. Análisis de puntos fuertes y débiles
+Puntos fuertes
+- Describe por qué crees que tu negocio puede tener éxito y destaca los 
+aspectos más positivos de tu Plan de empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Puntos débiles
+- Describe cuáles son los puntos débiles de tu proyecto y qué medidas vas 
+a tomar para superarlos:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+
+31
+Oportunidades
+- Describe cuáles son las oportunidades externas que pueden surgirle a tu 
+proyecto:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+Amenazas
+- Describe cuáles crees que son las amenazas externas para tu proyecto:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+7.2. Estrategia de desarrollo del proyecto
+- Define cuáles son las posibles estrategias (acciones) que adoptarás para 
+evitar los puntos débiles, superar las amenazas, potenciar los puntos fuertes 
+y aprovechar las oportunidades:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+7.3. Aspectos de sostenibilidad y riesgos
+- Relaciona las políticas, normas y programas de tipo local, regional y sec-
+torial, que beneficien o dificulten la implementación de tu nueva empresa:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+- Describe cuáles son los probables riesgos de negocio o circunstancias ad-
+versas en los aspectos de mercado, técnicos, económicos o financieros que 
+pueden afectar tu negocio, y las posibles medidas para controlar o mini-
+mizar estos riesgos:
+_______________________________________________________________
+_______________________________________________________________
+_______________________________________________________________
+¡Felicitaciones! Has concluido tu Plan de empresa. El Centro 
+de Emprendimiento Bogotá Emprende te desea éxitos en tu 
+nueva vida empresarial y cuenta con nuestro apoyo.
+
+32
+A. Sobre la presentación
+Verifica que el documento conten-
+ga los aspectos que indica el Forma-
+to de autorre-visión disponible en el 
+portal (www.bogotaemprende.com), 
+el cual te permitirá revisar el estado 
+actual de tu Plan de empresa, con el 
+fin de iniciar el proceso de evaluación 
+de este. Te recordamos que esta auto-
+rrevisión es uno de los requisitos para 
+presentar tu Plan de empresa al servi-
+cio de Evaluación.
+La presentación escrita del Plan de empresa es una muestra 
+de la imagen de tu futura empresa. Es importante que la pre-
+sentación sea cuidadosa y atractiva. A continuación te damos 
+algunas recomendaciones para tener en cuenta en la presenta-
+ción escrita del Plan de empresa.
+ Extensión. Justa la necesaria, del orden de máximo 45 pá-
+ginas, incluidos los anexos.
+ Numeración. El documento debe contener el número de 
+cada página e incluir un índice de contenido.
+ Letra y márgenes. Debe ser fácil de leer. Tamaño de la 
+letra mínimo 11 puntos, interlineado igual o superior a 1,5 
+y márgenes iguales o superiores a 2,5 cm que permitan al 
+lector hacer anotaciones.
+III. Recomendaciones
+
+33
+ Ilustraciones. Los gráficos, cuadros e ilustraciones se deben 
+usar con moderación; en exceso dificultan la lectura. Evitar 
+los efectos especiales. Evitar hacer las referencias y explicar 
+la información que contienen estas ayudas.
+B. Cómo puedes saber si tu 
+proyecto de empresa es viable
+A través del servicio especializado de Evaluación de Plan 
+de empresa, un especialista analiza si tu Plan de empresa reúne 
+las condiciones de viabilidad que sustenten su formalización, 
+competitividad y sostenibilidad. Como resultado, entrega un 
+Concepto técnico de viabilidad favorable o desfavorable y los 
+aspectos en que debes ajustar tu proyecto empresarial. Con 
+este servicio, puedes determinar las posibilidades de éxito de tu 
+empresa y es imprescindible al momento que necesites solicitar 
+un crédito para la constitución de tu empresa. Este servicio no 
+tiene ningún costo y puedes acceder a él si te encuentras en la 
+ciudad de Bogotá en el portal (www.bogotaemprende.com).
+C. ¡Unas últimas sugerencias!
+Una vez completado tu Plan de empresa, repásalo con tu 
+(s) socio(s) del negocio, con amigos empresarios o con otros 
+expertos. Utiliza los servicios del Centro de Emprendimiento 
+Bogotá Emprende. Consúltanos.
+El énfasis del Plan debe ser siempre la puesta en marcha de 
+la empresa. En otras palabras, no solo es importante la ela-
+boración de un plan eficaz sino también su traducción en una 
+empresa exitosa. Lo importante del plan de empresa no es 
+hacerlo sino cumplirlo.
+
+34
+La creación de una empresa es acción, los planes son nece-
+sarios, la información es fundamental, las preocupaciones son 
+convenientes, pero nada de esto sirve si no somos capaces de 
+llevarlo a la práctica. 
+No lo olvides, ¡cuentas con el apoyo del Centro 
+de Emprendimiento Bogotá Emprende!
+
+35
+Esta Cartilla práctica fue elaborada con base en la compilación 
+y adaptación de contenidos de las siguientes fuentes bi-
+bliográficas. Te recomendamos su adquisición o consulta.
+Araújo M., Beatriz (2008). Cartilla práctica Cómo hacer un es-
+tudio de mercados para la creación y el desarrollo inicial 
+de una nueva empresa. Bogotá: CCB, Bogotá Emprende.
+Bermejo, Manuel y De la Vega, Ignacio (2003). Crea tu propia 
+empresa. Estrategias para su puesta en marcha y supervi-
+vencia. México: McGraw Hill. 
+Cámara de Comercio de Bogotá (2006). Herramienta virtual 
+Plan de Empresa en Línea (PEL). Bogotá: CCB, Bogotá Em-
+prende. 
+Cámara de Comercio de Bogotá (2010). Guía práctica del parti-
+cipante. Material adaptado para el “Taller Plan de empre-
+sa”, Convenio 005 de 2009 suscrito entre la Cámara de 
+Comercio de Bogotá y el FDL de Teusaquillo. Publicación 
+interna. Consultor Miguel Morales Beltrán. 2010.
+Cámara de Comercio de Bogotá (2010).Guía metodológica 
+del servicio especializado Evaluación de Plan de empresa. 
+Publicación interna. Bogotá Emprende. Consultor Miguel 
+Morales Beltrán. 
+Cámara de Comercio de Bogotá (2007). Guía del asesor/tutor. 
+Taller Plan de Empresa en Línea (PEL). Publicación inter-
+na. Consultor Miguel Morales Beltrán. 
+Cámara de Comercio de Bogotá (2006). Guía Cómo elaborar 
+su Plan de empresa. Publicación interna. Consultor Miguel 
+Morales Beltrán.
+Referencias
+
+36
+Cámara de Comercio de Bogotá (2006). Guía Cómo diseñar 
+estratégicamente su empresa. Publicación interna. Consul-
+tor Miguel Morales Beltrán.
+Morales B., Miguel (2009). Cartilla Conoce los pasos para crear 
+empresa. Bogotá: Cámara de Comercio de Bogotá. 
+Morales B., Miguel, Arango, Julián y Barragán, Julio (2009). 
+Cartilla Cómo crear su propia empresa. Publicación del 
+Instituto de Ciencia Política Hernán Echavarría Olózaga. 
+Ollé, Monserrat y otros (1998). El Plan de empresa. Cómo pla-
+nificar la creación de una empresa. México. Alfaomega- 
+Marcombo.
+Varela, Rodrigo (2001). Innovación empresarial. Arte y ciencia 
+en la creación de empresas. México: Prentice Hall. 
+Cibergrafía
+Bogotá Emprende: http://www.bogotaemprende.com/ 
+Cámara de Comercio de Bogotá: http://www.ccb.org.co/
+Portal Nacional de Creación de Empresas: http:// www.crea-
+rempresa.com.co/
+Ministerio de Comercio, Industria y Turismo: http://www.min-
+comercio.gov.co/

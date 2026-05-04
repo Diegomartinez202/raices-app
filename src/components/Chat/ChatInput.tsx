@@ -22,14 +22,14 @@ export const ChatInput: React.FC<ChatInputProps> = ({ isLoading, onSendMessage }
       onSubmit={handleSubmit}
       className="flex gap-2 p-4 bg-white border-t border-[#D4A373]/20"
     >
-      <input
-        value={texto}
-        onChange={(e) => setTexto(e.target.value)}
-        type="text"
-        disabled={isLoading}
-        placeholder={isLoading ? 'RAÍCES está pensando...' : 'Escribe tu pregunta aquí...'}
-        className="flex-1 px-4 py-3 rounded-full border border-[#D4A373] text-base outline-none focus:border-[#C65D3B] disabled:bg-[#F5F1E8] transition-all"
-      />
+<input
+  value={texto}
+  onChange={(e) => setTexto(e.target.value)}
+  type="text"
+  disabled={isLoading}
+  placeholder={isLoading ? 'Iniciando sistema RAÍCES...' : 'Escribe tu pregunta aquí...'}
+  className="flex-1 px-4 py-3 rounded-full border border-[#D4A373] text-base outline-none focus:border-[#C65D3B] disabled:bg-[#F5F1E8] transition-all"
+  />
       
       <button 
         type="submit"

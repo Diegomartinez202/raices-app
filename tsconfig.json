@@ -6,21 +6,40 @@
     "module": "ESNext",
     "skipLibCheck": true,
 
-    /* Bundler mode */
+    /* Strict Mode */
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
+    "noImplicitAny": false,
+
+    /* Bundler & Node mode */
     "moduleResolution": "bundler",
     "allowImportingTsExtensions": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
     "jsx": "react-jsx",
+    "allowJs": true,
 
-    /* Eliminamos baseUrl y ajustamos paths a rutas relativas */
+    /* Rutas Relativas */
     "paths": {
       "@/*": ["./src/*"],
       "@hooks/*": ["./src/hooks/*"]
     },
     "types": ["vite/client", "node"]
   },
-  "include": ["src", "scripts"],
+  "include": [
+    "src/**/*.ts", 
+    "src/**/*.tsx", 
+    "scripts/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules", 
+    "**/*.vue", 
+    "/*.vue",
+    "src/components/Chat/ChatInput.vue",
+    "src/components/Chat/ChatWindow.vue",
+    "src/components/Chat/SourceBadge.vue",
+    "src/components/AppInitializer.vue"
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

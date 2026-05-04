@@ -1,0 +1,1136 @@
+INTENCIONALIDAD DE LA GUÍA
+Esta guía para el emprendimiento METI busca aportar a las instituciones 
+de apoyo al Emprendimiento, a quienes tienen la misión de impulsar a 
+emprender y a los emprendedores, un modelo cuya base de conocimiento 
+parte de la experiencia de emprender y conocer desde adentro los retos 
+que involucra la creación de empresa para la industria TI. Por lo tanto es 
+un conjunto de propuestas inspiradoras para llevarlas a la práctica en el 
+trabajo en vísperas de apoyar y gestar ideas de negocios potencialmente 
+exitosas. 
+En primer lugar, se presenta una reflexión sobre el modelo de 
+emprendimiento. La intención del capítulo es aportar a la discusión 
+sobre éste concepto en Colombia, así como los conceptos Ecosistema e 
+Innovación, palabras claves en las iniciativas TI. Estas definiciones inspiran 
+la presente guía y son el soporte de las estrategias claves del modelo de 
+emprendimiento: de una parte, el ABC necesario para acompañar los 
+emprendimientos: Infraestructura y Soporte para la Innovación; la mejor 
+gente para la Industria; Productos innovadores competitivos y confiables; 
+Fortaleza financiera; Desarrollo de negocios; Responsabilidad social y 
+empresarial. Y finalmente, aquella referida a la filosofía de emprender, esto 
+es los valores intrínsecos de los emprendedores, necesarios para impulsar 
+sus ideas. 
+A continuación se dedica un apartado a la propuesta pedagógica que 
+articula cada uno de los ejes temáticos de la guía METI: pedagogía por 
+proyectos. Esta propuesta se sustenta en el trabajo colaborativo. En palabras 
+de Gloria Rincón: “Es una de las estrategias para la formación de personas 
+que apunta a la eficacia y eficiencia de los aprendizajes y a la vivencia de 
+valores democráticos, a través de un trabajo cooperativo, de co-elaboración 
+del plan, de co-realización y co-teorización que debe involucrar a todos los 
+actores”.
+1
+ La relación entre la pedagogía por proyectos y esta propuesta 
+para el modelo de emprendimiento TI se basa en la necesaria participación 
+de todos los actores que hacen posible cada una de las estrategias en un 
+ecosistema basado en el emprendimiento, con el fin de alcanzar empresas 
+exitosas para los mercados de hoy. 
+1 “El concepto de pedagogía por proyectos” Gloria Rincón...
+
+3
+MÁS QUE UN MÉTODO
+Desde hace algunos años la palabra emprendimiento ha tomado fuerza 
+en diversos sectores en Colombia donde convergen tres elementos 
+fundamentales: las personas, el conocimiento y sus intereses. Así, en los 
+centros de investigación, en las universidades e instituciones educativas y 
+las empresas, desarrollan continuamente estrategias y actividades en las 
+cuales se recrea el ambiente necesario para que todos aquellos que tienen 
+una idea cuyo punto de partida es el conocimiento, puedan construir un 
+producto altamente innovador, con un gran impacto en los diversos clúster 
+basados en Tecnología de la Información. 
+Esta necesidad de producir innovación en un país como Colombia 
+ha llevado a la construcción de mecanismos que impulsen y aceleren 
+ambientes de creatividad y a su vez, permitan consolidar un saber sobre la 
+esencia del emprendedor, de manera que cada vez sean más las personas 
+que se interesen por el desarrollo de sus proyectos, y sean cada vez más 
+competitivos. Una de las grandes preguntas frente a esta tendencia 
+del emprendimiento en Colombia es reconocer si éste concepto es un 
+saber al que todos pueden acceder, adaptar y transformar a partir de sus 
+necesidades para iniciar sus propias empresas, o si en definitiva, se habla 
+de una tendencia que caracteriza a las personas que deciden en algún 
+momento de su vida, emprender. 
+Para quienes han dispuesto su conocimiento en el diseño de esta guía 
+didáctica METI, el emprendedor ante todo, es una persona con unas 
+cualidades constitutivas de su ser: con una capacidad propositiva que lo 
+impulsa a explorar y buscar formas de innovar en su área de conocimiento; 
+con una disposición a vencer todo tipo de barreras propias de su contexto 
+social y cultural; una inclinación a convertir todo aquello que surge en el 
+ámbito de la imaginación en una realidad desde la que pueda transformar 
+su entorno, y aportar a la generación de capital; y finalmente, una alta 
+capacidad para asumir riesgos. 
+Esta postura, desde la que el emprendimiento resulta también una 
+cuestión genética, lleva a otras consideraciones: ¿cómo crear el ambiente 
+necesario para que ésta voluntad de emprender pueda crecer, desarrollarse 
+y reproducirse? ¿Cuáles son las acciones necesarias para estimular esta 
+evolución? Y sobre todo y lo más importante, ¿cómo crear una plataforma 
+
+4
+que ayude a acelerar este crecimiento?
+Ese es el sentido de esta guía didáctica sobre el emprendimiento. Lo que se 
+propone aquí no es una hipótesis univoca del trabajo desde las instituciones 
+de apoyo al emprendimiento, sino más bien, un documento interactivo en 
+el que los emprendedores junto con los líderes de las instituciones que 
+propician los ambientes para el desarrollo de ideas de negocios en TI, 
+puedan experimentar, adaptar a sus contextos específicos, transformar e 
+implementar a partir de sus necesidades, para nuevamente iniciar un ciclo 
+de reflexiones y conclusiones. Con lo cuál aumentará el conocimiento en 
+esta área tan compleja y dinámica como es la creación de ecosistemas para 
+emprender. 
+
+5
+DEFINICIÓN DE EMPRENDIMIENTO
+Sobre las palabras emprendimiento, ecosistema e innovación es posible 
+encontrar una variedad de definiciones que van desde miradas académicas, 
+otras más empresariales, y finalmente, la de aquellos individuos que se han 
+arriesgado a crear sus emprendimientos TI quién construye una definición 
+basada en su propia experiencia. El aporte de estos tres conceptos 
+fundamentales en esta guía, como se plantea más adelante, son aportes 
+para la reflexión. 
+Según la Ley 1014 del 26 de enero de 2006, que busca promover una cultura 
+del emprendimiento en el territorio nacional, se define Emprendimiento 
+como: “Una manera de pensar y actuar, orientada hacia la creación 
+de riqueza. Es una forma de pensar, razonar y actuar centrada en las 
+oportunidades, planteada con visión global y llevada a cabo mediante un 
+liderazgo equilibrado y la gestión de un riesgo calculado; su resultado es la 
+creación de valor que beneficia a la empresa, la economía y la sociedad” 
+2
+Existen otras definiciones como Emprendimiento Dinámico, expuesto 
+en la guía de aprendizaje FOMIN sobre emprendimientos dinámicos: 
+“Aquél nuevo o reciente proyecto empresarial que tiene un potencial 
+realizable de crecimiento gracias a una ventaja competitiva”. Otra mirada 
+al emprendimiento va por cuenta del Fondo Multilateral de Inversiones 
+(FOMIN) y Banco de Interamericano de Desarrollo (BID), donde a la 
+definición de emprendimiento vincula el concepto de innovación: “son 
+aquellos que crecen, de manera rentable, rápida y sostenidamente, que son 
+capaces de reinvertir y de lograr un nivel de ventas bastante significativo en 
+una década” 
+3
+. 
+Otra definición sobre emprendimiento es aquella relacionada con la 
+economía de la información: “Es aquél que se dedica al desarrollo de 
+2 Ministerio de Comercio, Industria y Turismo en Colombia
+3 Plan de acción del clúster promoción de emprendimientos dinámicos
+
+6
+actividades o productos que tienen fuertes impactos en la forma de vida 
+de los individuos, y el funcionamiento de las sociedades, constituyendo el 
+núcleo de lo que se denomina economía de la información” 
+4
+A estas definiciones, ¿qué otras características es posible agregar para 
+definir el concepto de emprendimiento? Si bien el emprender puede ser una 
+acción ejecutada al interior de las empresas como una de sus estrategias (y 
+necesariamente no siendo innovadoras y viceversa), este concepto no está 
+desligado de los individuos. Y las cualidades de quienes desean emprender 
+es necesario revelarlas y orientarlas hacia el desarrollo de ideas de negocios 
+innovadores. De modo que un intento descriptivo del emprendimiento, 
+necesariamente involucra definir estas cualidades. 
+El emprendimiento es un proceso autónomo y también una propuesta 
+económica. Es ante todo, una forma de pensar diferente y desde la 
+diferencia, diseñar productos que tengan la posibilidad de ser probados 
+con el fin último de producir un cambio. Este cambió propicia la evolución 
+y es en últimas, el combustible, la inspiración para el colectivo, de buscar 
+soluciones alternativas para las múltiples demandas y necesidades de una 
+sociedad. 
+Esta búsqueda de valor agregado, cualidades de un producto que quiere 
+generar un impacto, es posible lograrlo a través de unas características 
+propias de los emprendedores: 
+- La pasión. Con esto se hace referencia a la importancia del principal 
+activo del emprendedor: el conocimiento. Y este conocimiento parte de un 
+interés genuino, de un interés verdadero de modo que se garantiza que 
+aquello por lo cuál se deriva en un emprendimiento es parte de su forma 
+de vida, de pensar y sentir. 
+- Confianza. En sus primeros pasos es necesaria la confianza: gozar de 
+la oportunidad para probar una idea o producto. Esto es una respuesta 
+del medio en el que se planea desarrollar el emprendimiento. Y de otra 
+parte, confianza en que los pasos a seguir para madurar una idea de 
+emprendimiento, podrán obtener como resultado un modelo de negocio 
+innovador
+- Trabajo duro. Ningún emprendimiento llegará a buen término si largas 
+horas de dedicación.
+4 Instituto de Economía Facultad de Ciencias Económicas Universidad de la República. ESTUDIO SECTORIAL DE COMPETITIV-
+IDAD: SUBSECTOR DE TECNOLOGÍAS DELA INFORMACIÓN. http://www.funcex.org.br/material/REDEMERCOSUL_BIBLIOGRAFIA/bibliote-
+ca/ESTUDOS_URUGUAY/URY_16.pdf
+
+7
+Consiste en hacer uso de uno de los activos del emprendedor, su alta 
+capacidad de trabajo. 
+- Atrevimiento. En una sociedad no es posible el cambio sin la capacidad 
+de atreverse a pensar diferente. Este elemento es esencial para producir 
+innovación en contextos donde pareciera que ya está todo dado o dicho
+- Capacidad de respuesta. Ser flexibles en los diferentes aspectos de 
+la labor emprendedora: en lo comercial, en la tecnología. Es la capacidad de 
+adaptarse a los cambios constantes de nuestra época
+- Austeridad. Fomentar el ahorro en los primeros años del 
+emprendimiento y trabajar en el manejo eficiente de sus recursos 
+- Sinergia. Capacidad de unirse a las redes de conocimiento fortalecidas 
+en las Instituciones de Apoyo al Emprendimiento 
+- Desprendimiento. Aportar a la comunidad emprendedora, 
+conocimientos que aceleren procesos de los nuevos emprendimientos. 
+En cualquier proceso de formación de emprendedores, estas capacidades 
+deben buscar ser estimuladas en los emprendedores, deben constituirse 
+como pilares básicos para las Instituciones de Apoyo al Emprendimiento, 
+y finalmente, involucrarse en las actividades de los grupos de trabajo 
+conformados por los líderes de las iniciativas, para sacar adelante los 
+proyectos en TI. 
+
+8
+Definición del concepto de Ecosistema
+Para que estos procesos de estimulo a las capacidades de los emprendedores 
+se desarrollen adecuadamente, se requiere un Ecosistema. Este concepto 
+prestado de la biología para definir un sistema natural compuesto de 
+organismos vivos interdependientes, permite realizar una analogía sobre 
+el contexto que los emprendimientos necesitan para crecer y avanzar hacia 
+la consolidación de sus productos. Al igual que sucede con el término 
+emprender, existen varias posturas para definir el concepto de ecosistema 
+en este contexto de la creación de ideas de negocios. 
+Por una parte se plantea la creación de ecosistemas exógenos, promovidos 
+por instituciones gubernamentales como parte de planes regionales 
+para promover un entorno emprendedor en diferentes conglomerados o 
+“clusters”. En la otra orilla están los ecosistemas endógenos, impulsados 
+por uno o más emprendedores, concebidos como una red articulada, 
+con empresas del sector y conectada con otros agentes que propicien su 
+progreso. 
+La concepción de ecosistema que aquí se propone como parte del camino 
+para los emprendedores, las Instituciones de Apoyo al Emprendimiento, 
+y a los interesados en formación sobre emprendimiento, recoge la última 
+definición endógena de ecosistema: una plataforma natural a la que llegan 
+emprendedores para que vivan y desarrollen sus proyectos, en términos 
+naturales. 
+Natural quiere decir aquí, que cuenta con las condiciones propias que 
+un sistema como la creación de empresa requiere para crecer, teniendo 
+en cuenta el contexto socio cultural del emprendedor y la filosofía de 
+emprendimiento expuesta en el apartado anterior. 
+¿Qué características tiene ese ecosistema?
+- Un ambiente impulsado por emprendedores quienes comparten sus 
+experiencia a los futuros, cerrando brechas de conocimiento que aceleren 
+los procesos productivos de las propuestas
+- Un grupo humano interdisciplinario donde todas las áreas de saber tienen 
+cabida, con el propósito de consolidar una red de conocimiento puesto a 
+
+9
+disposición de los emprendedores para crecer y mejorar sus proyectos
+- Una filosofía institucional que promueve el pensamiento emprendedor y 
+que consolida unos valores transformados en la brújula de la comunidad 
+para trabajar en sus iniciativas 
+- Una infraestructura sostenible y viable que favorezca el crecimiento 
+en espiral de la comunidad, y promueva el ingreso de otros nuevos 
+emprendimientos 
+- La generación de productos de calidad, conectados con las realidades del 
+mercado, capaces de transformar su realidad 
+Esta guía responde a estas necesidades: qué promover en las Instituciones 
+de Apoyo al Emprendimiento para que tanto sus ecosistemas generen el 
+ambiente natural hacia el desarrollo adecuado de los negocios TI, como el 
+diseño de las actividades que estimulen constantemente el imaginario de 
+los emprendedores hacia el éxito de sus ideas de negocios. 
+
+10
+MODELO DE EMPRENDIMIENTO TIC
+Muy a menudo, las Instituciones de Apoyo al Emprendimiento, y 
+los Emprendedores buscan incesantemente guías para iniciar los 
+emprendimientos, de manera que los conduzcan unívocamente al 
+éxito. En Internet es posible encontrar múltiples documentos para los 
+emprendedores y quizá esta información pueda ser parte de la caja de 
+herramientas para comenzar la aventura de crear empresa. 
+¿Para qué sirve entonces esta guía además de ser documento para la 
+reflexión y la discusión?
+Este modelo sirve para...
+• Instituciones de Apoyo al Emprendimiento: 
+
+ - Una guía para diseñar el modelo de emprendimiento de la institución 
+ a partir de sus contextos, necesidades culturales, oportunidades y 
+ modelos de negocios TI 
+ - Para acompañar las iniciativas institucionales y gubernamentales 
+ articuladas con las Instituciones de Apoyo al Emprendimiento, con 
+ el propósito de vincular estrategias comunes que activen los procesos 
+ de emprendimiento
+ - Un acelerador de iniciativas que continúe aportando a la economía 
+ del país, a la generación de empleo, y la creación de líderes responsables 
+ con la sociedad 
+• Para los emprendedores
+ - Un modelo para los emprendedores que tienen ideas de negocio 
+ rodando y quiere mejorar sus proyectos y sobre todo, apresurar su 
+ crecimiento y consolidación
+
+11
+ - Para los nuevos emprendedores que hoy cuentan con su capital 
+ principal, el conocimiento, y la potencia que les brinda la
+ energía necesaria: sus sueños 
+• Para los formadores
+ - Para los formadores de emprendedores quienes buscan perfeccionar 
+ sus trabajos con los emprendedores para acompañarlos en la modelación 
+ de sus ideas 
+ - Orientar a las futuras Instituciones de Apoyo al Emprendimiento
+De qué se compone el modelo
+La guía para el modelo de emprendimiento en TI, se compone de 
+dos elementos fundamentales en correspondencia permanente: una 
+dimensión estratégica compuesta por un cuerpo de valores que gobierna 
+el actuar de los emprendedores, y por ende, el fundamento ideológico de 
+las Instituciones de Apoyo al Emprendimiento; y una dimensión táctica, 
+que soporta el modelo operativo base para la gestión del emprendimiento, 
+a través de seis programas: 
+Infraestructura y soporte, para la innovación, productividad y competitividad
+• La mejor gente para la industria
+• Productos innovadores, competitivos y confiables
+• Fortaleza financiera
+• Desarrollo de negocios
+• Responsabilidad social y empresarial
+Los alcances del modelo 
+Para las Instituciones de Apoyo al Emprendimiento, los Emprendedores y 
+formadores, contar con una guía modelo para emprender ideas de negocio 
+en TI es un avance trascendente. Significa entre otras cosas contar con 
+un modelo de gestión avanzado a través del cuál las instituciones y las 
+organizaciones en general podrán contar con mecanismos de diagnósticos 
+de situaciones futuras o resolver situaciones presentes. También es una 
+
+12
+oportunidad para:
+• Fijar unas prácticas de calidad. Lo cuál permitirá prevenir, detectar, 
+controlar las no conformidades a productos
+• Fortalecer las instituciones de acompañamiento.
+• Mejorar la competitividad de las organizaciones y con esto, contar con 
+nuevas y mejores oportunidades de mercado 
+• Aumentar los niveles de eficacia y eficiencia de los emprendedores. Esto 
+acortará el tiempo de los procesos para lograr un producto de calidad y 
+con una posición en el mercado
+• Reducir las barreras existentes para entrar a negocios o para desarrollar 
+nuevos modelos de negocios 
+MODELO TRANSFERIBLE DE EMPRENDIMIENTO TI
+El modelo transferible que a continuación se presenta, ha sido el 
+resultado de años de trabajo en la labor de concebir un ecosistema para el 
+emprendimiento, que estimule el trabajo en las regiones, que capitalice las 
+oportunidades creativas, intelectuales de los colombianos, y los estímulos 
+que de la mano de las instituciones públicas tanto como privadas, brindan 
+para dinamizar la economía del país. 
+Este conocimiento sistematizado brinda un marco para las Instituciones de 
+Apoyo al Emprendimiento, 
+y para los emprendedores 
+actuales y futuros. Es, 
+un documento que da 
+cuenta de las estrategias, 
+los procesos, y las 
+actividades para consolidar 
+un ambiente que haga 
+posible una cultura del 
+emprendimiento, ofrezca los 
+mecanismos para hacerlas 
+sostenibles y viables en 
+el tiempo, y encamine a 
+las instituciones por rutas 
+probadas, examinadas y 
+evolucionadas, alineadas 
+
+13
+con los mercados en TI.
+Los elementos que conforman el modelo transferible de emprendimiento 
+TI, articula a todos los actores que hacen posible el emprendimiento: el 
+entorno, es decir, las regiones, conectadas con las demandas globales de 
+mercado, innovación, y creación de empresas; el ecosistema, donde se 
+interrelaciona todos los actores, emprendedores, instituciones, academia, 
+las dimensiones estratégicas y tácticas para aplicarlo y hacerlo una realidad. 
+ELEMENTOS DEL MODELO TRANSFERIBLE
+ENTORNO PAÍS Y ECOSISTEMA DE EMPRENDIMIENTO
+Se incorporan estos dos elementos para resaltar que la labor del 
+emprendedor y el desarrollo del emprendimiento no se dan en el vacío; hay 
+unas condiciones de entorno políticas, económicas, sociales, ambientales, 
+tecnológicas, legales y unas instituciones gubernamentales, privadas 
+y nogubernamentales que generan oportunidades y amenazas para el 
+emprendimiento, restringiendo en algunos aspectos y potenciando en 
+otros sus posibilidades de supervivencia y crecimiento.
+Dimensión estratégica 
+La propuesta aquí desarrollada como modelo transferible para las 
+Instituciones de Apoyo, debe apostarle a hacer de la inclusión una realidad 
+para todas las regiones en Colombia. Siendo un país multicultural, donde 
+una parte de la población siente la dificultad para llevar a cabo sus 
+proyectos profesionales, el emprendimiento surge como un modelo viable 
+para impulsar la economía del país y sobre todo, permitir que más personas 
+tengan más y mejores oportunidades. 
+La inclusión es esencial para las Instituciones de Apoyo al Emprendimiento, 
+y junto con la comunidad emprendedora, es parte de su misión hacerla real 
+a partir de todos los componentes tanto estratégicos como tácticos aquí 
+expuestos. 
+Pero además de la inclusión, existen otros componentes estratégicos de vital 
+importancia para trazar la ruta del emprendimiento por las Instituciones de 
+Apoyo al Emprendimiento:
+Investigación
+No es el objetivo de las Instituciones de Apoyo al Emprendimiento 
+transformarse en centros de investigación, sin embargo, tal como se plantea 
+
+14
+en la dimensión táctica, es necesario implementar acciones que permeen 
+a los emprendedores con el conocimiento aplicado a sus productos y 
+servicios. 
+Informalidad
+Una cualidad esencial a la labor emprendedora en los primeros pasos hacia 
+la creación de empresa, es la informalidad. Debe entenderse como un 
+valor positivo que busca lo no convencional como una forma conceptual 
+y práctica para construir procesos innovadores, espontáneos, donde las 
+Instituciones de Apoyo al Emprendimiento crean ambientes resilientes, 
+capaces de transformarse rápidamente y evolucionar de manera pertinente 
+con las demandas propias de la industria TI.
+Ingresos
+El modelo de transferencia de emprendimiento busca con estrategias 
+operativas que las Instituciones de Apoyo al Emprendimiento se fortalezcan, 
+de tal forma que puedan ser competitivas en el mercado, ofrecer proyectos 
+de integración y de innovación tecnológica, cuyo resultado, además del 
+conocimiento y la experticia, aceleren la economía de los emprendimientos, 
+y así garantizar la sostenibilidad de las organizaciones y el ecosistema. 
+Huella
+El Modelo de Emprendimiento TI de Colombia tiene como principio la 
+generación de confianza, la capacidad de que como instituciones de apoyo 
+se pueda infundir constantemente la oportunidad de generar ilusión 
+en emprendedores, este principio es fundamental para continuar un 
+pensamiento vigente hacia la innovación y hacia el emprendimiento.
+Además de estos conceptos estratégicos, se presentan otros principios 
+y valores que puede ser considerados como sostén de sus valores 
+institucionales. 
+La pasión
+La búsqueda del conocimiento, la construcción de tecnología, el desarrollo 
+de empresa y la generación de capital social es visceral. Esta propuesta 
+de se basa en un fuerte conjunto de emociones, en torno al empuje y a 
+las ganas por lograr el objetivo de vida, el conocimiento tecnológico y de 
+negocios del emprendedor.
+El desprendimiento
+Compartir con la visión del emprendedor y proyectar desde las 
+Instituciones de Apoyo al Emprendimiento, que lo más importante de su 
+
+15
+proceso de crecimiento económico, derivado del posible éxito de su idea, 
+es la generación de Capital Social, expresado en la generación de nuevos 
+empleos y el desarrollo de tecnología competitiva para la sociedad, para 
+el gobierno, valor agregado para la economía nacional, salarios justos, 
+generación de igualdad de oportunidades y valores positivos y éticos para 
+una sociedad democrática. 
+El atrevimiento
+Para poder construir productos innovadores se requiere una alta dosis de 
+riesgo frente a los retos cada vez más exigentes que plantea el mercado. 
+Es muy importante mantener viva la capacidad de arriesgarse que poseen 
+los emprendedores en sus primeros años. Este modelo propone el trabajo 
+constante al riesgo y a la flexibilidad con el mismo. Esta característica puede 
+asegurar un producto diferente y novedoso para el mercado.
+La capacidad de respuesta
+El modelo de emprendimiento TI debe buscar que las instituciones y 
+emprendimientos y emprendedores asuman la flexibilidad como una ruta 
+de trabaja, tanto en tecnología como en aspectos comerciales, con lo cuál se 
+garantiza la capacidad de adaptarse rápidamente a las nuevas condiciones 
+de un mercado tan exigente y variable como es el de productos de la 
+industria del conocimiento. 
+La austeridad
+Como instituciones de apoyo que fomentan y acompañan a emprendedores, 
+se debe promover en los primeros años de un emprendimiento, mantener 
+vivo el valor de la austeridad. Al no poseer economías estables, estos deben 
+desarrollar habilidades en el manejo eficiente de sus recursos, así como la 
+optimización al máximo de su principal recurso de desarrollo, su tiempo. 
+Esto también se transforma en una ventaja competitiva ya que facilita 
+ofrecer productos y servicios, rentables, con unos precios muy competitivos 
+en el mercado. 
+El trabajo duro
+El proceso de construir una empresa demanda una alta inversión del 
+capital más grande que tiene un emprendedor: su tiempo. La fase inicial 
+del proceso de emprendimiento es una etapa de alta cuota de sacrificio 
+personal, cada hora que el emprendedor no invierte en su proyecto, la está 
+restando a su oportunidad de éxito. En promedio un emprendedor debe 
+trabajar en los primeros años de formación de su empresa un promedio 
+de 12 horas diarias de lunes a domingo, del 1 de enero al 31 de diciembre, 
+incluyendo días festivos. 
+
+16
+Esta es una de las características más diferenciadoras de los emprendedores 
+contra el resto de la población laboral. El trabajo duro es una oportunidad 
+de éxito, esto se debe patrocinar en los emprendedores en todo su sentido.
+La confianza
+El combustible principal de los negocios y las redes sociales es la confianza. 
+Esta acción es la que permite el desarrollo de actividades y relaciones 
+humanas a gran velocidad. Para establecer relaciones de confianza se 
+necesita una estructura fuerte de valores y principios, además de las 
+competencias correctas para lograr los mejores desempeños, que generan 
+cadenas de valor.
+La confiabilidad
+La evolución solo es posible si se producen acciones que generen 
+reacciones. Las acciones que producen reacciones positivas son resultado 
+de alta calidad y conocimientos profundos en lo que se hace. Formar las 
+competencias y habilidades requeridas, produce valor en el momento de la 
+sinergia y el trabajo en equipo. Hay que pasar del pensar al hacer, buscando 
+los mejores resultados.
+Dimensión táctica
+La dimensión táctica de esta guía, se fundamenta en un nivel táctico 
+operativo, apoyado en 20 programas diseñados desde una visión 
+sinérgica y estratégica, para acompañar a las Instituciones de Apoyo al 
+Emprendimiento y a los emprendedores. 
+Estos programas responden a un modelo sistémico para su ejecución con el 
+objetivo esencial de brindar, por una parte, a las instituciones, un paso a paso 
+operativo necesario para impulsar un ecosistema para el emprendimiento 
+en TI, y de otra parte, para los emprendedores, un método para organizar 
+sus estrategias que refuercen sus proyectos. 
+Estos programas, así como el modelo que subyace a la propuesta, son 
+flexibles y deben responder a los contextos particulares. Esta consideración 
+es relevante dado que no es lo mismo aprovechar el modelo con el 
+propósito de corregir errores cometidos en la labor emprendedora, a usarlo 
+para mejorar cada iniciativa. 
+Por lo tanto, son las Instituciones de Apoyo al Emprendimiento como los 
+emprendedores quienes al estudiar esta propuesta, deben introducir cada 
+uno de los programas en los momentos apropiados.
+
+17
+Infraestructura y soporte para la innovación, productividad 
+y competitividad
+Presentación 
+Un principio fundamental para activar el emprendimiento en las diferentes 
+regiones del país, es la creación de los escenarios apropiados, pensados para 
+emprender. Estos ambientes serán los Ecosistemas que permitirán acelerar 
+el crecimiento de los proyectos, conquistar nuevos mercados, construir 
+sinergias para mejorar los procesos internos de lo que en un futuro serán 
+las nuevas compañías creadas por emprendedores.
+Para que estos Ecosistemas permanezcan en el tiempo y permitan dar 
+continuidad a la acción emprendedora en una región, y acompañar a los 
+presentes y futuros emprendedores, se requiere trabajar en una serie de 
+operaciones que garanticen su funcionamiento. No basta con tener un 
+espacio, oficinas, y equipos tecnológicos. 
+Todos los programas que conducen al fortalecimiento del Ecosistema 
+responden a la necesidad de impulsar las motivaciones y realizaciones 
+de los emprendimientos. Por lo tanto, el desarrollo y la aplicación de cada 
+programa deben estar direccionados por este objetivo, indispensable para 
+el emprendimiento, la innovación, y la producción de capital social. 
+Características
+
+Este nivel estratégico operativo está conformado por cuatro programas. 
+Cada uno responde a necesidades conducentes al acompañamiento de 
+los emprendimientos, y a su vez, al sostenimiento de las Instituciones de 
+Apoyo al Emprendimiento. 
+Ninguno debe operar con total independencia de los demás. Son procesos 
+integrales, que deben planearse y desarrollarse conjuntamente. 
+Son aquellas acciones que garantizan la 
+sostenibilidad y viabilidad de las Instituciones 
+de Apoyo al Emprendimiento, y por ende, 
+al crecimiento y adecuado desarrollo de los 
+emprendedores. 
+Para lograrlo, es necesario que quienes enfrentan la gran responsabilidad 
+de guiar las instituciones, planeen, diseñen y ejecuten los siguientes 
+componentes:
+
+18
+• Mantener vigente la legalidad institucional. 
+• La viabilidad administrativa y financiera
+• Preservar en el mejor nivel operativo de la infraestructura de las 
+instituciones de apoyo al emprendimiento. Esto significa mantener:
+- Salas de negocios dotadas de ayudas audiovisuales
+- Sistemas de comunicación telefónica
+- Trabajar por promover, enseñar, y comunicar el potencial de los proyectos 
+y de los emprendedores a través de las acciones de relaciones públicas 
+- Adecuada infraestructura física entregada a los emprendedores 
+El factor esencial de los emprendimientos son 
+las ideas, que a través de una serie de tareas y 
+aplicación de conocimientos, se transforman en 
+productos y servicios con un mercado potencial 
+en diferentes clúster. En este proceso de avance 
+hay múltiples escenarios en los cuales el producto y las ideas alrededor 
+de este, requieren de un respaldo jurídico indispensable para proteger el 
+patrimonio de los emprendimientos. 
+El conocimiento y manejo de conceptos como propiedad intelectual, 
+derechos de autor, derechos patrimoniales, registro de patentes, de marcas, 
+entre otros, son indispensables hacia la preservación y consolidación de los 
+emprendimientos. 
+Así mismo, las garantías jurídicas le permitirán a los emprendedores y 
+también a las instituciones de apoyo en su cometido de respaldo a los 
+emprendedores, contar con los mecanismos legales necesarios para 
+promover modelos de negocios innovadores, abrir nuevos mercados, y 
+producir capital social. 
+Características
+El soporte jurídico es una labor de acompañamiento desde el momento 
+en que inician sus emprendimientos, definen un marco operativo tanto en 
+relación con la institución de apoyo, como con la comunidad emprendedora, 
+y al interior de cada uno los grupos emprendedores. Sus acciones se dirigen 
+a dar respaldo conceptual y táctico en los siguientes aspectos:
+
+19
+• Normalización jurídica de los establecimientos comerciales 
+• Definición de un marco de políticas comerciales
+• Construcción de un marco de políticas laborales, de compensación y 
+beneficios 
+• Acompañamiento legal en propiedad intelectual, derechos de autor, y 
+registro de marcas
+El engranaje de los emprendimientos TI para 
+alcanzar los objetivos, es contar con un sistema 
+de servicios informáticos, eficientes, efectivos, 
+constantes, seguros, con altos estándares de 
+calidad. 
+Los servicios informáticos respaldan los momentos en que en las 
+instituciones de apoyo al emprendimiento aumentan el portafolio de 
+productos y servicios; cuando la dinámica del ecosistema se consolida 
+en una red de relaciones donde estos servicios son el puente para la 
+transferencia de conocimiento, la productividad, y la comunicación efectiva. 
+Características
+Para que puedan garantizarse las operaciones de soporte y de negocios, es 
+necesario que los servicios de tecnologías de información abarquen estos 
+componentes:
+• Infraestructura en la red
+• Servicio de internet
+• Salas dotadas con la tecnología para acelerar negocios
+• Ambientes para la transferencia de conocimiento dotados con la mejor 
+tecnología 
+• Seguridad en la red
+
+20
+Las comunicaciones son una fuente inagotable de 
+oportunidades. Para los emprendimientos y para 
+las Instituciones de Apoyo al Emprendimiento 
+representan el puente entre la sociedad y sus 
+proyectos, es el medio a través del cuál se articula y se nutre la identidad de 
+la comunidad emprendedora. 
+No solo se trata de dar a conocer lo que tanto la comunidad como la 
+institución misma producen. Es la necesidad de conectar con un mundo 
+globalizado a través del cual circula información, y también, conocimiento 
+hacia la generación de nuevas oportunidades, mercados, y negocios. 
+La comunicación es por una parte, un proceso interno para la institución 
+emprendedora, emprendedores, y todos los allegados a la comunidad. 
+Por lo tanto, deben crearse las estrategias y los medios para que circule la 
+información de interés en la comunidad, prevalezcan el conocimiento y 
+fortalecimiento de la identidad institucional. 
+Así mismo, esta comunicación de la identidad de la institución de apoyo al 
+emprendimiento y sus emprendedores, tiene un puente hacia el exterior. De 
+manera que hacia allá debe encaminarse el complemento de la estrategia 
+comunicativa. 
+Características
+Las acciones para poner en funcionamiento la comunicación deben 
+contener entre otras:
+• La creación de una intranet corporativa de la institución de apoyo al 
+emprendimiento 
+• Home Page actualizado, conectado con una estrategia en redes sociales 
+para afirmar lazos con los clientes, aliados, y todos aquellos escenarios 
+de la sociedad relacionados con TI, y cultura del emprendimiento
+• Emisora online
+• Canales de Web Tv
+La mejor gente para la industria 
+El ecosistema es un estímulo para la labor de los emprendedores. En este 
+ambiente, además de las sinergias entre los miembros de la comunidad 
+
+21
+que conducen a potencializar las ideas, a fortalecer la economía y el capital 
+social de una región, es necesario dar cabida a otros individuos de distintas 
+generaciones para dar continuidad a la corriente emprendedora. 
+Las personas llamadas emprendedoras tienen una tendencia innata 
+hacia la construcción de ideas de negocios. Muchos de ellos pasan por 
+universidades o centros de investigación que convoca a los jóvenes 
+profesionales a pensar y contemplar la opción del emprendimiento como 
+un camino válido para crecer y generar riqueza. Sin embargo, en este 
+ambiente, se hace necesario complementar estos procesos de formación 
+directamente de la experiencia. 
+Este nivel estratégico tiene como propósito abrir las puertas a las 
+generaciones futuras, a quienes se forman en los centros académicos, 
+y aquellas personas interesadas en crear negocios en TI, a mejorar su 
+capacidad de innovación, a la competitividad, a la generación de valor y 
+productividad. 
+Las instituciones de apoyo al emprendimiento deben buscar un proceso 
+integral de evolución del modelo de talento humano para la industria: 
+integrando a niños, jóvenes estudiantes de secundaria, para activar el 
+interés en la creatividad, en la experimentación desde tempranas edades. A 
+los estudiantes universitarios, para que al concluir su periodo de formación, 
+consideren una vía de crecimiento profesional, las actividades de 
+emprender. Y finalmente, a los miembros de la comunidad emprendedora, 
+quienes en un mundo cambiante, de innovación constante se enfrentan al 
+reto de mantener altos niveles de conocimiento en sus áreas para mayor 
+impacto en sus negocios. 
+Para garantizar el éxito de este nivel estratégico, los programas deben 
+plantearse acciones continuas conectadas con las redes de conocimiento 
+propias de las regiones: universidades, centros de investigación, grupos de 
+estudio, entre otros. Y sus marcos temáticos, estar en constante actualización 
+y conectados con los temas de interés para los negocios, los mercados, y 
+atendiendo a los contextos y necesidades sociales de los emprendedores. 
+En todo proceso de creación, la constante 
+formación y fundamentación del conocimiento, 
+permite transformar los saberes en innovación, 
+y para el tema específico de esta guía, esos 
+cambios de saber, en potenciales productos. 
+Una vez que los emprendedores se integran a las Instituciones de Apoyo 
+al Emprendimiento, es deber de éstas incentivar la formación continua. 
+
+22
+Para lograrlo con éxito, estos procesos deben apoyarse en el conocimiento 
+de las personas quienes forman parte de sus organizaciones para ofrecer 
+temáticas ajustadas a sus contextos y requerimientos. 
+Así mismo, es necesario detectar los conceptos débiles de los emprendedores 
+para brindar el contenido que permita superar estas barreras de saber.
+Pero a su vez, estos procesos formativos deben constituirse en una 
+oportunidad para vigorizar la misión y visión de las Instituciones de Apoyo 
+al Emprendimiento. Las temáticas en este caso deben forjar saberes hacia 
+la compresión de la organización, del entendimiento de esta como un 
+ecosistema, y su compromiso con la sociedad. 
+Características
+Este programa se constituye hacia el logro de tres objetivos: 
+• Empoderamiento ideológico 
+• Empoderamiento político
+• Empoderamiento de conocimiento
+En simultaneo con la formación hacia los 
+emprendedores de las Instituciones de Apoyo 
+al Emprendimiento, y teniendo como propósito 
+de todas las estrategias aquí propuestas la 
+responsabilidad social y la generación de capital social, la integración de 
+las nuevas generaciones a la comunidad de emprendedores resulta de vital 
+importancia. 
+Se deben diseñar mecanismos desde las instituciones de apoyo al 
+emprendimiento con el fin de conectarse con los colegios de enseñanza 
+secundaria para abrir espacios en el que los jóvenes puedan vivir 
+directamente experiencias propias de los emprendedores en investigación, 
+innovación, construcción de conocimiento y consolidación de negocios. 
+En la construcción de esta preparatoria para la industria de conocimiento 
+deben vincularse a los emprendimientos, los colaboradores y a toda la 
+comunidad conectada a las Instituciones de Apoyo al Emprendimiento. 
+El resultado de esta experiencia debe permitir la creación de espacios de 
+
+23
+investigación en Ciencia y Tecnología con un alto componente de prácticas 
+emprendedoras. 
+Las instituciones junto con los colegios deben definir el cómo y el cuando 
+para vincular a los jóvenes bachilleres de los últimos grados a vivir 
+experiencias emprendedoras. 
+Característica
+El semillero debe involucrar a los jóvenes en los siguientes aspectos:
+- Cultura emprendedora. 
+- Filosofía de las Instituciones de apoyo al emprendimiento. Aproximación 
+a los principios ideológicos y políticos que conducen a las instituciones y a 
+los emprendedores
+- Industria de conocimiento. Movilidad de los emprendedores por los 
+diferentes proyectos de los emprendedores TI que atienden a diversos 
+clúster
+Aquello que alimenta y renueva el 
+conocimiento y fortalece las habilidades de los 
+emprendedores, será mantener una estrategia 
+continua de preparación. En este sentido, las 
+Instituciones de Apoyo al Emprendimiento, deben contribuir con acciones 
+que vinculen los saberes sistematizados sobre la labor del emprendimiento, 
+y en especial, en los temas relacionados a la creación de negocios en la 
+industria del conocimiento. 
+Esta labor debe robustecer la relación de las instituciones de apoyo al 
+emprendimiento con las entidades universitarias, mantener un dialogo 
+continuo entre la experiencia y la sistematización de los conocimientos 
+adquiridos en varias áreas comprometidas en la labor de los emprendedores; 
+y de otra parte, contribuir al interés de nuevos emprendedores en el 
+desarrollo de ideas y proyectos con potencial. 
+Características 
+Una de las tareas de las instituciones de apoyo, en conjunto con las 
+universidades será definir los contenidos de formación, teniendo en cuenta:
+
+24
+- Aportar a los currículos los contenidos identificados en la industria que 
+requieren reforzarse o complementarse, con el propósito de atender 
+necesidades específicas del mercado
+- Diseñar modelos curriculares que refuercen temas vitales para el desarrollo 
+de los emprendimientos en las distintas áreas: de mercado, modelo de 
+negocios, entre otros
+- Diseñar una cátedra de formación para emprendedores, inspirada por 
+emprendedores, que estimulen a los jóvenes profesionales a involucrarse 
+con tareas a fortalecer ideas en sus primeras etapas
+Una de las características de los 
+modelos de negocios TI es su 
+cambio constante y la búsqueda 
+acelerada de nuevos factores 
+de innovación para abrir nuevas oportunidades. En ese sentido, es un 
+deber misional de las instituciones de apoyo al emprendimiento y de los 
+emprendedores, estar conectados con esta cualidad de versatilidad, tanto 
+en sus productos, como en las características de los negocios emprendidos.
+El motor para acelerar estos cambios es el conocimiento. Por lo tanto, es 
+fundamental que, además de crear espacios para la formación en temas que 
+robustezcan los saberes de los emprendedores, conectar las instituciones a 
+los centros de producción de conocimiento, de los centros de innovación, 
+de los investigadores y los grandes innovadores del negocio. Esto garantiza 
+que el conocimiento, semilla de los emprendimientos, pueda crecer y en 
+especial, extenderse a otras ideas que signifiquen apertura de nuevas 
+oportunidades, exploración de nuevos mercados. 
+Productos innovadores, confiables y competitivos para el 
+mercado
+La vida de los emprendimientos son los productos y su éxito en un 
+mercado dinámico, en constante innovación y transformación, hace de 
+vital importancia el acceso de los emprendedores a las nuevas tendencias 
+y los nuevos paradigmas en TI para permear sus productos, enriquecerlos 
+y perfeccionarlos.
+Innovadores significa entonces, crear estrategias y acciones operativas en 
+la generación de nuevo conocimiento, metodológico y tecnológico que 
+mejore las características de los productos y puedan impactar positivamente 
+
+25
+los mercados, los negocios y el ecosistema en el que surgen. 
+Confiables significa, ejecución de proyectos con las mejores prácticas de 
+la industria, que aseguren que cada proceso responde a metodologías de 
+producción encaminadas hacia la calidad, el buen funcionamiento y que 
+responda adecuadamente a los requerimientos de la industria, los clientes 
+y el mercado. 
+Estos dos elementos, la innovación y la confiabilidad llevarán a los 
+emprendedores por la vía de la competitividad, a responder con calidad a 
+las demandas del mercado nacionales e internacionales. 
+Para conquistar estas tres cualidades en los productos de los emprendedores 
+el modelo propone las siguientes estrategias operativas. 
+El conocimiento debe ser buscado, renovado, 
+ampliado, y aplicado. Para las instituciones de 
+apoyo al emprendimiento una de sus grandes 
+misiones para fortalecer la red natural de los 
+ecosistemas, es promoverlo, acercando a los emprendedores a las nuevas 
+tendencias y paradigmas en TI. 
+Este programa busca que tanto las instituciones como los emprendimientos, 
+se involucren en la ejecución de proyectos interdisciplinarios en cooperación 
+con las universidades de la región, universidades internacionales, y centros 
+de investigación. 
+El resultado de estas acciones operativas será la creación de laboratorios, 
+su consolidación, donde confluyan el pensamiento académico y el 
+pensamiento emprendedor. Esto es de vital importancia, dada que la 
+producción de saber abrirá las puertas a la innovación, tanto para aquellos 
+nuevos emprendedores, como para los que cuentan con una trayectoria y 
+desean mejorar sus productos. 
+Significa también abrir un espacio en los emprendimientos, no solo para 
+que se unan a la producción de conocimiento, sino además, que permitan 
+a los investigadores y a los académicos en general, servir como ambientes 
+de prueba para proyectos de investigación. 
+Características
+- Laboratorios de investigación aplicada liderados por los emprendimientos 
+o empresas ya en crecimiento 
+- Colaboradores de los emprendimientos, vinculados a la experiencia de 
+
+26
+investigación 
+- Integrar a los equipos de trabajo emprendedor, investigadores PhD o 
+MsC para probar o adelantar nuevos desarrollos que mejoren productos o 
+produzca nuevos 
+La calidad de un producto en la 
+industria TI es primordial. Por una parte, 
+asegura la continuidad y la proyección 
+de los emprendimientos, les permite 
+consolidar una base de clientes satisfechos y reducir los riesgos en costos y 
+tiempos, vitales en las primeras etapas del emprendedor. 
+Desde esta perspectiva, significa adoptar modelos de productividad 
+eficientes, robustos y confiables. Significa tener la certeza de adoptar 
+caminos apropiados para la innovación en la industria, y estabilizar una 
+metodología práctica para iniciar nuevos productos y servicios. 
+Es misión de las instituciones de apoyo al emprendimiento, incorporar en 
+todos los niveles mantener un compromiso con la implementación táctica 
+de la estrategia de calidad. 
+Características 
+
+- Desarrollar procesos y prácticas productivas decisivas en el desarrollo de 
+software y servicios relacionados
+- Integrar un modelo de pruebas de software en todas las etapas de la 
+producción de software claves 
+- Realizar talleres con los emprendedores para sensibilizar en la necesidad 
+de integrar en sus etapas, procesos de calidad 
+- Involucrar como práctica en las instituciones de apoyo al emprendimiento, 
+un día de práctica de pruebas de calidad. Estas deben ser acompañadas de 
+expertos en procesos de calidad para software
+Fortaleza financiera
+Presentación 
+Las primeras etapas de los emprendimientos requieren de respaldo 
+financiero para consolidarse y acelerar los procesos hasta aquí mencionados 
+
+27
+en este modelo estratégico operativo. Así mismo, para que las Instituciones 
+de Apoyo puedan crear los ecosistemas para emprendedores, se hace 
+necesario presentar propuestas a todos los sectores vinculados al 
+emprendimiento en TI, para inyectar recursos que movilicen cada uno de 
+los programas operativos. 
+Además de los programas de financiación provenientes del estado, a través 
+de programas como Innpulsa, Ministerio de las Tic, el Sena, Colciencias, 
+entre otros, el modelo METI debe contemplar acciones que busquen 
+orientar a los emprendedores y a las instituciones de apoyo a conseguir 
+capital para respaldar los primeros pasos de los emprendimientos. 
+La experiencia de los emprendimientos plantea retos: las posibilidades 
+de inversión están intrínsecamente relacionadas con la innovación de los 
+productos, con el respaldo de las instituciones de apoyo al emprendimiento 
+que garanticen que los recursos serán direccionados a las necesidades 
+fundamentales para el crecimiento de los emprendimientos, y que además, 
+estas inversiones obedezcan a etapas que aceleren, o la puesta del producto 
+en el mercado o su desarrollo con la calidad esperada. 
+Los fondos de capital a riesgo es el mecanismo a 
+través del cuál los emprendedores reciben apoyo 
+financiero para sus proyectos, en diferentes etapas 
+del proceso. Esta primera financiación proviene 
+de ángeles inversionistas quienes realizan los aportes, articulados, 
+gestionados y administrados por una entidad constituida para tal caso, 
+y con el respaldo de las Instituciones de Apoyo al Emprendimiento para 
+canalizar adecuadamente estos fondos hacia los emprendimientos. 
+El propósito de estos es apoyar la innovación, es decir, que nutren procesos 
+para el desarrollo de productos de los emprendedores. Este modelo es 
+conocido como capital semilla, y su objetivo es invertir desde los primeros 
+momentos del emprendimiento. 
+Otros modelos acompañan actividades de mercado y ventas, el producto 
+está en una etapa más avanzada, y su propósito es permitirle al emprendedor 
+crear nuevos modelos de negocio para la innovación en TI. 
+Características
+• Las Instituciones de Apoyo al Emprendimiento acompañan a los 
+emprendedores en las etapas de inyección de capital y son la garantía del 
+buen uso de los recursos
+
+28
+• Las inversiones realizadas a través de este fondo, estiman el retorno 
+de la inversión en periodos entre 3 y 5 años
+• Estas inversiones se formalizan a través de la compra de acciones 
+en un porcentaje minoritario
+• Las vías para la recuperación del capital de los inversionistas 
+pueden surgir a través de la recompra del emprendedor, la venta de las 
+acciones a un inversor estratégico, o de la oferta pública de las mismas 
+Así como los emprendimientos deben encontrar 
+mecanismos para acceder a fondos de capital 
+semilla para sus proyectos, las Instituciones de 
+Apoyo al Emprendimiento, deben buscar fondos 
+que les permita acelerar cada uno de los modelos tácticos estratégicos. 
+Para alcanzar estos recursos las Instituciones de Apoyo al Emprendimiento 
+deben conformar un equipo especializado en el diseño y elaboración de 
+proyectos de cofinanciación en el ámbito nacional e internacional.
+Una vez logrado los recursos, debe desarrollarse un plan de impacto a la 
+comunidad emprendedora que fortalezcan la misión institucional, y como 
+soporte para capital semilla que acelere los procesos de innovación de los 
+emprendimientos. 
+Entre las entidades que promueven el emprendimiento con recursos en 
+modelo de cofinanciación están el Banco Mundial, el Banco Interamericano 
+de Desarrollo BID, el Plan de las Naciones Unidas para el desarrollo PNUD. 
+En Colombia a través de entidades como Sena, Icetex e Innpulsa Colombia 
+Una de las mayores dificultades para los 
+emprendedores es la gestión de recursos. 
+Esto significa un reto para las Instituciones 
+de Apoyo al Emprendimiento, dado que 
+la estabilidad de los proyectos en las primeras etapas no es constante 
+y siempre requiere la búsqueda de fuentes que puedan apalancar la 
+economía emprendedora antes de tener el producto en el mercado. 
+El programa de soporte económico para la comunidad busca precisamente 
+promover un ahorro entre la comunidad emprendedora, con el respaldo 
+de la institución de apoyo, para sustentar demandas financieras de menor 
+tamaño de los emprendimientos, de sus líderes y de sus colaboradores. 
+Este soporte financiero es creado por la Institución de Apoyo al 
+
+29
+Emprendimiento, y asignado a una empresa que pueda administrar 
+adecuadamente los recursos, atender las demandas y asignar los recursos 
+según la capacidad de ahorro y de pago de los emprendedores y 
+colaboradores. 
+Las políticas de uso de los recursos estarán en cabeza de la Institución de 
+Apoyo al Emprendimiento y con la supervisión de miembros de la misma 
+comunidad. 
+El desarrollo de negocios es una tarea que abarca 
+la misión de explorar nuevas oportunidades en 
+el contexto de innovación en TI, de crear nuevas 
+oportunidades para los futuros productos de los 
+emprendedores, la concepción de sinergias y alianzas que permitan el 
+crecimiento tanto de las Instituciones de Apoyo al Emprendimiento así 
+como de los emprendedores. 
+Esta estrategia operativa también plantea el desarrollo de estrategias con 
+acciones centradas en la misión y la visión de las instituciones y las empresas, 
+los emprendedores, en el contexto en el que surgen los productos, el 
+mercado, entre otros elementos. 
+En este nivel del modelo, entonces, se prepara, se planifica, y se conciben, 
+las acciones para el desarrollo comercial del ecosistema. 
+El propósito de este programa es desarrollar 
+inteligencia de mercados, identificando 
+clientes internos y externos, a los cuales 
+pueda ofrecerse el catalogo de productos y 
+servicios que aloja las instituciones de apoyo al emprendimiento. 
+Otra de sus misiones es acompañar en los eventos y ferias en TI, brindando 
+soporte de mercadeo y actividades de presencia de marca. 
+El Programa se centra en contribuir al logro de la 
+innovación de los Productos, Servicios y Modelos 
+de negocios del Ecosistema. Continuamente 
+apropia métodos y practicas que aplica en el 
+desarrollo del Laboratorio de Inspiración e Innovación de Oportunidades.
+Se desarrolla a través de un “Task Force” de Consultores en Tecnologías de la 
+Información (TI), conformado por las personas más idóneas de La Institución 
+de Apoyo al emprendimiento, cuya filosofía es ayudar a las organizaciones 
+a combinar dos factores vitales para su éxito: Negocios y Tecnología. 
+
+30
+Desde sus primera etapas, los emprendimientos 
+deben trabajar en la búsqueda de alianzas que 
+les permitan abrir nuevas oportunidades para sus 
+productos y servicios. Este programa operativo, 
+apoya la construcción de estas alianzas con líderes de la industria, los 
+mercados y los socios potenciales de negocios. 
+De igual manera, para las Instituciones de Apoyo al Emprendimiento, esta 
+operación involucra necesariamente a un grupo de personas especializadas 
+con dedicación completa a la comercialización de los productos y servicios 
+del ecosistema. 
+Los logros para este programa son crear escenarios para la realización de 
+negocios. Todo, a través de la gestión con clientes, fortaleciendo los canales 
+de venta y postventa. 
+Este programa centra sus esfuerzos hacia los 
+clientes, luego de lograr negocios en productos y 
+servicios del portafolio de la Institución de Apoyo 
+al Emprendimiento. Este es un proceso en espiral 
+encaminado a obtener la mayor calidad. 
+Estos servicios se desarrollan utilizando las mejores prácticas para la 
+gerencia de proyectos, servicios Help Desk, gestión del cambio, capacitación 
+y soporte. 
+Características
+• Administrar, dirigir y coordinar el personal que participa en los proyectos 
+o en la venta de productos y servicios
+• Dirigir adecuadamente los recursos económicos, materiales, y logísticos 
+para la implementación de los productos y/o servicios
+• Organizar los recursos informáticos de modo que se alcancen las metas 
+propuestas y esperadas por el cliente
+• Establecer una metodología diseñada para ejecutar los proyectos 
+basada en entregables. Esta contempla los siguientes procesos, vítales 
+para la puesta en marcha y culminación de los proyectos:
+ - Procesos de iniciación y planeación del proyecto
+ - Procesos de ejecución del proyecto
+ - Procesos de cierre del proyecto
+
+31
+Responsabilidad social empresarial
+Presentación
+La responsabilidad social empresarial planteada desde el modelo de 
+emprendimiento METI, implica ir más allá de cumplir la legislación y la 
+normatividad en aspectos laborales y medioambientales. 
+Se trata de un compromiso ético de los emprendedores y futuros 
+empresarios con sus clientes, con su entorno, y desde las Instituciones de 
+Apoyo al Emprendimiento, una labor fundamental para el progreso de las 
+regiones, como lo es, la realización de proyectos sociales que beneficien a 
+sus comunidades, además de promover el desarrollo del ecosistemas en las 
+zonas donde tienen influencia. 
+El respaldo y el servicio al cliente es tomado 
+por el modelo propuesto como una acción 
+de responsabilidad social. Dado que se trata 
+de consolidar oportunidades en un mercado 
+cambiante, las relaciones con los clientes son de vital relevancia para los 
+emprendedores y para las instituciones de apoyo al emprendimiento. 
+El modelo propone brindar acompañamiento y dar respaldo a clientes de 
+negocios, a aliados estratégicos y a la comunidad emprendedora, para 
+responder a sus inquietudes y necesidades de soporte. 
+Para llevar a cabo esta labor, debe apoyarse en herramientas tecnológicas y 
+un grupo de humano empoderado, con experiencia, y capacidad para dar 
+satisfacción a los clientes en sus demandas y requerimientos. 
+Dado que todo lo que convoca al 
+emprendimiento implica necesariamente 
+a la sociedad, la generación de capital y 
+bienestar social, los ecosistemas en los que se 
+articulan las Instituciones de Apoyo al Emprendimiento y su comunidad de 
+emprendedores, se deben proponer alianzas con diversos actores sociales, 
+con el objetivo de sumar esfuerzos para llevar a cabo proyectos sociales. 
+Estos proyectos se fundamentan en los siguientes pilares de la innovación:
+- Impacto y transformación social
+- Colaboración de diversos actores sociales
+
+32
+- Sostenibilidad económica 
+- Innovación 
+- Escalabilidad y replicabilidad
+Algunos de los proyectos de innovación social que pueden implementarse 
+son:
+- Inclusión digital
+- De género
+- Responsabilidad social traducida a capital social
+Finalmente, las Instituciones de Apoyo al 
+Emprendimiento son parte de la comunidad 
+de todo el país involucrado en la industria del 
+conocimiento. Uno de sus pilares es la integración, 
+la colaboración, la cooperación, con los nuevos, y futuros emprendedores, y 
+con toda las instituciones que promueven el emprendimiento en Colombia. 
+Por lo tanto, es también un programa estratégico operativo la consolidación 
+de la red de instituciones. Esta se configura en una oportunidad para 
+acelerar procesos de las instituciones y los emprendedores, sumar esfuerzos 
+en conocimiento, en tecnologías, en mejores practicas para la industria. 
+Esta visión se hace realidad a través de la Red de Parques Tecnológicos de 
+software, cuyas acciones conjuntas se operan desde las siguientes acciones:
+Plan transferencia modelo de emprendimiento a otras 
+instituciones
+Plan creación instituciones de apoyo al emprendimiento
+
+33
+ESTRATEGIA DE IMPLANTACIÓN DEL MODELO 
+TRANSFERIBLE DE EMPRENDIMIENTO TI EN COLOMBIA
+El propósito de un modelo flexible, efectivo, propositivo y pertinente con las 
+realidades sociales y los contextos en los que surgen los emprendimientos, 
+es disminuir los tiempos que enfrentan tanto las Instituciones de Apoyo al 
+Emprendimiento, así como los emprendedores, para iniciar todo lo hasta 
+aquí propuesto. 
+Así mismo, se trata de acortar esfuerzos al momento de poner en ejecución 
+cada uno de los niveles estratégicos que componen este modelo. La 
+sinergia, el acompañamiento continuo, y el diálogo con los mecanismos 
+para que este conocimiento pueda ser fácilmente comprendido por los 
+actores decididos a implementar el modelo en sus ecosistemas, y que a su 
+vez sean cuenten con las competencias para duplicar estos saberes. 
+Por lo tanto, esta guía propone una estrategia de implantación del modelo 
+transferible que vaya más allá de la teorización, y de pistas de cómo todos 
+los involucrados en consolidar la cultura del emprendimiento en Colombia, 
+puedan aplicar el modelo con éxito en sus contextos particulares. 
+Metodología de implantación 
+La metodología para la ejecución del modelo en las Instituciones de Apoyo 
+al Emprendimiento se basa en un ciclo compuesto de tres etapas: 
+- Una etapa referida a la puesta en práctica de los modelos estratégicos 
+y operativos expuestos en esta guía, en un trabajo conjunto de las 
+Instituciones y los Emprendimientos, marcado por etapas de aprendizaje 
+y seguimiento
+- Una etapa de evaluación en el que se revisan las experiencias, procesos y 
+resultados con el propósito de localizar posibles dificultades. 
+- Esto orienta la tercera etapa, definir los reajustes, detectar las actividades 
+que requieren refuerzo para nuevamente aplicarlos en las dimensiones 
+estratégicas y tácticas. 
+Este ciclo además, está estructurado sobre los siguientes procesos que 
+modelan la implantación del modelo de emprendimiento:
+1. Inducción al modelo transferible de emprendimiento TI. 
+Actividad dirigida a conformar los equipos que dentro de las Instituciones 
+
+34
+de Apoyo al Emprendimiento llevarán a cabo los programas de las 
+dimensiones tácticas. Se trata de una introducción sobre cada uno, 
+explicación de conceptos, entre otros aspectos que orienten a los actores. 
+2. Entrenamiento en Modelo con énfasis en programas (sesiones grupales)
+Espacio dirigido a profundizar en cada uno de los componentes del 
+Modelo Transferible con los grupos asignados por la Institución de Apoyo 
+al Emprendimiento. 
+3. Definición y entrenamiento en los instrumentos de seguimiento y 
+acompañamiento a emprendedores: 
+El equipo de formadores o tutores diseñan una diversidad de instrumentos 
+a través de los que realizarán el seguimiento a los actores involucrados en 
+las distintas estrategias. 
+4. Acompañamiento para definir Planes de Trabajo en Instituciones de 
+Apoyo (Sesiones Individuales): 
+En esta etapa se desarrolla las sesiones de trabajo entre los tutores y los 
+equipos conformados por las Instituciones de Apoyo. Aquí se inicia el ciclo 
+que define el modelo de implantación: aplicación, ajustes, y nuevamente 
+actividades de cada programa. 
+5. Ciclo de trabajo y seguimiento en Instituciones de Apoyo: 
+Corresponde a las sesiones de trabajo de los equipos conformados por las 
+Instituciones de Apoyo para llevar a cabo la implantación de los programas. 
+En este proceso, se refuerza con las sesiones de seguimiento. 
+6. Ciclo de trabajo y seguimiento a Emprendimientos: 
+Este proceso inicia la transferencia de conocimiento y de puesta en práctica 
+de los programas entre las Instituciones de Apoyo y los Emprendimientos. 
+Todo este proceso contará con el seguimiento de los tutores para revisión 
+y ajustes. 
+7. Evaluación de la implantación en instituciones de apoyo y 
+emprendimientos: 
+Cada etapa del proceso cuenta con una serie de actividades de evaluación 
+por parte de los tutores. Estos mecanismos de seguimiento permiten 
+
+35
+aportar recomendaciones oportunas para las Instituciones de Apoyo y a los 
+emprendedores, con el propósito de abreviar esfuerzos en su implantación. 
+8. Afinamiento del Modelo Transferible de Emprendimiento TI: 
+Con los procesos de evaluación, los tutores contarán con información 
+relevante para detectar posibles prácticas que requieran ajustes. A través 
+de talleres, el equipo realiza la transferencia de recomendaciones para las 
+Instituciones y para los Emprendimientos. 
+9. Evento de Socialización: 
+Se desarrolla un evento con una convocatoria amplia con actores del 
+ecosistema de emprendimiento TI en el que se presentan los resultados de 
+la implantación del modelo y se deja un documento de relatorías que de 
+cuenta del proceso llevado por todos los actores involucrados. 
+
+36
+
+37
+BIBLIOGRAFÍA
+Vesga, Rafael (2012). Emprendimiento e Innovación en Colombia: ¿Qué nos 
+está haciendo falta? Publicado por Eduteka.org
+De fomento a la cultural del emprendimiento, Ley 1014 de 2006 (enero 26) 
+Bonilla, Rincón, Orlando (2013) Informe de Gestión Parque Tecnológico del 
+Software, Cali. 
+Red Regional de Emprendimiento, Nariño (2008-2011) Guía de 
+Emprendimiento para crear tu propia empresa. http://issuu.com/
+jdiazunimar/docs/guia_emprendimiento
+Bolivar, Carolina, Cardona Javier y Galán, Adriana (2007), Creación de un 
+fondo de capital de riesgo para apalancar proyectos presentados por 
+estudiantes, profesores y egresados de la Universidad del Norte. Tesis de 
+grado para optar a título de Magister en Administración de empresas. 
+Varios autores – Parquesoft Manizales (2012). Modelo de Emprendimiento 
+de la Industria de las Tecnologías de la Información (TI) para Colombia

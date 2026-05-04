@@ -1,0 +1,2856 @@
+MANEJO 
+PRODUCTIVO Y 
+CONTABLE 
+para la rentabilidad rural
+Julio de 2011
+Convenio SENA - SAC No.00086 de 2011
+
+ISBN: 
+Primera edición: 
+Tiraje: 5.500 ejemplares
+Producción editorial: 
+Diagramación, impresión y encuadernación
+www.produmedios.org
+Impreso en Colombia
+Printed in Colombia
+© MANEJO PRODUCTIVO Y CONTABLE 
+para la rentabilidad rural
+Autor
+Marcela Arias Albañil
+Jaime Mayorga Rodriguez
+Revisión editorial
+Luisa Fernanda Santiago 
+Coordinadora del Convenio SENA – SAC
+Delsa Moreno Cepero
+Diseño
+Javier Enrique Nieto Díaz
+Alonso Hernández Aguirre
+Angela Rocío Galindo Vizcaya
+Camilo Ernesto Ruíz Barrantes
+Carlos Alberto Ávila Amaya 
+Daniel Galindo Cárdenas
+Daniel Humberto Novoa Vacca
+Darío Álvarez Morantes
+Dilia Marina Coral Eraso
+Édgar Bolaños Aranda
+Edison Javier Gómez Maluchi
+Eduardo Javier Montes Arturo
+Fernando José Cantillo
+Isaías Arévalo Sandoval
+Jaime Cardona Díaz
+Jonny Ebratt Ravelo
+Jorge García Toledo
+Jorge Luis Otero
+José Carlos Suárez Luna
+Juliana Marcela Naranjo Marín
+Lucelly Silva Ceballos
+Luis Alfredo Carreño Albarracín 
+Luis Eduardo Cucunubá Ariza
+Paulo César Lemus
+Rafael Antonio Burgos Fonseca
+Shirley Toro Sánchez
+Vilma Pilar Bonilla Gómez 
+Colaboradores
+
+3
+Tabla de contenido
+PRESENTACIÓN
+CAPÍTULO 1. PROCESO PARA LLEVAR LA FINCA 
+HACIA UNA EMPRESA SOSTENIBLE Y RENTABLE
+1.1 ¿Qué es una agroempresa?
+1.2 Etapas de gestión o factores claves para el proceso 
+ de empresarización de mi finca
+ 1.2.1 Identificación del proyecto productivo
+ 1.2.2 Desarrollo de las etapas de un proyecto
+1.3 ¿Cómo realizar un diagnóstico a mi agroempresa?
+ 1.3.1 Diagnóstico de planeación
+1.4 Identificación de factores internos y externos - DOFA
+CAPÍTULO 2. CONCEPTOS BÁSICOS PARA EL MANEJO ADMINISTRATIVO 
+Y CONTABLE DE MI AGROEMPRESA
+2.1 Balance general
+ 2.1.1 Activos
+ 2.1.2 Pasivos
+ 2.1.3 Patrimonio
+2.2. Estado de pérdidas y ganancias
+ 2.2.1 Ingresos
+ 2.2.2 Costos de producción
+2.3 Presupuesto
+5
+7
+7
+8
+8
+9
+11
+11
+12
+15
+15
+16
+16
+17
+18
+18
+18
+22
+
+4
+CAPÍTULO 3. SISTEMAS DE SEGUIMIENTO Y CONTROL EN LA AGROEMPRESA
+3.1 Análisis de cada elemento del costo respecto 
+ del total de los costos de producción
+3.2 Costo unitario de producción
+3.3 Comparativo del proceso productivo
+3.4 Margen de utilidad
+3.5 Punto de equilibrio
+3.6 Flujo de caja
+ 3.6.1 ¿Cuál es el propósito del flujo de caja?
+3.7 Recomendaciones
+CAPÍTULO 4. OPORTUNIDADES DE FINANCIAMIENTO AGRÍCOLA 
+POR LÍNEAS DE CRÉDITO FINAGRO
+4.1 Fondo Agropecuario de Garantías – FAG
+4.2 Incentivo a la Capitalización Rural – ICR
+4.3 Programa Ola Invernal
+ 4.3.1 Instrumentos financieros para emergencia invernal 2010 - 2011
+4.4 Programa de desarrollo rural con equidad - DRE
+ 4.4.1 Beneficiarios
+ 4.4.2 Instrumentos crediticios del programa DRE
+ 4.4.3 Instrumentos no crediticios del programa DRE
+CAPÍTULO 5. SEGURO AGRÍCOLA
+5.1 ¿Cuándo y por qué surge el seguro agropecuario?
+5.2 ¿Quiénes están facultados para expedir el seguro agrícola?
+5.3 Cobertura del seguro agrícola
+5.4 Fundamentos de la política de aseguramiento
+5.5 Consideraciones del asegurador
+ 5.5.1 Prima
+BIBLIOGRAFÍA
+24
+25
+25
+26
+26
+26
+27
+28
+29
+33
+35
+36
+36
+37
+43
+43
+44
+48
+66
+66
+67
+67
+67
+68
+69
+74
+
+5
+Presentación
+El convenio No. 00086/2011 entre el Servicio Nacional de Aprendizaje – 
+SENA y la Sociedad de Agricultores de Colombia - SAC pone a disposición 
+de los agricultores el programa de capacitación participativo para el manejo 
+productivo y contable, con el objetivo de lograr la empresarización rural. 
+El programa de capacitación llegará a 200 zonas y mínimo 5.000 productores 
+se capacitarán en esta modalidad; al finalizar las cinco jornadas de capacita-
+ción se seleccionarán los tres productores más destacados por grupo, con el 
+objetivo de representar a su zona en el encuentro regional o departamental 
+donde competirán por cupos para el encuentro nacional y de esta manera 
+representarán al total de capacitados del Programa.
+El presente material va dirigido a productores interesados en conocer y apli-
+car el proceso de llevar la finca hacia una empresa sostenible y rentable, po-
+drá conocer las generalidades sobre la agroempresa, tendrá las herramientas 
+para definir un proyecto productivo de acuerdo con los criterios aquí propor-
+cionados, conocer las diferentes clasificaciones así como los diferentes tipos 
+de recursos con los que puede contar una empresa. Al final de de cada tema 
+o cada capítulo el productor encontrará algunas prácticas sugeridas, cuestio-
+narios y ejercicios, para reforzar el conocimiento adquirido.
+Rafael Mejía López
+Presidente
+Sociedad de Agricultores de Colombia - SAC
+
+Manejo productivo y contable 
+para la rentabilidad rural
+6
+
+Manejo productivo y contable 
+para la rentabilidad rural
+7
+La producción agropecuaria primaria debe integrarse en un concepto de agricultura amplia-
+da como una opción para adicionar valor agregado a nuestros productos y para mejorar los 
+niveles de vida del medio rural, para lo cual debemos conocer el proceso integral, a través del 
+cual veremos nuestro agronegocio, como una cadena que incluye desde la producción hasta 
+el consumo y dentro de la cual los productores debemos actuar con criterios de competitivi-
+dad y sostenibilidad. Para asumir el reto de este proceso y lograr que nuestra finca sea una 
+empresa, debemos aprender, comprender y practicar diferentes conceptos que empezaremos 
+a ver a partir de este capítulo. 
+1.1 ¿Qué es una agroempresa?
+Es el conjunto de actividades humanas organizadas, en el que a través de la administración o 
+gestión de sus recursos, del capital y del trabajo, se producen bienes y/o servicios tendientes 
+a la satisfacción de las necesidades de una comunidad.
+COMPONENTES DE LA AGROEMPRESA
+CAPÍTULO I
+PROCESO PARA LLEVAR LA FINCA HACIA 
+UNA EMPRESA SOSTENIBLE Y RENTABLE
+AGROEMPRESA
+
+Manejo productivo y contable 
+para la rentabilidad rural
+8
+La gestión es una herramienta más de la empresa para ayudar a tomar decisiones de cómo 
+combinar los recursos de la empresa, a qué actividades destinarlos determinando cómo, 
+cuándo y quién las realizará. Las grandes decisiones a afrontar en una empresa se pueden 
+resumir en cinco puntos:
+• ¿Qué producir? o ¿Qué produzco?
+• ¿Cuándo producir? o ¿Cuándo produzco? 
+• ¿Cómo producir? o ¿Cómo produzco? 
+• ¿Cuándo comprar y/o vender? 
+• ¿Dónde comprar y/o vender? 
+1.2 Etapas de gestión o factores claves para el proceso 
+de empresarización de mi finca
+Debes saber: cómo la agroempresa la conforman 
+un conjunto de actividades, debemos diferenciar 
+cada uno de los procesos que llevamos a cabo en 
+ella, ya que dichos procesos son el soporte princi-
+pal de cualquier unidad productiva.
+Por tanto veremos las etapas de gestión de proyectos también conocida como gerencia o 
+administración de proyectos que nos permite llevar una guía e integrar los procesos de plani-
+ficar, captar, dinamizar, organizar talentos y administrar recursos, con el fin de culminar todo 
+el trabajo requerido para desarrollar un proyecto y cumplir con el alcance, dentro de límites 
+de tiempo, y costo definidos. Todo lo cual requiere liderar los talentos, evaluar y regular con-
+tinuamente las acciones necesarias y suficientes.
+1.2.1 Identificación del proyecto productivo
+¿Qué es un proyecto? Es la definición de los pasos a realizar en un periodo de tiempo, en el 
+que se involucran recursos humanos, económicos y físicos, con el fin de solucionar, transfor-
+mar o fortalecer una situación social o productiva en una región.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+9
+Para identificar nuestro proyecto se hace necesario tener una idea concreta, realizable, con 
+un inicio y una finalización, que requiere de un conjunto de actividades, de unos recursos, 
+calendario o cronograma de ejecución y de equipos de trabajo con funciones específicas para 
+cada actividad. Así, formular un plan para un proyecto determinado requiere, por lo menos 
+de siete (7) elementos: 
+• Objetivo • Metas
+• Estrategias • Acciones 
+• Costos • Seguimiento y Control 
+• Evaluación.
+Existen tres tipos de proyectos:
+sociales, productivos y de infraestructura.
+1.2.2 Desarrollo de las etapas de un proyecto
+Las etapas de un proyecto son actividades concretas y cuantificables que nos permiten llevar 
+a cabo el proyecto, estas son en su orden: 
+a. Planificación
+Consiste en coordinar los recursos físicos, humanos y financieros necesarios para lograr los 
+objetivos y las metas propuestas. Es una actividad que enseña los pasos y establece las 
+condiciones futuras y los elementos necesarios para que un objetivo propuesto se cumpla y 
+de esta manera se establezcan las bases para disminuir la posibilidad de fallar en su alcance.
+Con la planificación se determina: 
+Si los recursos estarán disponibles, se toman en cuenta todas las actividades que se realizan 
+en todas las fases del proyecto, se procura optimizar los recursos, se identifican posibles pro-
+blemas y así poder aplicar correctivos preventivos, facilita el seguimiento de las actividades. 
+¡La planificación es la etapa más importante 
+en el desarrollo de mi proyecto!
+
+Manejo productivo y contable 
+para la rentabilidad rural
+10
+Fuentes de capital de trabajo
+Son todos aquellos mecanismos que permiten a una empresa contar con los recursos fi-
+nancieros necesarios para el cumplimiento de sus objetivos de creación, desarrollo, posi-
+cionamiento y consolidación empresarial. Las principales fuentes de capital de trabajo son 
+el endeudamiento, las capitalizaciones y los resultados de las operaciones de la empresa. 
+Existen fuentes de financiación internas y externas las cuales conviene analizar a la hora de 
+no contar con los recursos suficientes para desarrollar nuestro proyecto productivo.
+Fuentes Internas: acciones, aportes de capital, Utilidades retenidas: las utilidades no reparti-
+das a socios, fondos de depreciación (o sea la cifra que se cargó contablemente como gasto 
+por el uso de maquinaria y equipos, sin que realmente hubiese existido desembolso alguno), 
+venta de activos fijos. 
+Fuentes Externas: créditos de proveedores, créditos bancarios, créditos de fomento, bonos, 
+leasing, cofinanciación, cartas de crédito, aceptaciones bancarias y financieras, factoring, 
+titularización, sobregiro bancario, y tarjetas de crédito. 
+b. Ejecución
+Consiste en poner en práctica la planificación llevada a cabo previamente, soportada con 
+los documentos necesarios. Durante esta etapa es importante y definitivo realizar labores de 
+seguimiento y control, para así aplicar correctivos de ser necesario.
+c. Evaluación
+Es la etapa final de un proyecto en la que éste es revisado, y se llevan a cabo las valoracio-
+nes pertinentes sobre lo planeado y lo ejecutado, así como sus resultados, en consideración 
+al logro de los objetivos planteados. La evaluación nos permite comparar la situación inicial 
+contra la situación final, es decir luego de realizado el proyecto.
+Debes saber: dentro de la planificación, exis-
+ten herramientas que nos permiten determi-
+nar cómo está mi empresa o como será mi 
+empresa, por tanto realizar un diagnóstico es 
+muy importante.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+11
+1.3 ¿Cómo realizar un diagnóstico a mi agroempresa?
+El análisis y diagnóstico del funcionamiento de mi agroempresa es la base en que se apoya 
+el proceso de empresarización. Este diagnóstico debe conducirnos a interpretar el funciona-
+miento para tener una visión global de la realidad de mi empresa.
+1.3.1 Diagnóstico de planeación
+Responda el siguiente cuestionario, marcando con una X de acuerdo con la valoración que 
+Usted crea según su caso:
+FACTORES CLAVES DEL EXITO
+FACTORES POR MEJO-
+RAR EN MI FINCA
+SINO
+¿Ha planeado o planeó cuál va a ser su actividad?
+¿Le genera rentabilidad su finca?
+¿Se ha preguntado con cuánto dinero cuenta para realizar su actividad?
+¿Cuenta con algún tipo de crédito, u otra ayuda para realizar su actividad 
+agrícola?
+¿Cuenta con alguna reserva de dinero en caso de que en su agronegocio 
+se presente algún imprevisto o no funcione?
+¿Se ha preguntado qué debe hacer para que su agronegocio llegue a ser 
+rentable y sostenible?
+¿Sabe quién comprará su producto y a qué precio?
+¿Ha realizado mejoras en su finca?
+¿Asiste Usted, su familia o sus trabajadores a las capacitaciones que se 
+dan en su región?
+¿Ha realizado algún tipo de evaluación y control al proceso productivo 
+de su finca?
+Totales
+*Totalice los –si- y los –no- , si el resultado es mayoría –NO- analice en que aspectos está fallando dentro de su planeación 
+y cómo podría llegar a mejorarlos; si la mayoría son –SI- Felicitaciones!!!! Usted es un muy buen planeador de negocios!
+
+Manejo productivo y contable 
+para la rentabilidad rural
+12
+1.4 Identificación de factores internos y externos - DOFA
+Toda empresa debe implementar un modelo de proceso que conduzca a realizar una au-
+toevaluación, a establecer objetivos, directrices y estrategias para que la agroempresa llegue 
+a ser rentable y sostenible. Por tanto, es necesario identificar los factores externos (oportuni-
+dades y amenazas) y los factores internos (fortalezas y debilidades).
+Debes saber:
+Oportunidades: Aspectos externos que me ofrece el en-
+torno favorables o ventajosas que me permiten mejorar 
+los procesos y el proyecto de mi empresa.
+Amenazas: Aspectos externos desfavorables que pueden 
+poner en peligro la viabilidad o el éxito de los procesos y 
+el proyecto de mi empresa.
+Fortalezas: Son los puntos fuertes o las ventajas que po-
+see mi empresa lo que la hace distinta a la competencia.
+Debilidades: Son los puntos débiles o las desventajas 
+que afectan la rentabilidad y competitividad de mi em-
+presa frente a la competencia.
+
+Durante la etapa de planificación a partir del análisis DOFA se debe poder contestar cada una 
+de las siguientes preguntas:
+• ¿Cómo se puede explotar cada fortaleza?
+• ¿Cómo se puede aprovechar cada oportunidad?
+• ¿Cómo se puede detener cada debilidad?
+• ¿Cómo se puede defender de cada amenaza?
+ A continuación veremos un ejemplo de diagnóstico de planeación DOFA:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+13
+FINCA “EL REMACHE” - ACTIVIDAD: GANADERA
+ANÁLISIS 
+INTERNO
+FORTALEZASDEBILIDADES
+1. Espacio 
+2. Recursos naturales 
+3. Buenas vías para transportar el ganado
+1. Falta de recursos económicos 
+2. Clase del ganado
+ANÁLISIS 
+EXTERNO
+OPORTUNIDADESAMENAZAS
+1. Nichos de mercado 
+2. Competir en la venta de ganado de en-
+gorde
+1. Clima 
+2. Plagas 
+3. Enfermedades (Aftosa, etc.)
+Debes hacer: el análisis DOFA del 
+proyecto productivo.
+ FINCA : PROPIETARIO:
+ VEREDA: MUNICIPIO:
+ANÁLISIS 
+INTERNO
+FORTALEZASDEBILIDADES
+ANÁLISIS 
+EXTERNO
+OPORTUNIDADESAMENAZAS
+
+Manejo productivo y contable 
+para la rentabilidad rural
+14
+1. De acuerdo al análisis DOFA de su finca, ¿qué estrategia implementaría 
+para mejorar o superar las amenazas y debilidades? Explíquela
+2. Nombre y defina las etapas de gestión ó factores claves necesarios en el proceso de 
+empresarización de mi finca: ___________________________,y
+ (_____________________________,__________________________ 
+y ).
+3. Encuentre en la sopa de letras los siguientes términos ya estudiados: DOFA, diagnóstico, 
+agroempresa, finca, seguimiento y control, capital, tierra, proyecto, productivo, gestión, trabajo, 
+sostenible, rentabilidad, debilidades, oportunidades, fortalezas, amenazas, organización, 
+planificación, agronegocio (son 20 palabras en total).
+DWSFROPORTUNIDADES
+IRAGRONEGOCIORGIOE
+AESCDORGANIZACIONG
+GNCDETDEBILIDADESU
+NTASWIETENGOHAMBRI
+OAGROEMPRESANEGRIM
+SBZXCRSLFFOEDLMIRI
+TIAGRRAAOVSASFGHJE
+ILDODAANRGTRABAJON
+CIERTIEITYEZXCVBNT
+ODEFSDGFAUNERTYUIO
+CAPITALILPIMAJOYTY
+QDINEDGCEJBSENORAC
+WHOCERTAZPLEDECANO
+RTIAYUICAAEGESTION
+ORDOFAOISPAPAAJORT
+PROYECTOAREPAKILOR
+JINEAMENAZASSUEKOO
+ALMOJAPRODUCTIVOEL
+Debes responder:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+15
+La contabilidad agropecuaria representa el punto de partida por el cual se obtiene toda la 
+información precisa y confiable acerca del entorno que involucra al proceso completo de la 
+producción agropecuaria, estableciendo los controles apropiados y reuniendo toda la infor-
+mación que resulte relevante para la toma de decisiones en la empresa. 
+2.1 Balance general
+Es un resumen de todo lo que tiene la empresa, de lo que debe, de lo que le deben y de lo 
+que realmente le pertenece a su propietario, a una fecha determinada.
+Al elaborar el balance general el empresario obtiene la información valiosa sobre su negocio, 
+como el estado de sus deudas, lo que debe cobrar o la disponibilidad de dinero en el mo-
+mento o en un futuro próximo. En resumen, es una fotografía clara y sencilla de lo que un 
+empresario tiene en la fecha en que se elabora.
+CAPÍTULO II
+CONCEPTOS BÁSICOS PARA EL MANEJO 
+ADMINISTRATIVO Y CONTABLE DE MI 
+AGROEMPRESA
+Debes saber: los estados financieros son do-
+cumentos que proporcionan informes conta-
+bles periódicos, a fechas determinadas. Nos 
+brindan la información necesaria para la toma 
+de decisiones de la agroempresa.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+16
+El Balance General está conformado por: Activos (lo que posee), Pasivos (lo que se debe) y 
+Patrimonio. 
+2.1.1 Activos
+Es todo lo que tiene la empresa y posee valor:
+• El dinero en caja y en bancos
+• Las cuentas por cobrar a los clientes
+• Las materias primas en existencia o almacén
+• Las máquinas y equipos
+• Los vehículos
+• Los muebles y enseres
+• Las construcciones y terrenos
+2.1.2 Pasivos 
+Es todo lo que la empresa debe. Los pasivos de una empresa se pueden clasificar en orden 
+de exigibilidad en las siguientes categorías. Son aquellos pasivos que la empresa debe pagar 
+en un período menor a un año. 
+a. Sobregiros
+Es el valor de los sobregiros vigentes en la fecha de realización del balance.
+b. Obligaciones bancarias
+Es el valor de las obligaciones contraídas (créditos) con los bancos y demás entidades 
+financieras. Estas obligaciones pueden pagarse en corto, mediano y largo plazo.
+c. Cuentas por pagar a proveedores
+Es el valor de las deudas contraídas por compras hechas a crédito a proveedores.
+d. Anticipos 
+Es el valor del dinero que un cliente anticipa por un trabajo aún no entregado.
+e. Cuentas por pagar
+Es el valor de otras cuentas por pagar distintas a las de Proveedores, tales como los prés-
+tamos de personas particulares. 
+
+Manejo productivo y contable 
+para la rentabilidad rural
+17
+f. Impuestos por pagar
+Es el saldo de los impuestos que se adeudan en la fecha de realización del balance.
+g. Otros pasivos 
+Son aquellos pasivos que no se pueden clasificar en las categorías de pasivos corrientes y 
+pasivos a largo plazo, tales como el arrendamiento recibido por anticipado.
+2.1.3 Patrimonio
+El patrimonio de una empresa lo constituyen el conjunto de bienes, derechos y obligaciones 
+con los que cuenta, necesarios para desarrollar su actividad.
+Patrimonio = Activo - Pasivo
+BALANCE GENERAL AGROEMPRESA - LA VACA QUE RIE -
+ACTIVOPASIVO Y PATRIMONIO
+Disponible 1.400Obligaciones con bancos3.120
+Deudores por ventas1.600Cuentas por pagar600
+Existencias800Ingresos anticipados500
+Seguros400Total pasivos circulantes4.220
+Total activo circulante4.200
+Total pasivos largo plazo0
+Activo Fijo Bruto3.300Capital aportado3.000
+Depreciación acumulada-225Utilidad del ejercicio55
+Activo fijo neto3.075Total patrimonio3.055
+TOTAL ACTIVOS7.275TOTAL PASIVO Y PATRIMONIO7.275
+
+Manejo productivo y contable 
+para la rentabilidad rural
+18
+2.2 Estado de pérdidas y ganancias:
+Muestra los ingresos y egresos, así como la utilidad o pérdida resultante de las operaciones 
+de la empresa durante un periodo determinado.
+2.2.1 Ingresos
+Es el dinero que resulta o que proviene de las ventas de nuestros productos.
+a. Ingresos por ventas: es el dinero proveniente de la comercialización de 
+los productos.
+b. Ingresos por autoconsumo: productos o bienes que son producidos en la finca.
+c. Ingresos por transferencia a otros procesos: productos que son elaborados en la finca y 
+se utilizan para algún proceso adicional.
+Clases de ingresos por venta
+• Ventas con intermediación: agricultor àunidades de comercialización àconsumi-
+dor final (Bajos niveles de rentabilidad) 
+• Ventas directas: agricultor àconsumidor final (Alta rentabilidad)
+• Ventas por contrato: benefician al agricultor por que recibe parte del dinero por 
+adelantado para pagar insumos y jornales y además se garantiza la venta total de 
+la cosecha.
+• Ventas por contrato forward: Operaciones de compra-venta anticipada de pro-
+ductos agropecuarios no disponibles y productos agroindustriales pactando pre-
+cio, cantidad, condiciones de calidad, lugar, fecha de entrega y forma de pago.
+2.2.2 Costos de producción
+Se refiere al dinero que desembolsamos para los materiales o servicios que son necesarios 
+en el proceso de producción.
+a. Costos o materiales directos: son los que se pueden medir, estimar precios y valor; son 
+indispensables en la producción.
+Debes saber:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+19
+b. Mano de obra directa: costo del recurso humano incluyendo familiares y jornales.
+c. Costos indirectos: son los demás costos que no son posibles de identificar directamente 
+en el producto final pero que son necesarios en el proceso de producción.
+Costos directos + Mano de obra directa + Costos indirectos = COSTOS TOTALES
+¿Cuál es la diferencia entre costo y gasto?
+La diferencia es que mientras que el Costo es 
+un egreso para financiar un bien o servicio 
+que generará un ingreso futuro, el Gasto es un 
+egreso que financia una actividad específica en 
+beneficio de la empresa, quedando consumido 
+en ese instante.
+A continuación veremos un ejemplo de costos de producción, debes hacerlo en orden para 
+obtener los resultados que queremos:
+COSTOS DE PRODUCCIÓN FINCA –LA LOMBRIZ FELIZ-
+ACTIVIDAD: Producción de Humus
+No. HECTÁREAS600 M2
+TEMPERATURA13-18
+LUGARTABIO
+CICLO DE VIDA16 AÑOS
+MATERIAL
+UNIDAD DE 
+MEDIDA
+CANTIDADVr. Un.VALOR TOTAL
+RESIDUO ORGÁNICOTON8,5 12.000 102.000 
+MICROORGANISMOSLT8.500 600 5.100.000 
+PIE DE CRIAUNIDAD6005.000 3.000.000 
+LECHOS (INCLUIDA 
+PLANTA DE SECADO,ETC)
+UNIDAD61.600.000 9.600.000 
+TOTAL MATERIALES DIRECTOS17.802.000 
+
+Manejo productivo y contable 
+para la rentabilidad rural
+20
+MANO DE OBRA DIRECTA
+UNIDAD DE 
+MEDIDA
+CANTIDAD/Ha.Vr. UNITARIOVALOR TOTAL
+CONSTRUCCIÓNJORNALES3 800.000 2.400.000 
+OPERACIÓNJORNALES10800.000 8.000.000 
+TOTAL MANO DE OBRA DIRECTA10.400.000 
+COSTOS INDIRECTOS DE 
+PROD.
+UNIDAD DE 
+MEDIDA
+BASE DE LI-
+QUIDACIÓN
+CANTI-
+DAD
+Vr./Ha. 
+MENSUAL
+VALOR TO-
+TAL
+IMPUESTOSMES 6 2.083 12.500 
+AGUA
+GLOBAL 
+(QUEBRADA)
+ 1 10.000 10.000 
+COMBUSTIBLE (ACPM )MES 5 60.000 300.000 
+ADMINISTRACIÓN (TODO)MES 6 1.000.000 6.000.000 
+FIJOSMES 6 500.000 3.000.000 
+TOTAL COSTOS INDIRECTOS DE PRODUCCIÓN 1.572.083 9.322.500 
+COSTOS TOTALES DE PRODUCCIÓN
+MATERIALES DIRECTOS 17.802.000 
+MANO DE OBRA DIRECTA 10.400.000 
+COSTOS INDIRECTOS 9.322.500 
+TOTAL COSTOS DE PRODUCCIÓN 37.524.500 
+Ahora veremos la estructura del estado de 
+pérdidas y ganancias, donde se muestran 
+los ingresos, los gastos, la utilidad o pérdida 
+resultante de las operaciones de la empresa 
+durante un periodo determinado:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+21
+ESTRUCTURA DEL ESTADO DE PÉRDIDAS Y GANANCIAS
+(+) Ingresos operacionales
+(+) Por ventas
+(+) Por autoconsumo
+(+) Por transferencias a otros procesos
+(=) Total ingresos operacionales(=)
+(-) Costos de producción y ventas(-) Total costos de producción
+(=) Utilidad bruta (=) Ingresos-costos de producción
+(-) Gastos operacionales
+(+) Personal diferente a producción
+(+) Honorarios
+(+) Impuestos
+(+) Arriendo
+(+) Seguros
+(+) Servicios
+(+) Mantenimiento y reparaciones
+(+) Depreciación
+(+) Otros
+(=) Total gastos operacionales(=)
+(=) Utilidad neta operacional(=) Utilidad bruta-gastos operacionales
+(+) Ingresos no operacionales(+) Financieros
+(+) Diversos
+(=) Total Ingresos no operacionales(=)
+(-) Gastos no operacionales(-) Gastos financieros 
+(-) Gastos extraordinarios
+(=) Total gastos no operacionales(=)
+(=) Utilidad o pérdida operacional
+(=) Utilidad neta operacional + ingresos no 
+operacionales – gastos no operacionales
+(-) Impuestos(-) Provisión de impuestos
+(=) UTILIDAD O PÉRDIDA DESPUES DE IM-
+PUESTOS
+(=) Utilidad o pérdida operacional - Im-
+puestos
+
+Manejo productivo y contable 
+para la rentabilidad rural
+22
+2.3 Presupuesto
+Se le llama presupuesto al cálculo anticipado de los ingresos, egresos y gastos de una 
+empresa durante un período, por lo general en forma anual, en el caso de cultivos semestrales 
+se puede realizar por el ciclo del cultivo. Elaborar un presupuesto permite a las empresas 
+establecer prioridades y evaluar la consecución de sus objetivos.
+¿Por qué es importante hacer el presupuesto?
+Es importante y es beneficioso para la agroempresa, porque nos permite prever la futura 
+disponibilidad del dinero además de prevenir riesgos: saber si vamos a tener un déficit o una 
+falta de dinero, o si vamos a tener un excedente; y, de acuerdo a ello, tomar decisiones.
+1. Realice el Balance General de su agroempresa:
+BALANCE GENERAL AGROEMPRESA : 
+ACTIVOPASIVO Y PATRIMONIO
+Disponible Obligaciones con bancos
+Deudores por ventasCuentas por pagar
+ExistenciasIngresos anticipados
+SegurosTotal pasivos circulantes
+Total activo circulante
+Total pasivos largo plazo
+Activo Fijo BrutoCapital aportado
+Depreciación acumuladaUtilidad del ejercicio
+Activo fijo netoTotal patrimonio
+TOTAL ACTIVOSTOTAL PASIVOS Y PATRIMONIO
+Debes hacer: grupos de cinco (5) personas 
+y realizar las siguientes actividades:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+23
+2. Clasifique los siguientes costos, indicando si son costos directos, costos indirectos o mano 
+de obra directa:
+SemillasServicios públicos
+AnimalesAlimento para el ganado
+Mano de obra familiarConcentrados
+HerramientasInstalación de cercas
+JornalesCombustibles para preparación de suelos y riegos
+Droga veterinariaTransporte de materiales
+FungicidasInsecticidas
+Preparación de tierraAporcada
+Riego manualArriendo
+3. En pliegos de de papel periódico y de acuerdo con la estructura ya estudiada, realice el 
+ejercicio de establecer los costos de producción de su proyecto.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+24
+Son medidas o actividades de seguimiento que se hacen en la planeación o la ejecución de 
+un proyecto productivo, pueden ser:
+Medidas preventivas: Implican anticiparse a determinados eventos y conlleva modificacio-
+nes a los procesos, antes de ser ejecutados.
+Medidas Correctivas: se aplican al final de un proceso o actividad cuando los resultados no 
+son los esperados. Implica incorporar cambios en las áreas que no estén funcionando correc-
+tamente.
+En la medida que se vaya controlando o monitoreando la producción de un proyecto produc-
+tivo, se va garantizando el cumplimiento de lo propuesto con respecto a lo real, de aquí la 
+importancia del análisis de los informes financieros vistos en el Capítulo 2, ya que se evalúa 
+la posición financiera, presente, pasada y los resultados de las operaciones de una empresa, 
+con el objetivo de establecer las mejores estimaciones y predicciones posibles sobre las con-
+diciones y resultados futuros. 
+CAPÍTULO III
+SISTEMAS DE SEGUIMIENTO 
+Y CONTROL EN LA AGROEMPRESA
+Deber saber: ¿Qué beneficios tendría mi 
+agroempresa si realizo el proceso de segui-
+miento y control? ¿Cuáles métodos de moni-
+toreo me permiten realizar el seguimiento y el 
+control de mi proyecto productivo.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+25
+Algunos beneficios que resultan de hacer un adecuado análisis del proceso de seguimiento 
+y control en una agroempresa, son:
+• Garantizar la supervivencia del agronegocio
+• Evitar los riesgos de pérdida o insolvencia
+• Tener un mejor control de costos
+• Aumentar la posibilidad de mayores utilidades
+• Poder competir eficientemente
+• Agregar valor a la agroempresa
+3.1 Analisis de cada elemento del costo respecto 
+al total de los costos de producción
+Permite identificar la participación de cada uno de los elementos del costo con respecto a los 
+costos de producción, la idea es que sirva de análisis y control de los diferentes elementos 
+del costo que intervienen en la producción.
+Materiales 
+Costos Totales
+Mano de obra directa
+Costos totales
+Costos Indirectos
+Costos Totales
+3.2 Costo unitario de producción
+Permite analizar e identificar el valor unitario de producción lo que nos ayuda para fijar el 
+precio de venta por unidad y además permite visualizar que a mayor producción, mayores 
+serán los costos directos, pero menores serán los costos indirectos de producción.
+ Costo Total de producción 
+(Unidades producidas por Ha. * Ha. Producidas)
+
+Manejo productivo y contable 
+para la rentabilidad rural
+26
+3.3 Comparativo del proceso productivo
+En el Capítulo 1, indicamos que es importante la planificación ya que elimina la improvi-
+sación, de ahí la relevancia de proyectar los costos y las ventas, de esta manera podremos 
+compararlos con los valores reales, para así tomar decisiones en caso de aplicar correctivos. 
+PROCESOSVR. PRESUPUESTADOVR. EJECUTADODIFERENCIA
+COSTOS
+COSTOS DIRECTOS
+MATERIALES DIRECTOS
+MANO DE OBRA DIRECTA
+Preparación
+Aplicación
+Recolección
+Poscosecha
+COSTOS INDIRECTOS
+VENTAS
+Ingresos por ventas
+Ingresos por autoconsumo
+Ingresos por transferencia
+3.4 Margen de utilidad
+El margen mide el beneficio obtenido por cada unidad vendida, es decir, la rentabilidad de 
+las ventas, se expresa en porcentaje.
+Utilidad Bruta 
+= margen de utilidad x 100 (para poder expresarlo en porcentaje)
+ Ventas Netas
+3.5 Punto de equilibrio
+El análisis del PUNTO DE EQUILIBRIO estudia la relación que existe entre costos y gastos 
+fijos, costos y gastos variables, volumen de ventas y utilidades operacionales. Se entiende 
+por PUNTO DE EQUILIBRIO aquel nivel de producción y ventas que una empresa o negocio 
+alcanza para lograr cubrir los costos y gastos con sus ingresos obtenidos.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+27
+Para saber el punto de equilibrio de mi empresa debo totalizar los costos fijos, los costos 
+variables y las ventas, y reemplazamos en la fórmula:
+ Costos fijos 
+ Punto de Equilibrio = 
+
+1 - 
+ Costos Variables
+ Ventas Totales
+3.6 Flujo de caja
+Es un resumen de las entradas y salidas en efectivo esperadas por la ejecución de las activi-
+dades de la empresa. El flujo de caja esperado como resultado de la ejecución de un plan de 
+actividades de la empresa es un presupuesto, (presupuesto de caja o presupuesto financiero) 
+que muestra los movimientos de efectivo dentro de un periodo de tiempo establecido, no el 
+ingreso neto o rentabilidad de la empresa.
+El propósito del flujo de caja presupuestado es el de mostrar de donde provendrán los ingre-
+sos y cómo se usarán esos fondos. El flujo de caja solo indica si la empresa genera suficiente 
+dinero en efectivo para hacer frente a todas las necesidades de efectivo de la actividad em-
+presarial.
+Usualmente se trata de una matriz con columnas y filas. En las columnas se disponen los 
+períodos, por lo general, meses; y en las filas los ingresos y las salidas de dinero.
+a. Entradas: es todo el dinero que ingresa a la agro-empresa por su actividad productiva.
+b. Salidas: es todo dinero que sale de la agro-empresa y que es necesario para llevar a cabo 
+su actividad productiva. Incluye los costos variables y fijos.
+[ ]
+Pero...y si no soy conta-
+dor ¿puedo hacer mi flu-
+jo de caja?
+
+Manejo productivo y contable 
+para la rentabilidad rural
+28
+3.6.1 ¿Cuál es el propósito del flujo de caja?
+El propósito del flujo de caja es el de mostrar de donde provendrán los ingresos y como se 
+usarán esos fondos. El flujo de caja solo indica si la empresa genera suficiente dinero en 
+efectivo para hacer frente a todas las necesidades de efectivo de la actividad empresarial.
+El flujo de caja es una herramienta de trabajo muy útil 
+para la toma de decisiones del productor porque:
+• Lo hace pensar sobre el plan de actividades a desa-
+rrollar durante el año 
+• Permite analizar el plan pensado y efectuar ajustes 
+en lo planeado: ¿generará suficiente efectivo para ha-
+cer frente a todas las necesidades de efectivo? 
+• Provee un estimado de las necesidades de crédito y de la capacidad de pagar los 
+créditos y deudas de la empresa
+• Nos indica cuando el crédito es necesario y cuando hay suficiente liquidez para ser 
+pagado
+• Permite controlar la situación financiera de la agroempresa. Esto permite tomar de-
+cisiones a tiempo si los fondos recibidos o a recibir son menores a lo presupuestado 
+(caída de precios, gastos no programados, aumentos de precios de insumos, etc.) u 
+oportunidades de inversión si los ingresos son mayores a lo presupuestado.
+• Puede facilitar la obtención de crédito mostrando lo que se piensa hacer, el monto 
+de crédito necesario y el momento esperado en que habrá suficientes fondos para 
+pagar.
+¿Qué ventajas tendría mi 
+agroempresa si utilizo un 
+flujo de caja?
+
+Manejo productivo y contable 
+para la rentabilidad rural
+29
+Para estimar los recursos financieros requeridos es necesario un Flujo de Caja, que dice la 
+relación de movimientos de los fondos del agronegocio, es decir, las entradas y salidas de 
+dinero que representan la operación del agronegocio.
+Para elaborar un Flujo de Caja se debe determinar, las partidas que se utilizarán, clasificán-
+dolas en ingresos y egresos, recomendamos elaborarlas cada mes.
+• Ingresos: son todas las partidas que generen entradas de dinero. Se dividen en:
+Operacionales: que son aquellos que provienen de la operación habitual del negocio, es decir, 
+los que se generaron en el agronegocio, la partida más común en esta categoría son ventas.
+No Operacionales: no provienen de la operación habitual del agronegocio, ejemplo los ingre-
+sos por arriendo, entre otros.
+• Egresos: son todos los que generan salidas de dinero. Se clasifican en:
+Operacionales, como insumos o materia prima, remuneración, la promoción, arriendo o al-
+quiler de Instalaciones, etc.
+No operacionales, son los que no son producto de la operación habitual del agronegocio.
+3.7 Recomendaciones
+Una vez al analizar el aspecto financiero y evaluar los ingresos v/s egresos y la obtención 
+de utilidades, usted decidirá si le conviene continuar, diversificar o realizar otro negocio. Es 
+necesario, además, que se pregunte si el proyecto productivo es realmente interesante para 
+un potencial inversionista (ej. un microempresario rural que quiere incursionar en un nuevo 
+negocio) o si servirá de base para la gestión futura del agronegocio.
+¡Consejos para la elaboración 
+del flujo de caja!
+
+Manejo productivo y contable 
+para la rentabilidad rural
+30
+FORMATO DE FLUJO DE CAJA
+FLUJO DE CAJA DETALLE MENSUAL/ANO 2011
+Concepto
+Mes 
+1 
+Mes 
+2
+Mes 
+3
+Mes 
+4
+Mes 
+5
+Mes 
+6
+Mes 
+7
+Mes 
+8
+Mes 
+9
+Mes 
+10
+Mes 
+11
+Mes 
+12
+Total
+
+INGRESOS
+1. Saldo Inicial
+2. Ventas
+CONTADO
+CREDITO
+4. Otros Ingresos
+3. Total Ingresos por ventas del mes
+5. Flujo Total de Efectivo (1+3)
+EGRESOS
+6. Costos Fijos (total)
+Detalle sus costos fijos en filas
+7. Costos variables (total)
+Detalle en filas sus costos variables
+8. Otros gastos Fijos (detalle en filas 
+cada gasto: pago de crédito, pago de 
+intereses de préstamos, mantenimien-
+tos, servicios de contabilidad)
+9. TOTAL EGRESOS (6+7+8)
+Flujo Neto de Efectivo (5-9)
+Debes hacer: en los mismos grupos de trabajo, el flujo 
+de caja de su proyecto. Utilice el formato de flujo suge-
+rido a continuación.
+
+Recuerde: INGRESOS – EGRESOS = FLUJO DE CAJA
+
+Manejo productivo y contable 
+para la rentabilidad rural
+31
+1. La capacidad de pago del préstamo
+2. El historial crediticio
+3. El capital propio
+4. La garantía real, prenda o aval
+5. La viabilidad económica, técnica y ambiental del proyecto.
+Tenga en cuenta que uno de los aspectos que más se califican y evalúan para la asignación 
+de un crédito es la forma como se va a devolver el dinero. Además, la viabilidad del proyecto 
+por medio de la proyección de ingresos y costos a través del tiempo en el que se recuperará 
+la inversión inicial (Flujo de Caja).
+Un flujo de caja negativo significa que la agroempresa no cuenta con recursos suficientes 
+para cubrir necesidades operativas y de no solucionarse, en el corto plazo podría ocasionar 
+la insolvencia del agronegocio.
+1. Realice al menos dos (2) métodos de monitoreo que le permitan 
+realizar el seguimiento a la productividad y rentabilidad de su proyecto 
+productivo.
+2. ¿Por qué los métodos de seguimiento y control son benéficos para 
+la agroempresa?
+3. Si su agroempresa está funcionando ¿A cuál de los factores de éxito mencionados en el 
+capítulo 1 le daría prioridad?
+4. ¿Por qué se puede afirmar que los estados financieros permiten tomar decisiones sobre el 
+futuro de una agroempresa? 
+Debes saber: ¿En qué se fija el sis-
+tema financiero en caso de querer 
+pedir un crédito?
+Debes hacer: en grupos 
+de 5 personas
+
+Manejo productivo y contable 
+para la rentabilidad rural
+32
+5. Normalmente las agroempresas generan porcentajes entre el 15% y el 35% de utilidad 
+neta, analice los porcentejes resultantes en su caso y saque sus propias conclusiones. Marque 
+con una “X”.
+PreguntasSINO
+¿Continúo con mi proyecto productivo?
+¿Sigo produciendo, pero reviso mis costos y gastos?
+¿Continúo produciendo pero incremento mis ventas?
+¿Cambio de producto, alterno o combino mi producción con otro producto?
+¿Busco con quién asociarme en el proyecto?
+6. Con su grupo realice un socio drama donde muestre la realidad de alguna de sus 
+agroempresas y si existen fallas en dicha agroempresa ¿cómo harían para mejorarlas? ¿cuáles 
+serían las acciones necesarias en las que deberían perseverar para conseguir los resultados 
+que desean? ¿Cuáles son sus metas a corto y a largo plazo?
+1) Busque oportunidades
+2) Sea persistente
+3) Cumpla con los compromisos
+4) Exíjase y exija eficiencia 
+5) Corra riesgos calculados 
+6) Planifique sistemáticamente
+7) Capacítese usted, su familia y sus trabajadores
+8) Busque información permanentemente
+8) Fije metas y objetivos claros
+9) Sea persuasivo y construya redes de apoyo
+10) Confíe en sí mismo
+11) Produzca calidad más que cantidad
+12) Conozca el mercado y entienda las reglas de juego económicas
+13) Aprenda a aprovechar las oportunidades que le brindan las entidades del Gobierno 
+y los gremios.
+¡Aprenda, comprenda y emprenda su agroempresa!
+Debes tener en cuenta: 
+algunos consejos que le 
+ayudarán a ser empresario!
+
+Manejo productivo y contable 
+para la rentabilidad rural
+33
+El Fondo para el Financiamiento del Sector Agropecuario - FINAGRO fue creado por la Ley 
+16 de 1990 y nació de la necesidad del sector agropecuario y rural de contar con un Sistema 
+Nacional de Crédito Agropecuario y tener una entidad autónoma y especializada en el ma-
+nejo de los recursos de crédito dispersos en varios organismos que los asignaban como una 
+variante complementaria de la política macro económica, de la Junta Monetaria hoy Junta 
+Directiva del Banco de la República.
+
+El sector agropecuario comprende explotaciones agrícolas, pecuarias, acuícolas, pesqueras 
+y forestales. Estos créditos se otorgan en condiciones reglamentadas por FINAGRO y están 
+dirigidos a financiar el capital de trabajo e inversión requeridos en la producción, comerciali-
+zación y transformación primaria a través de proyectos rentables y técnica y ecológicamente 
+viables. 
+Los recursos del crédito agropecuario, pueden ser colocados por FINAGRO mediante el re-
+descuento, o por los intermediarios financieros con sus recursos propios (créditos en sustitu-
+ción de inversiones obligatorias o constitutivos de cartera agropecuaria).
+CAPÍTULO IV
+OPORTUNIDADES DE FINANCIAMIENTO 
+AGRÍCOLA POR LÍNEAS DE CRÉDITO FINAGRO
+Debes saber: las condiciones financie-
+ras vigentes para el año 2011
+
+Manejo productivo y contable 
+para la rentabilidad rural
+34
+Las condiciones financieras de Finagro vigentes para el año 2011, son las siguientes:
+TIPO 
+BENEFICIARIO
+ACTIVOS
+MONTO 
+MÁX. DE 
+CRÉDITO
+TASA DE 
+REDESCUENTO
+TASA DE 
+INTERÉS
+PEQUEÑO 
+PRODUCTOR*
+Hasta $77'662.000
+Cumplir con Condición A 
+o Condición B
+Hasta 
+$54'363.400
+DTF-3.5 (ea)
+Hasta 
+DTF+ 6 (ea)
+MEDIANO 
+PRODUCTOR
+Hasta 
+$2.678 millones
+Según 
+proyecto
+DTF+1 (ea)
+........................
+DTF+2 (ea) 
+KW:Comercializ. y 
+Servicio de Apoyo
+Hasta
+DTF+ 10 (ea)
+GRAN 
+PRODUCTOR
+Superior a $2.678 
+millones
+MIPYMES
+Hasta 
+$16.068 Millones
+Por el desarrollo de otras actividades rurales, se 
+aplican dependiendo el tipo de productor
+* PEQUEÑO 
+PRODUCTOR
+A) Por lo menos 75% de sus activos estén invertidos en el Sector Agropecuario. B) Que no 
+menos de las 2/3 partes de sus ingresos provengan de la actividad Agrop.
+FINAGRO
+Financia todas las actividades agrícolas, pecuarias,
+acuícolas, reforestales y actividades rurales.
+CRÉDITO
+GARANTÍASINCENTIVOS
+
+Manejo productivo y contable 
+para la rentabilidad rural
+35
+ ¿Cuáles son las líneas de crédito?
+• SOSTENIMIENTO (Agrícola, Pecuario y de Finca)
+• TRANSFORMACIÓN PRIMARIA Y COMERCIALIZACIÓN
+• SERVICIOS DE APOYO
+• PRODUCCIÓN AGRÍCOLA
+• OTRAS ACTIVIDADES RURALES
+• SOSTENIMIENTO (Agrícola, Pecuario y de Finca)
+• TRANSFORMACIÓN PRIMARIA Y COMERCIALIZACIÓN
+• SERVICIOS DE APOYO
+• PRODUCCIÓN AGRÍCOLA
+• OTRAS ACTIVIDADES RURALES
+• REESTRUCTURACIÓN (Aplica para créditos vigentes) 
+• REFINANCIACIÓN
+• CONSOLIDACIÓN DE PASIVOS (Aplica para créditos vigentes 
+y vencidos)
+4.1 Fondo Agropecuario de Garantías - FAG
+Cuando se solicita un crédito agropecuario, la entidad bancaria requiere garantías para 
+respaldar las obligaciones. 
+Si USTED NO CUENTA CON ELLAS O SON INSUFICIENTES, el Fondo Agropecuario de Garantías 
+FAG respalda ante las entidades bancarias dichas obligaciones.
+CAPITAL DE
+ TRABAJO
+INVERSIÓN
+NORMALIZACION 
+DE CARTERA
+Debes saber: que existen ins-
+trumentos complementarios
+
+Manejo productivo y contable 
+para la rentabilidad rural
+36
+TIPO BENEFICIARIOCOBERTURACOMISIÓN (*)
+PEQUEÑO PRODUCTORHasta 80%1,5%
+MEDIANO PRODUCTOR
+Crédito hasta $187 millonesHasta 75%3,75%
+Crédito superior a $187 millonesHasta 60%3,0%
+GRAN PRODUCTORHasta 50%4,5%
+(*) COMISIÓN: ANUAL ANTICIPADA SOBRE EL VALOR GARANTIZADO
+4.2 Incentivo a la Capitalización Rural - ICR
+Es un abono que Finagro realiza a su obligación para disminuir el saldo del crédito, por haber 
+realizado inversiones que tengan como objeto la modernización del sector agropecuario. Las 
+actividades sujetas a ICR son las siguientes:
+CAMPOS DE ELEGIBILIDAD
+TIPO DE PRODUCTOR
+PEQUEÑO 
+PRODUCTOR
+MEDIANO 
+PRODUCTOR
+Plantación, mantenimiento y renovación de cultivos de tardío 
+rendimiento
+40%20%
+Adecuación de tierras e infraestructura para la producción
+Infraestructura para la producción
+Biotecnología y su incorporación en procesos productivos
+Adquisición de maquinaria y equipo
+Equipos pecuarios, acuícolas y para pesca
+Transformación primaria y comercialización
+Sistema silvopastoril, siembra de forestales y distritos de riego40% o 30%
+4.3 Programa ola invernal
+Pueden beneficiarse todos los productores (pequeños, medianos y grandes productores) con 
+predios en los cuales desarrollen proyectos productivos y estén ubicados en zonas afectadas 
+por la Ola Invernal 2010 – 2011, teniendo en cuenta las condiciones de cada instrumento.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+37
+Se considera “productor agropecuario afectado” aquella persona natural o jurídica que haya 
+sido afectada, entre otras, por las siguientes situaciones por causa del Fenómeno de La Niña 
+2010-2011: 
+• Predios con sistemas productivos agropecuarios afectados por inundación total 
+o parcial. 
+• Sistemas productivos afectados por altos niveles de humedad, causando 
+proliferación de enfermedades, vectores y plagas en los cultivos y animales. 
+• Arrasamiento de cultivos, animales, o infraestructura para la producción, causada 
+por deslizamientos, derrumbes, avalanchas o cualquier otro evento provocado 
+por las fuertes lluvias. 
+• Predios ubicados en zonas certificadas por el ICA como receptoras de bovinos 
+movilizados por razones forzosas desde zonas afectadas.
+4.3.1 Instrumentos financieros para emergencia invernal 2010-2011 
+a. Normalización de Cartera
+Condición para ser beneficiarios de los instrumentos 
+financieros emergencia invernal 2010-2011 
+Los beneficiaros de crédito deben acreditar su condición de afectado por la emergencia 
+Invernal 2010-2011, contando con certificación expedida por el Comité Local para la Pre-
+vención y Atención de Desastres - CLOPAD - y debe ir firmada por el Alcalde del municipio.
+¿Quién se considera afectado por 
+la ola invernal? 
+
+Manejo productivo y contable 
+para la rentabilidad rural
+38
+CONDICIONES FINANCIERAS
+RUBROS
+REESTRUCTURACIÓNCONSOLIDACIÓN DE PASIVOS
+Aplica para créditos vigentes
+Aplica para créditos vigentes y vencidos (Recoge en 
+nuevo Crédito saldos a K + Int. ctes. + Int. mora de 
+hasta 1 año.
+PLAZOS
+CAPITAL DE TRABAJOINVERSIÓN
+Ampliación hasta de 5 años y se pueden contem-
+plar períodos de gracia
+Ampliación hasta de 5 años a partir del plazo ori-
+ginal.
+TASAS DE INTERÉS
+CREDITOS ORDINARIOSCRÉDITOS LÍNEAS ESPECIALES
+Se mantienen o ajustan dentro de las máximas vi-
+gentes
+Se pierden los subsidios de tasa
+ICR
+Los bancos previa verificación de la afectación del desarrollo normal del proyecto financiado, podrán 
+ampliar el plazo para la ejecución de la inversión hasta por 2 años, contados a partir del vencimiento de 
+la vigencia de la inscripción.
+GENERALIDADES
+No se requiere un nuevo proyecto o nuevo flujo de caja para la normalización
+Los créditos deberían estar al día a junio 1 de 2010 o que hubieren sido otorgados con posterioridad a 
+dicha fecha.
+Según la Superintendencia Financiera, los bancos podrán reestructurar los créditos de los damnificados 
+por el invierno, sin afectar su CALIFICACIÓN CREDITICIA
+b. Alivios sobre la deuda normalizada
+OBJETIVO
+Reconocer los intereses corrientes que se causen por los dos (2) primeros años, siempre y cuando la 
+tasa para medianos productores no supere DTF+8% e.a.
+TIPO DE PRODUCTOR
+AÑO 1AÑO 2
+PEQUEÑO PRODUCTOR
+Alivio en la 
+tasa de inte-
+rés de hasta 
+100%
+Sin superar 
+9.5% anual
+Alivio en la tasa de 
+interés de hasta 60%
+Sin superar 
+5,7% anual
+MEDIANO PRODUCTOR
+Sin superar 
+11.5% anual
+Alivio en la tasa de 
+interés de hasta 40%
+Sin superar 
+4,6% anual
+Aplica para los créditos de capital de trabajo e inversión (Excepto comercialización, servicios de 
+apoyo y actividades rurales)
+
+Manejo productivo y contable 
+para la rentabilidad rural
+39
+c. Línea de crédito
+Recuperación de actividad productiva
+ACTIVIDADES A FINANCIARPLAZO
+PERÍODO DE 
+GRACIA
+MONTO MÁX. DE CRÉ-
+DITO
+AMORTI-
+ZACIÓN
+Siembra y resiembra de cultivos de 
+ciclo corto
+Hasta dos 
+(2) años
+Hasta un (1) 
+año
+Hasta $2.000 millones 
+MP ó $54.363.400 PP
+Hasta 
+Anual
+Sostenimiento cultivos mediano ren-
+dimiento
+Sostenimiento pecuario
+Sostenimiento finca economía cam-
+pesina
+Hasta $10 millones PP y 
+$50 millones MP
+Capital de trabajo para comercializa-
+ción
+Hasta $20 millones PP y 
+$50 millones MP
+Pago de pasivos financieros y NO fi-
+nancieros
+Hasta $50 millones MP y 
+monto máx vigente PP
+Sostenimiento de cultivos de tardío 
+rendimiento
+Hasta tres 
+(3) años
+Hasta dos (2) 
+años
+Hasta $2.000 millones
+Siembra cultivos mediano rendimien-
+to
+Hasta cinco 
+(5) años
+Hasta un (1) 
+año
+Retención de vientres
+Siembra o renovación de pastos y fo-
+rrajes
+Hasta tres 
+(3) años
+Hasta un (1) 
+año
+Siembra o renovación de cultivos de 
+tardío rendimiento
+Acordados entre el I.F. y el 
+usuario, de conformidad con 
+el ciclo productivo y el flujo 
+de ingresos y egresos de la 
+actividad financiada
+Recuperación obras de infraestructu-
+ra y/o obras de adecuación
+Adquisición de maquinaria y equipos 
+para henificación y henolaje o corte 
+de pastos y forrajes
+Dotación o reparación de infraestruc-
+tura para transformación primaria.
+TIPO DE PRODUCTORTASA DE INTERESSUBSIDIO DE TASA
+Pequeño ProductorDTF e.a - 1%6% anual
+Mediano ProductorDTF e.a.7% anual
+Gran ProductorDTF e.a + 1%6% anual
+
+Manejo productivo y contable 
+para la rentabilidad rural
+40
+d. Incentivo a la Capitalización Rural 
+ICR Especial
+Los proyectos normalizados a través de la presente línea y que estén a la espera de recibir el 
+ICR; previa verificación del banco de la afectación del desarrollo normal del proyecto finan-
+ciado, podrán ampliar el plazo para ejecutar la inversión hasta por dos años, contado a partir 
+del vencimiento de la vigencia de la inscripción.
+OBJETIVO
+ICR Especial para créditos concedidos en condiciones ordinarias y con acceso al FAG Especial
+CÁMPOS DE
+ELEGIBILIDAD
+RUBROS
+TIPO PRODUCTOR
+PEQ.MED.GRAN
+ADECUACIÓN DE TIERRA 
+Y MANEJO DEL RECURSO 
+HÍDRICO
+Adecuación de tierras para actividades agrícolas, forestales, 
+pecuarias, pesqueras y acuícolas
+40%30%20%
+Electrificación - carreteables, puentes y su reparación.
+Equipos e implementos manejo recurso hídrico en proyectos 
+pecuarios, acuícolas y pesca.
+Equipos y sistemas de riego y drenaje.
+Obras civiles, manejo recurso hídrico en proyectos pecuarios, 
+acuícolas y pesca y sus reparaciones.
+Obras civiles para riego, drenaje y control de inundaciones y 
+sus reparaciones.
+INFRAESTRUCTURA PARA 
+LA PRODUCCIÓN
+Infraestructuras agrícolas, pecuarias, pesqueras, acuícolas, 
+forestales y sus reparaciones.
+Campamentos para trabajadores, bodegas y sus reparaciones.
+MAQUINARIA Y EQUIPOS
+Sólo para Producción, Cor-
+te de Pastos y Forrajes
+de Heno y/o Henolaje
+Tractores, implementos y equipos agrícolas.
+Programas y maquinarias y equipos informáticos
+Equipos para actividades pecuarias y otros equipos de apoyo 
+a la actividad agropecuaria
+RENOVACIÓN DE CULTI-
+VOS DE TARDÍO RENDI-
+MIENTO
+Aguacate, brevo, cacao, caucho, cítricos, pera, manzana, ci-
+ruela, durazno, espárragos, fique, guanábana, guayaba, maca-
+damia, mango, pitahaya, palmas de aceite, coco, chontaduro 
+e iraca, vid y café renovación.
+INFRAESTRUCTURA PARA 
+LA TRANSFORMACIÓN 
+PRIMARIA
+Beneficiaderos de café y su reparación, trapiches paneleros
+Infraestructura, maquinarias y equipos y sus reparaciones
+Unidades y redes de frío y transporte especializado
+Bodegas manejo pos-cosecha y su reparación
+
+Manejo productivo y contable 
+para la rentabilidad rural
+41
+e. Fondo Agropecuario de Garantías
+FAG Especial
+EL Fondo Agropecuario de Garantías respalda los créditos redescontados ante FINAGRO o 
+concedidos en condiciones FINAGRO. Cuando los beneficiarios del crédito no disponen de 
+garantías o éstas no son suficientes, según las políticas internas de la entidad otorgante del 
+crédito, FINAGRO podrá a solicitud del intermediario financiero, expedir las garantías com-
+plementarias necesarias de acuerdo con los topes máximos establecidos por la Comisión 
+Nacional de Crédito Agropecuario.
+FAG ESPECIALFAG ORDINARIO
+OBJETIVOOBJETIVO
+Disponer de una garantía especial para que los 
+productores afectados por la emergencia invernal, 
+puedan acceder a créditos por las líneas de crédito 
+especiales y la línea ordinaria con ICR Especial.
+Respalda operaciones ordinarias.
+TIPO 
+BENEFICIARIO
+COBERTURA
+COMISIÓN 
+(*)
+TIPO 
+BENEFICIARIO
+COBERTURA
+COMISIÓN
+(*)
+PEQUEÑO 
+PRODUCTOR
+Hasta 
+100%
+0.75%
+PEQUEÑO 
+PRODUCTOR
+Hasta 
+80%
+1,5%
+MEDIANO 
+PRODUCTOR
+Hasta 
+70%
+2.25%
+MEDIANO 
+PRODUCTOR
+Crédito 
+hasta $187 
+millones
+Hasta 
+75%
+3,75%
+Crédito > a 
+$187 millo-
+nes
+Hasta 
+60%
+3,0%
+GRAN 
+PRODUCTOR
+Hasta 
+50%
+3.75%GRAN PRODUCTOR
+Hasta 
+50%
+4,5%
+(*) COMISIÓN: ANUAL ANTICIPADA SOBRE EL VALOR GARANTIZADO
+f. PADA recuperación -Programa Alivio a la Deuda Agropecuaria 
+PADA Ola Invernal
+Aplica únicamente para pequeños y medianos productores afectados por la emergencia in-
+vernal que al 1o. de junio de 2010 se encontraran al día en las obligaciones o que los créditos 
+hayan sido otorgados con posterioridad a dicha fecha.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+42
+Consiste en reconocer el 100% de los intereses corrientes que se causen en el primer año 
+para pequeños y medianos productores y 60% o 40% de los intereses en el segundo año 
+para pequeños y medianos productores respectivamente, siempre y cuando la tasa para me-
+dianos productores no supere DTF+8% E.A. 
+Para aquellos que estén a la espera de re-
+cibir el ICR, los bancos previa verificación 
+de la afectación del desarrollo normal del 
+proyecto financiado, podrán ampliar el pla-
+zo para ejecutar la inversión hasta por un 
+año, contado a partir del vencimiento de la 
+vigencia de la inscripción.
+RESÚMEN
+INSTRUMENTOS FINANCIEROS PARA AFECTADOS "EMERGENCIA INVERNAL"
+Normalización de cartera con ampliación de plazos, sin presentar proyecto, los bancos no 
+deben afectar la calificación crediticia.
+PADA - Alivios en pagos de tasas de interés hasta por dos (2) años (Pequeño y mediano
+productor)
+Línea de crédito especial con tasa subsidiada (Todos los productores)
+ICR especial (Todos los productores)
+FAG especial - Disminución costo de comisión (Todos los productores)
+IMPORTANTE:
+Indispensable la certificación de afectación expedida por el Comité Local para la Atención 
+y Prevención de Desastres -CLOPAD y verificación de la afectación por parte del
+Intermediario financiero.
+Los intermediarios financieros, podrán reestructurar los créditos de los damnificados por el 
+invierno, sin afectar su calificación crediticia. (Superfinanciera)
+Debes recordar: 
+los instrumentos 
+complementarios de 
+financiamiento FINAGRO 
+para afectados por el 
+invierno.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+43
+4.4 Programa de desarrollo rural con equidad -DRE- 
+LINEAMIENTOS DE POLÍTICA
+Seguimiento y monitoreo al desempeño del Programa y 
+ajustes oportunos de ser necesario.
+Articulación institucional con entidades públicas y privadas.
+Priorización en pequeños y medianos productores. 
+Continuidad de otros instrumentos diferentes a DRE, de 
+apoyo para medianos y grandes productores. Los productores 
+con extensiones menores a 20 ha representan el 81% de las 
+unidades de producción agropecuarias y el 66,7% del área 
+cosechada.
+Utiliza instrumentos de probada efectividad para el 
+mejoramiento competitivo.
+4.4.1 Beneficiarios
+• Pequeños y medianos productores individuales y asociados.
+• Medianos o grandes productores integrados con pequeños, en donde la participación 
+de los pequeños sea mínimo el 60% del área sembrada.
+Debes saber: el nuevo programa tiene un presupuesto 
+de 500 millones de pesos para 2011 y la propiedad será 
+de más de 100 mil pequeños y medianos productores 
+del campo colombiano. Se privilegiará proyectos asocia-
+tivos entre los productores.
+EFICIENCIA
+EFICACIA
+EQUIDAD
+EFECTIVIDAD
+
+Manejo productivo y contable 
+para la rentabilidad rural
+44
+OBJETIVOS CONFORME 
+A LA LEY 1133 DE 2007
+MEJORAR LA COMPETIVIDAD DE LA 
+PRODUCCIÓN AGROPECURIA
+REDUCIR LA DESIGUALDAD 
+EN EL CAMPO
+RECURSOS PRESUPUESTADOS PARA 2011: $500 MIL MILLONES DE PESOS
+4.4.2 Instrumentos crediticios del programa DRE
+a. Línea Especial de Crédito (LEC)
+ACTIVIDADES FINANCIABLES
+Siembra de los 
+siguientes productos 
+de la canasta básica 
+alimentaria:
+Arroz , cebada, avena, 
+fríjol, arveja, hor-
+talizas, frutas, soya, 
+plátano, yuca, papa, 
+Maíz.
+
+S
+e
+
+c
+e
+n
+t
+r
+a
+
+e
+n
+• Política Nacional de Se-
+guridad: Alimentaria y 
+Nutricional (Conpes So-
+cial 113 – 2007).
+• Productos sensibles y de 
+interés exportador en 
+TLC Plan “País Maíz”
+
+Manejo productivo y contable 
+para la rentabilidad rural
+45
+CONDICIONES FINANCIERAS
+Tipo de ProductorTasa de InterésMonto máximo de Crédito
+Pequeño individualDTF + 1
+$2.000 millonesPequeño asociadoDTF
+Mediano individualDTF + 2
+Mediano asociadoDTF + 1
+$5.000 millones
+Mediano o grande integrador de Pequeños.DTF + 1
+*Plazo máximo de crédito 8 años.
+• Menor subsidio a la tasa (mayor cobertura) y estímulo a la asociatividad. 
+• Reducción de plazo, acotamiento del monto y reducción de subsidios buscan que la 
+plata rinda más para atender más usuarios. 
+• Proyección: más de 117.000 usuarios con proyectos por $2.2 billones.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+46
+ESQUEMA 
+DE CRÉDITO
+TIPO DE 
+PRODUCTOR
+ACTIVIDADES FINANCIABLES Y RUBROS
+PLAZOS, MONTOS Y OTRAS 
+CONDICIONES FINANCIERAS
+TASA DE 
+REDSCTO.
+TASA DE 
+INTERÉS
+SUBSIDIO DE
+TASA A 
+RECONOCER 
+POR FIN AGRO
+ACCESO AL ICR
+ACCESO A 
+GARANTÍA FAG
+INDIVIDUAL
+PEQUEÑOS
+MEDIANOS
+CEREALES Y OTROS:
+ Achira-131250; 
+Ajonjolí-111050; Algodón-111100; Arroz 
+riego-111150; Arroz secano-111200; 
+Avena-111250; Cebada-121630; Fríjol- 111350; 
+Maní-111450; Sorgo-111550; Soya-11600; 
+Tabaco negro-121680; Tabaco rubio-121690; 
+Trigo-111650; Yuca- 131200; Papa-111500; Maíz 
+amarillo tradicional clima cálido y medio-111400; 
+Maíz amarillo tradicional clima frío-111410; Maíz 
+amarillo tecnificado clima cálido- 111490; Maíz 
+amarillo tecnificado clima frío- 111430; Maíz blanco 
+tradicional clima cálido y medio-111440; Maíz 
+blanco tradicional clima frío-111460; Maíz blanco 
+tecnificado clima cálido-111470; Maíz blanco 
+tecnificado clima frío-111480; Plátano-141430.
+Cobertura de Financiación y plazos los 
+que determine el Manual de Servicios 
+en los cuadros 1.2 a 1.5 del Anexo 
+3 del Capítulo I. Monto Máximo de 
+crédito por
+beneficiario hasta $2.000 millones 
+en un sólo proyecto para mediano 
+productor y de $54.363.400 para 
+pequeños, independiente del 
+número de desembolsos. Margen 
+de redescuento hasta 100%. 
+Amortización y periodicidad pago 
+intereses, por cualquier modalidad 
+vencida sin superar la anual.
+DTF e.a. 
+- 3
+DTF e.a. 
++ 1
+DTF e.a. 
++ 1
+DTF e.a. 
++ 2
+5 % e.a.6 % e.a.
+LAS 
+ACTIVIDADES 
+FINANCIADAS 
+CON ESTA 
+LÍNEA ESPECIAL 
+NO TENDRÁN 
+ACCESO AL 
+INCENTIVO
+EN LOS 
+PORCENTAJES 
+ESTABLECIDOS, 
+EN EL TÍTULO I 
+DEL CAPÍTULO 
+III DEL MANUAL 
+DE SERVICIOS 
+DE FINAGRO Y 
+SEGÚN EL TIPO DE
+PRODUCTOR
+ESQUEMA ASOCIATIVO
+COLECTIVO 
+DE PEQUEÑOS 
+EXCLUSIVAMENTE
+HORTALIZAS:
+ Arveia-121090; Aií-121030; 
+Ajo-121060; Alcachofa-121070; Cebolla 
+cabezona-121150; Cebolla de hoja- 121180; Haba-
+121270; Habichuela- 121300; Lechuga-121330; 
+Pepino-121600; Remolacha-121420; 
+Repollo-121390; Tomate-121450; 
+Zanahoría-121480; Otros cultivos de 
+hortalizas-121630.
+Los que determine el Manual en 
+los cuadros 1.2, 1.3, 1.4 y 1.5 del 
+capítulo 1. Monto Máximo hasta 
+$5.000 millones en un sólo proyecto, 
+independiente del numero de 
+desembolsos. Margen de redescuento 
+hasta 100%.
+Amortización y periodicidad pago 
+intereses, por cualquier modalidad 
+vencida sin superar la anual.
+DTF e.a. 
+- 3
+DTF e.a
+6.5% e.a.
+COLECTIVO 
+DE MEDIANOS 
+EXCLUSIVAMENTE
+DTF e.a. 
++ 1
+DTF e.a. 
++ 1
+7.5% e.a.
+EN CRÉDITOS 
+ASOCIATIVOS 
+CUANDO EL 
+INTEGRADOR 
+SEA MEDIANO 
+0 GRANDE Y LA 
+PARTICIPACION 
+DE LOS 
+PEQUEÑOS SEA 
+POR LO MENOS 
+EL 60% DEL 
+PROYECTO A 
+FINANCIAR
+FRUTALES: Fresas-121510; Melón- 
+121570; Sandía-121580; Badea-151320; 
+Banano-141420; Bananito-141440; Curuba- 
+151350; Granadilla-151640; Lulo-151360; 
+Maracuyá-151370; Mora-151380; Papaya- 
+151390; Piña-141280; Tomate de árbol- 141550; 
+Uchuva-151620; Otros Frutales mediano 
+rendimiento-144000; Otros frutales tardío 
+rendimiento-151800.
+COMPETITIVIDAD SECTOR LACTEO:
+Compras Conjuntas Materias primas para producir 
+Alimentos Balanceados-632250
+DTF e.a. 
+- 3
+DTF e.a. 
++ 1
+5 % e.a.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+47
+b. Incentivo a la Capitalización Rural (ICR)
+TOPES
+INVIDIVUAL750 smlmv$401.7 millones
+ASOCIATIVOS2500 smlmv$1.339 millones
+BENEFICIARIOS
+PEQUEÑOS Y MEDIANOS 
+PRODUCTORES
+INDIVIDUALESASOCIADOS
+GRANDES 
+PRODUCTORES
+Siempre que actúen como INTEGRADORES en donde la participa-
+ción de los pequeños sea mínimo del 60% del área sembrada
+Beneficiarios
+Grandes productores siempre que actúen como integradores, en donde la participación de 
+los pequeños sea mínimo el 60% del área sembrada.
+CAMPOS DE ELEGIBILIDAD
+TIPO DE 
+PRODUCTOR
+Pequeño 
+Productor
+Mediano 
+Productor
+Plantación, mante-
+nimiento y renova-
+ción de cultivos de 
+tardío rendimiento
+Palmas de aceite, chontaduro, coco e iraca, pera, manzana, ciruela, 
+durazno, café renovación, caucho, cacao, limón, naranja , mandari-
+na, lima , espárragos, brevo, guanábana, guayaba, mango, pitaha-
+ya, uva , aguacate, macadamia y especies forestales.
+40% 20%
+Adecuación de 
+Tierras e Infraes-
+tructura para la 
+producción
+Equipos y sistemas de riego y drenaje, equipos e implementos 
+para el manejo de agua en proyectos pecuarios y acuícolas, 
+obras civiles para riego, drenaje, manejo de agua y control de 
+inundaciones, erradicación de cafetales envejecidos para recon-
+versión productiva y recuperación física y química de suelos de 
+la altillanura para actividad agrícola
+Infraestructura 
+para la Producción
+Infraestructura pecuaria, infraestructura agrícola y bodegas
+Biotecnología y su 
+incorporación en 
+procesos produc-
+tivos
+Maquinarias y equipos (Producción semillas transgénicas me-
+ristemos, reprod, Invitro) infraestructura (Laboratorios investi-
+gación). Adquisición de material generado por biotecnología 
+embriones ( ICA - FEDEGAN), equipos transferencia embriones 
+y certificación preñez
+
+Manejo productivo y contable 
+para la rentabilidad rural
+48
+Adquisición de 
+Maquinaria y Equi-
+po
+Tractores, combinadas , cosechadoras, impl. agrícolas, retroex-
+cav., guañadoras, fumigadoras,
+40%20%
+Equipos pecuarios, 
+acuícolas y para 
+pesca
+Equipos pecuarios ( bebederos, comederos aut, equipos de or-
+deño, inseminac. artificial, equipos para acuicultura y/o pesca. 
+Embarcaciones, motores y radioayudas.
+Transformación 
+Primaria y Comer-
+cialización
+Maquinaria y equipo, unidades o redes de frío, equipos de 
+transporte especializado, infraestructura.
+Sistema silvopastoril, siembra de forestales y distritos de riego40% o 30%
+4.4.3 Instrumentos no crediticios del programa DRE 
+a. Incentivo a proyectos de riego y drenaje
+COMPONENTE 1
+VIABILIZACION DE 65 PROYECTOS DE PEQUEÑOS Y MEDIANOS
+PRODUCTORES ASOCIADOS ELEGIBLES EN 2009
+FINAGROAdministra los recursos
+UNIVERSIDAD 
+NACIONAL 
+DE COLOMBIA
+Acompañamiento integral e interventoría
+Realiza una revisión y recomienda la reformulación desde el nivel 
+técnico, financiero, jurídico y del plan productivo de los proyectos.
+
+COMPONENTE 2
+MINI-DISTRITOS DE RIEGO DE ASOCIACIONES 
+DE PEQUEÑOS Y MEDIANOS PRODUCTORES
+MONTO DEL INCENTIVO 
+SOBRE EL VALOR DEL 
+PROYECTO
+70% Para pequeños productores
+60% Para medianos productores
+
+CONTROL Y SEGUIMIENTO
+Interventoría a las obras - Universidad Nacional
+Evaluación del proyecto como elemento constitutivo del Plan de Negocios
+Verificación de que el proyecto asociado a la obra se ejecute
+
+Manejo productivo y contable 
+para la rentabilidad rural
+49
+b. Incentivo a la asistencia técnica - IAT - entidades
+Objetivos: aumentar la productividad y la competitividad, mejorar oferta y calidad de servi-
+cios de ATA y promover la organización de los productores.
+INCENTIVO A LA ASISTENCIA TÉCNICA –IAT- ENTIDADES AJUSTES Y NOVEDADES
+IAT versión anteriorIAT 2011
+Modalidades: crédito y entidadesEntidades. Crédito presentó poca demanda
+Asignación: primer llegado, primer
+servido
+Convocatoria pública, abierta y
+transparente. Premia los mejores proyectos.
+Monto del incentivo: hasta el 80%
+Monto del incentivo: hasta el 60%
+Gremios: entre el 20% y el 40% del valor del
+proyecto dependiendo de ingresos parafiscales
+Viabiliza: funcionario del MADRViabiliza: comité externo
+.
+Productores 
+beneficiarios:
+Pequeños y medianos 
+hasta 1.756 smmlv 
+($940 millones)
+Entidades 
+participantes: 
+gremios, universidades, 
+organizaciones gesto-
+ras regionales, centros 
+provinciales, unidades 
+municipales de asisten-
+cia técnica, cámaras de 
+comercio y empresas 
+prestadoras de servi-
+cios técnicos.
+Ámbitos de la ATA:
+Gestión y admón.
+Técnico-productivo
+Socio-empresarial
+Comercial
+Ambiental
+
+Manejo productivo y contable 
+para la rentabilidad rural
+50
+¿Quién hace el Proyecto?
+Lo puede hacer el usuario del crédito o puede recurrir a profesionales con experiencia en su 
+elaboración, acerca de los cuales puede consultar en las oficinas de los intermediarios donde 
+tramitará el crédito.
+¿Cuáles son las entidades financieras que tramitan crédito con FINAGRO?
+En general todas las entidades financieras vigiladas por la Superintendencia Financiera de 
+Colombia. El año pasado los principales tramitadores fueron: Banco Agrario, Bancolombia, 
+BBVA, Banco de Bogotá y Banco de Occidente.
+¿Qué proyectos se pueden financiar?
+Se pueden solicitar recursos para desarrollar proyectos agrícolas, pecuarios, pesqueros, acuí-
+colas, forestales y actividades rurales como artesanías, turismo rural y comercialización de 
+metales y piedras preciosas.
+¿Cuánto demora la aprobación de un crédito?
+Depende del cumplimiento de requisitos por parte del solicitante y la agilidad con que el 
+banco apruebe la solicitud. Se recomienda presentarla con la debida anticipación, para con-
+tar con los recursos en forma oportuna para desarrollar los proyectos. Es decir, la demora 
+depende de usted.
+¿La tasa de interés es fija durante el plazo del crédito?
+No, la tasa de interés se determinará con base en la última tasa DTF efectiva anual vigente, 
+al momento en que se inicie el respectivo período de causación de intereses, más los puntos 
+adicionales, los cuales no variarán.
+Preguntas y respuestas sobre
+el crédito Finagro
+
+Manejo productivo y contable 
+para la rentabilidad rural
+51
+Qué plazo me dan para pagar el crédito?
+Depende del ciclo productivo del proyecto, si las actividades que va a realizar requieren ca-
+pital de trabajo, el plazo máximo es hasta dos años y en los proyectos de inversión, el plazo 
+se pacta libremente con el intermediario financiero.
+¿Cómo puedo pactar el pago del crédito?
+Lo puede hacer mensual, bimensual, trimestral, semestral, anual, según el ciclo del proyecto 
+y su flujo de caja.
+Si ya tengo un crédito ¿puedo acceder a otro?
+Sí, siempre y cuando su capacidad de endeudamiento se lo permita y que el proyecto produc-
+tivo genere los recursos para atender todas las obligaciones.
+¿Qué garantías me solicita FINAGRO?
+FINAGRO no solicita las garantías porque no presta directamente. Es la entidad financiera 
+quien las solicita para respaldar su deuda.
+¿Qué tipo de garantías solicitan las entidades financieras?
+Por lo regular solicitan que se hipoteque un bien que usted posea, pero si este no le alcanza 
+a cubrir el valor a financiar, puede acudir al Fondo Agropecuario de Garantías FAG, que ad-
+ministra FINAGRO, para que dé las garantías por la parte que no alcance a cubrirle su bien.
+¿Tengo que ir a FINAGRO para solicitar la garantía del FAG?
+No, porque la solicitud de la garantía ante FINAGRO la realiza la entidad financiera. 
+¿Qué hace FINAGRO?
+Entrega a través de los intermediarios financieros, recursos de crédito para fomentar el sector 
+agropecuario con bajos intereses, aplicando incentivos y garantías.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+52
+1. El proyecto productivo debe tener costos de producción reales, tanto los directos como 
+indirectos, nunca se deben sobredimensionar, más aún cuando el 80% del capital a 
+financiar depende de recursos de crédito.
+2. Se debe conocer muy bien el manejo del proyecto productivo, ya sea a través de la ex-
+periencia individual o en la zona, por parte de los productores.
+3. Se debe tener definida la comercialización del producto.
+4. El proyecto debe generar un flujo de caja positivo, este debe permitir el pago del Ca-
+pital e intereses financiados y generar utilidad al productor. Ej: Para un flujo de caja de 
+vientres bovinos cría de doble propósito dependiendo de la zona en donde se encuentre 
+ubicado el proyecto, se tendrá en cuenta el periodo de lactancia, y el promedio de litros 
+diarios, con un precio de venta promedio, con un parto año y la probabilidad de terne-
+ros hembra para reposición y machos para la venta.
+5. Para un proyecto productivo de un pequeño productor solo se debe llenar los siguientes 
+requisitos:
+• Solicitud de crédito.
+• Autorización y pago de la Consulta de las Centrales de Información Financiera 
+CIFIN.
+• Dos fotocopias de la cédula de ciudadanía.
+• Apertura de la cuenta de ahorros para el desembolso del crédito y abono de las 
+cuotas del crédito.
+• Formato de No declarante.
+• Anexo 50 de crédito o planificación.
+• Presupuesto o cotizaciones para los casos de financiación de Infraestructura, obras 
+civiles, o maquinaria.
+• Firmar el pagaré.
+• Oros formatos internos de la entidad financiera.
+Debes tener en cuenta: las siguientes reco-
+mendaciones para la presentación de pro-
+yectos productivos con líneas Finagro
+
+Manejo productivo y contable 
+para la rentabilidad rural
+53
+6. Para los medianos productores se debe diligenciar:
+• Solicitud de crédito.
+• Autorización y pago de la consulta de las Centrales de Información Financiera 
+CIFIN.
+• Fotocopias de la cédula de ciudadanía.
+• Apertura de la cuenta de ahorros para el desembolso del crédito y abono de las 
+cuotas del crédito.
+• Planificación de crédito en el formato FINAGRO en su totalidad con flujo de caja 
+y anexos. 
+• Anexo 50 de entrevista que debe diligenciar el director de la oficina,
+• La diferencia son los requisitos de la garantía, si es hipotecaria ya constituida ac-
+tualizar el avalúo si lleva más de dos años de realizado, actualizar el certificado de 
+libertad.
+• Anexar balances de los últimos periodos fiscales completos, y uno de corte recien-
+te con pérdidas y ganancias y soportes de cada uno de los bienes relacionados 
+en el Balance, para bienes inmuebles fotocopia de los pagos del impuesto predial 
+reciente y vehículos fotocopias de la carta de propiedad.
+• Fotocopia de las declaraciones de renta o certificado firmado de No declarante.
+Causales de devolución o negación
+1. Devoluciones:
+• En un 95% se debe a errores de la oficina tramitadora de la operación, relacio-
+nados a errores de forma en el lleno de la documentación, profundización de la 
+entrevista y conocimiento del cliente y la zona.
+• Desconocimiento del manejo de los proyectos productivos en cuanto a costos y 
+rendimientos.
+• Algunos clientes presentan reportes negativos en CIFIN, como moras con opera-
+dores celulares o electrodomésticos, se debe adjuntar un paz y salvo.
+• Desconocimiento de los analistas de la operación.
+2. Negaciones:
+• Proyectos productivos sobredimensionados. 
+• Flujos de caja negativos.
+• Clientes que sin tener experiencia crediticia y con activos muy pequeños, solicitan 
+cuantías muy altas, con sólo garantía FAG, es importante que si el cliente puede 
+aportar un codeudor lo haga, mientras se conoce su hábito de pago.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+54
+• Incumplimiento del cliente de realización de inversiones anteriormente financiadas.
+• Clientes que dan información errada y en el momento de la referenciación se 
+verifica que es falsa.
+Recomendaciones para acceder al ICR
+1. Es importante cumplir con el 100% de la inversión.
+2. Si el cliente utiliza materiales de segunda, para la construcción de la infraestructura, 
+esto hace que FINAGRO, no le dé el 40% del ICR, para el caso del pequeño Productor 
+o del 20% para el caso del mediano.
+3. Es importante demostrar la tenencia del predio, por ejemplo si el predio es propiedad 
+del esposo o esposa del solicitante, se debe anexar el registro civil de matrimonio.
+4. Cuando el predio se tiene en posesión, se debe solicitar una certificación expedida por 
+el alcalde del municipio sobre la posesión del predio que debe ser mayor a 5 años y 
+dos declaraciones extra proceso rendida por personas desinteresadas, sobre la tenen-
+cia del predio.
+5. Para la maquinaria esta se debe comprar una vez desembolsada la operación de crédito, 
+no antes y las facturas deben cumplir con las normas del Código de Comercio.
+1. Responder las siguientes preguntas:
+a. ¿Qué es Finagro?
+b. ¿Qué incentivos y qué garantías ofrece Finagro?
+Debes hacer:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+55
+c. Explique con sus propias palabras ¿En qué consiste el ICR?:
+d. ¿Quién tiene que hacer el proyecto?
+e. ¿Finagro entrega el dinero directamente?
+2. Observe los dos ejemplos de solicitud de crédito agropecuario y rural con sus anexos 
+y en compañía de su capacitador resuelvan las dudas que surjan a medida que vayan 
+revisando dicho formato.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+56
+EJEMPLO SOLICITUD DE CRÉDITO 
+AGROPECUARIO Y RURAL 
+
+Manejo productivo y contable 
+para la rentabilidad rural
+57
+ANEXO No. 1 
+SOLICITUD DE CRÉDITO AGROPECUARIO Y RURAL
+
+1Intermediario FinancieroOficinaDepartamentoMunicipio
+ DAVIVIENDAPrincipalCUNDINAMARCABOGOTÁ
+Dirección de la oficinaTeléfonoFax
+
+ Nombre o Razón Social del beneficiario del créditoIdentificación
+C.I. GREEN AGE PRODUCTS S.A.S.TipoNúmero
+Dirección del BeneficiarioTeléfonoMunicipioDepartamentoC.C. 
+Parque Industrial Peru Bodega 10 Kilometro 2 via Funza SiberiaBogotáC/marcaNIT.900,368,270-7
+Tipo de BeneficiarioPequeñoMedianoXGrandeC.E. 
+ Mujer Rural de Bajos IngresosMonto total activos según balance pesos ($)
+Fecha del balance:Día31Mes10Año20101.064.491.840
+ Nombre y/o dirección del predioExtensión Total del predio de la inversión
+ Bodega 10 Parque Industrial Perú kilómetro 2 vía Funza - SiberiaHasMts2
+DepartamentoMunicipioVereda
+CUNDINAMARCAFUNZA
+ TENENCIAPropiaXArriendo
+Beneficiario 
+Incora
+OtraCual
+
+2FORMA DETALLADA DE LLEGAR AL SITIO DE LA INVERSIÓN Y/O DIRECCIÓN
+Saliendo por la vía Funza a Siberia - hacia el norte- sobre el kilómetro 2 costado occidental queda el Parque Industrial Perú.
+Entrando al Parque la última bodega del costado sur - mano izquierda - queda la Bodega 10.
+3JUSTIFICACIÓN TÉCNICA Y DESCRIPCIÓN DE LAS INVERSIONES OBJETO DEL PROYECTO A FINANCIAR
+GREEN AGE es una empresa de reciente creación cuyo objeto principal es la compra, procesamiento y comercialización de productos hortícolas para la exportación. Cuenta con tres 
+procesos dentro de su estructura Organizacional: AGROINDUSTRIA, COMERCIALIZADOR y HOMOLOGACIÓN CON ESTANDARES INTERNACIONALES. 
+1, AGROINDUSTRIA: Consiste en una planta procesadora de productos agrícolas. La primera etapa contempla productos refrigerados en fresco y la segunda etapa en productos 
+congelados. Para ello GREEN AGE cuenta con área refrigerada de 1,200 M2 y aproximadamente 6,000 m3 de capacidad, dentro del cual tiene dos cuartos fríos para la recepción y 
+almacenamiento de materia prima (área aproximada 500 m3) y otros dos cuartos fríos para elalmacenamiento de producto terminado (de aproximadamente 450 m3); el área restante 
+corresponde al área destinada a los procesos de lavado,corte, pos cosecha, selección, pesaje y empaque que corresponden a 4,950 M3.
+2, COMERCIALIZADORA: Es una compañía estadunidense, constituida en el estado de la Florida bajo el nombre de GREEN AGE Vegetales, LLC. Su manejo y dirección esta a cargo del 
+socio Marc Meurs - Holandés residente en los Estados Unidos que tiene experiencia de más de 15 años en comercialización de alimentos refrigerados y congelados en Norte América 
+y Europa. 
+3, HOMOLOGACIÓN A ESTÁNDADES INTERNACIONALES: Para lograr el cumplimiento de las normas y estándares internacionales necesarios para la exportación GREEN AGE cuenta 
+con un equipo técnico conformado por un ex Gerente CONGELARO y ex CEO de McCAIN; un Ex Gerente de Producción del Grupo Papas MARGARITA y como asesor externo un ex Jefe 
+de Investigación y Desarrollo de McCAIN
+Con el presente proyecto se financiará la compra, instalación y puesta en marcha de la Poscosecha donde se pocesarán todos los vegetales que GREEN AGE va a exportar. Esta Línea 
+de Proceso Industrial es básicamente una Unidad Productiva con una infraestructura en redes de frío completa, donde ademas del cuarto frio de refrigeración con zonas para almacenar 
+materia Prima, Producto en Proceso y Producto Final y de tener una Posocesha de clasificación e inspección a temperatura de refirigeración, tiene un túnel de enfriamiento rápido, una 
+lavadora neumática, una cortadora semiautomática y una zona de empaque con una pesarodora lineal, bandas transportadoras y una empacadora formadora automatizada. Esta línea 
+tiene una flexibilidad y versatlidad que le permite procesar diferentes productos hortícolas que pueden ir desde brócoli, a leguiminosas como Sugar Snap, pasando por Alcachofas, Coles 
+de Bruselas, Snow Pea ó French Beans.
+El Crédito solicitado -con beneficio de ICR - es por dos años con un periodo de gracia de 6 meses y sobre el 65% de la inversión total. Las amortizaciones de capital se harán a partir 
+del mes 6, con pagos semestrales de capital e intereses. Esto permitirá a la Compañía reinvertir parte del su capital de trabajo en el desarrollo y ampliación de su negocio y de su 
+portafolio de productos.
+
+4MODALIDAD PAGO CAPITALSEMESTREMODALIDAD PAGO INTERESESSEMESTRAL
+5ACTIVIDADES A FINANCIAR - CAPITAL DE TRABAJO Y/O INVERSIÓN (Millones de $)
+CodCod
+Descripción del rubro a financiar
+Unidades
+o hectáreas
+a financiar
+Valor 
+total
+proyecto
+Valor 
+total
+del crédito
+Plazo
+total en
+meses
+Periodo 
+gracia
+ en meses 
+Puntos
+adicionales
+a la DTF(E.A)
+línearubro
+35641050Maquinaria y Equipos45129324610,0
+35641100Unidades Productivas y Redes de Frío70445724610,0
+TOTAL1.154750,3
+6CRONOGRAMA DE LA INVERSIÓN (Día/Mes/Año)Fecha Inicial08-oct-10
+Fecha 
+Final
+10-abr-11
+6ACTIVIDAD ECONÓMICA PRODUCTIVAComercialzacion y Tranformacion de HortalizasCODIGO662000
+7SOLICITA GARANTÍA FAG SINOXCOBERTURA%
+8FIRMA DEL BENEFICIARIO
+9NOMBRE Y FIRMA DEL FUNCIONARIO DEL INTERMEDIARIO FINANCIERO QUE VERIFICÓ LA VIABILIDAD DEL PROYECTO FINANCIADO CON ESTA SOLICITUD:
+NombreFirma Cargo 
+Fecha
+
+Manejo productivo y contable 
+para la rentabilidad rural
+58
+ANEXO No. 2
+GUÍA SOPORTE PROYECTOS PRODUCTIVOS AGROPECUARIOS Y RURALES
+
+I. DISPONIBILIDAD ACTUAL Y PROYECCIÓN TÉCNICA
+A. INFORMACIÓN AGRÍCOLA Y FORESTAL
+CULTIVO
+ACTUAL
+HAS
+NUEVO
+HAS
+FECHA
+SIEMBRA
+PRODUCCION (Periodos)
+123456
+1
+2 
+3 
+4 
+5 
+6 
+7 
+B. INFORMACIÓN PECUARIA
+B.1. BOVINOS GANADO COMERCIAL 
+PROYECCIÓN DE EXISTENCIASACTUALaño 1año 2año 3año 4año 5año 6
+1COMPRA VACAS Y/O NOVILLAS VIENTRE
+2NOVILLAS VIENTRE
+3VACAS ADULTAS
+4TOTAL VIENTRES (1+2+3)
+5MORTALIDAD ADULTOS ( %)
+6MUERTES ADULTOS (No) (4X5)
+7SELECCIÓN VACAS (%)
+8VACAS DE DESECHO (No) (4X7)
+9TOTAL VACAS PARA CRIA (4-6-8)
+10NATALIDAD (%)
+11TOTAL NACIMIENTOS (9X10)
+12MORTALIDAD TERNEROS ( %)
+13MUERTES TERNEROS (No) (11X12)
+14TOTAL TERNEROS 0 - 1 AÑO (11-13)
+15MACHOS 0-1 AÑO
+16DESECHO MACHOS 0 - 1 AÑO (%)
+17MACHOS DESECHO 0 - 1 AÑO (No) - VENTA
+18TOTAL MACHOS 0 - 1 AÑO (No) (15-17)
+19HEMBRAS 0-1 AÑO
+20DESECHO HEMBRAS 0 - 1 AÑO (%)
+21HEMBRAS DESECHO 0 - 1 AÑO (No) - VENTA
+22TOTAL HEMBRAS 0 - 1 AÑO (No) (19-21)
+23MACHOS 1 - 2 AÑOS
+24DESECHO MACHOS 1 - 2 AÑOS (%)
+25MACHOS DESECHO 1 - 2 AÑOS (No) - VENTA
+26COMPRA MACHOS 1 - 2 AÑOS
+27TOTAL MACHOS 1 - 2 AÑOS (23-25+26)
+28HEMBRAS 1 - 2 AÑOS
+29DESECHO HEMBRAS 1 - 2 AÑOS (%)
+30HEMBRAS DESECHO 1 - 2 AÑOS (No) - VENTA
+31TOTAL HEMBRAS 1 -2 AÑOS (28-30)
+32MACHOS CEBA 2-3 AÑOS
+33COMPRA MACHOS CEBA 2-3 AÑOS
+34TOTAL MACHOS CEBA 2-3 AÑOS (VENTA)
+35HEMBRAS 2 - 3 AÑOS
+36DESECHO HEMBRAS 2 - 3 AÑOS (%)
+37HEMBRAS DESECHO 2 - 3 AÑOS (No) - VENTA
+38TOTAL HEMBRAS 2 - 3 AÑOS (35-37)
+39TOROS Y TORETES
+40TOROS DE DESECHO (No)
+41COMPRA DE TOROS Y/O TORETES
+42TOTAL TOROS Y/O TORETES
+43TOTAL GANADO 
+44LITROS DE LECHE DIARIOS POR VACA
+45No. DIAS POR LACTANCIA
+46TOTAL LECHE PRODUCIDA EN EL AÑO
+47HECTÁREAS EN PASTOS
+48U.G.G./HA
+
+Manejo productivo y contable 
+para la rentabilidad rural
+59
+ANEXO No. 2
+GUIA SOPORTE PROYECTOS PRODUCTIVOS AGROPECUARIOS Y RURALES
+
+B.2. PORCINOS
+PROYECCIÓN DE EXISTENCIASACTUAL12345678
+1COMPRA CERDAS
+2CERDAS SELECCIONADAS
+3CERDAS CRIA
+4TOTAL CERDAS EXPLOTACIÓN (1+2+3)
+5MORTALIDAD ADULTOS ( %)
+6MORTALIDAD ADULTOS (No) (4X5)
+7CERDAS DESECHO (%)
+8CERDAS DESECHO (No) (4X7)
+9TOTAL CERDAS CRIA (4-6-8)
+10No. LECHONES POR PARTO
+11No PARTOS CERDA/PERIODO
+12TOTAL LECHONES NACIDOS (9X10X11)
+13MORTALIDAD JOVENES (%)
+14MORTALIDAD LECHONES (No) (12X13)
+15TOTAL LECHONES VIVOS (12-14)
+16CERDAS LEVANTE
+17LECHONES PARA CEBA O VENTA (15-16)
+18COMPRA LECHONES PARA CEBA
+19TOTAL LECHONES PARA CEBA (17+18)
+20MORTALIDAD LECHONES DE CEBA (%)
+21MORTALIDAD LECHONES DE CEBA (No) (19*20)
+22TOTAL LECHONES CEBA VENTA (19-21)
+23REPRODUCTORES
+24DESECHO REPRODUCTORES
+25COMPRA REPRODUCTORES
+26TOTAL REPRODUCTORES (23-24+25)
+27TOTAL CERDOS (9+16+22+26)
+28AREA PORQUERIZA (Mts2)
+29CERDOS/Mts2 
+B.3. AVICULTURA 
+PROYECCIÓN DE EXISTENCIAS ACTUAL
+PERIODOS PRODUCTIVOS
+12345678
+ENGORDE
+1AVES ENGORDE / CICLO
+2MORTALIDAD AVES ENGORDE (%)
+3MORTALIDAD AVES ENGORDE (No)
+4CICLOS ENGORDE/PERIODO
+5PESO FINAL / AVE (Kg)
+6Kg AVES / PERIODO [(1-3)X4X5]
+POSTURA
+1AVES LEVANTE (0 A 20 SEMANAS)
+2MORTALIDAD AVES LEVANTE ( %)
+3MORTALIDAD AVES LEVANTE (No)
+4TOTAL AVES LEVANTE
+5AVES POSTURA
+6MORTALIDAD AVES POSTURA ( %)
+7MORTALIDAD AVES POSTURA (No)
+8TOTAL AVES EN POSTURA
+9POSTURA PROMEDIO (%)
+10NUMERO DIAS DE POSTURA
+11TOTAL HUEVOS PRODUCIDOS
+12ROTURA DE HUEVOS (%)
+13ROTURA DE HUEVOS (No)
+14TOTAL HUEVOS PARA LA VENTA
+15AREA GALPON (Mts2)
+16AVES/Mts2 (1 ó 7 / 12)
+B.4. OTRAS ESPECIES (ESPECIFICAR) 
+PROYECCIÓN DE EXISTENCIASACTUALPERIODOS PRODUCTIVOS TRIMESTRALES
+ 12345678
+1Comercialización Hortalizas (toneladas)451559775980
+2
+3
+4
+5
+
+Manejo productivo y contable 
+para la rentabilidad rural
+60
+ANEXO 2
+GUIA SOPORTE
+.
+II. COSTOS DE PRODUCCION Y FINANCIEROS (Anual) MM($)
+ACOSTOS DE PRODUCCIÓN2011201234
+COSTOS DIRECTOS
+a. Agrícola y Forestal
+Materia Prima e Insumos
+Mecanización (Labores culturales para preparar el terreno)
+Mano de obra
+Recolección y Cosecha
+Otros (riego, entre otros)
+SUB TOTAL a0,00,00,00,0
+b. Pecuario y Pesquero
+Insumos y suplementos
+Mano de Obra
+Mantenimiento de praderas
+Otros
+SUB TOTAL b
+c. Comercializacion y servicios de apoyo
+Compra de materia prima y/o inventario2.003,44.888,7
+Mano de obra473,51.099,8
+Transporte
+Otros (administrativos, arriendo, servicios y transporte)430,9996,4
+SUB TOTAL c2.907,86.984,90,00,0
+TOTAL COSTOS DIRECTOS (a+b+c)0,00,0
+COSTOS INDIRECTOS
+Arrendamiento
+Administración
+Otros
+TOTAL COSTOS INDIRECTOS0,00,0
+TOTAL COSTO DE PRODUCCIÓN (Directos+Indirectos)2.907,86.984,90,00,0
+B. PLAN DE AMORTIZACION1234
+FECHA PAGO
+VLR DESEMBOLSO 750,3
+SALDO INICIAL750375
+AMORTIZACION A CAPITAL375375
+PAGO DE INTERESES168
+SALDO FINAL3750
+
+Manejo productivo y contable 
+para la rentabilidad rural
+61
+ANEXO 2
+GUIA SOPORTE
+.
+III. ESTIMACION DE INGRESOS, Y ESTADO DE INGRESOS Y EGRESOS millones ( $ )
+AESTIMACIÓN DE INGRESOS Y/O VENTAS DE LA ACTIVIDAD
+ (Semestral)
+Producto
+Tipo 
+Producto
+Unidad
+Vr Unitario por 
+Tonelada
+1234
+1
+Brocoli 
+Crown
+TON2,30
+No160,0240,0
+Valor368552
+2Brocoli FloretTON2,70
+No8721.220
+Valor2.3543.294
+3Sugar SnapTON5,10
+No110408
+Valor5612.081
+4
+Col de 
+Bruselas
+TON3,40
+No63408
+Valor2141.387
+5AlcachofasTON2,70
+No414
+Valor 1.118
+TOTAL INGRESOS (SUMA 1+2+3+4+5)3.4988.43200
+BESTADO DE INGRESOS Y EGRESOSTRIMESTRAL
+INGRESOS1234
+Ingresos generados por actividades agropecuarias/agroindustriales3.4988.43200
+Valor del presente crédito750,3
+Aportes con recursos propios al proyecto404,0
+Otros ingresos 
+TOTAL INGRESOS 4.651,98.431,80,00,0
+EGRESOS1234
+Valor de la inversión + costos de producción2.907,86.984,9
+Amortización a capital del presente crédito375,1375,1
+Pago de Intereses del presente crédito16,08,0
+Otros egresos incluidos otros créditos (intereses y capital)436,074,5
+TOTAL EGRESOS 3.734,97.442,5
+EXCEDENTE (DEFICIT) 917,0989,3
+
+Manejo productivo y contable 
+para la rentabilidad rural
+62
+ANEXO No. 2
+GUÍA SOPORTE PROYECTOS PRODUCTIVOS AGROPECUARIOS Y RURALES
+
+I. DISPONIBILIDAD ACTUAL Y PROYECCIÓN TÉCNICA
+A. INFORMACIÓN AGRÍCOLA Y FORESTAL
+CULTIVO
+ACTUAL
+HAS
+NUEVO
+HAS
+FECHA
+SIEMBRA
+PRODUCCION (Periodos)
+123456
+1
+2 
+3 
+4 
+5 
+6 
+7 
+B. INFORMACIÓN PECUARIA
+B.1. BOVINOS GANADO COMERCIAL 
+PROYECCIÓN DE EXISTENCIASACTUALaño 1año 2año 3año 4año 5año 6
+1COMPRA VACAS Y/O NOVILLAS VIENTRE
+2NOVILLAS VIENTRE
+3VACAS ADULTAS
+4TOTAL VIENTRES (1+2+3)
+5MORTALIDAD ADULTOS ( %)
+6MUERTES ADULTOS (No) (4X5)
+7SELECCIÓN VACAS (%)
+8VACAS DE DESECHO (No) (4X7)
+9TOTAL VACAS PARA CRIA (4-6-8)
+10NATALIDAD (%)
+11TOTAL NACIMIENTOS (9X10)
+12MORTALIDAD TERNEROS ( %)
+13MUERTES TERNEROS (No) (11X12)
+14TOTAL TERNEROS 0 - 1 AÑO (11-13)
+15MACHOS 0-1 AÑO
+16DESECHO MACHOS 0 - 1 AÑO (%)
+17MACHOS DESECHO 0 - 1 AÑO (No) - VENTA
+18TOTAL MACHOS 0 - 1 AÑO (No) (15-17)
+19HEMBRAS 0-1 AÑO
+20DESECHO HEMBRAS 0 - 1 AÑO (%)
+21HEMBRAS DESECHO 0 - 1 AÑO (No) - VENTA
+22TOTAL HEMBRAS 0 - 1 AÑO (No) (19-21)
+23MACHOS 1 - 2 AÑOS
+24DESECHO MACHOS 1 - 2 AÑOS (%)
+25MACHOS DESECHO 1 - 2 AÑOS (No) - VENTA
+26COMPRA MACHOS 1 - 2 AÑOS
+27TOTAL MACHOS 1 - 2 AÑOS (23-25+26)
+28HEMBRAS 1 - 2 AÑOS
+29DESECHO HEMBRAS 1 - 2 AÑOS (%)
+30HEMBRAS DESECHO 1 - 2 AÑOS (No) - VENTA
+31TOTAL HEMBRAS 1 -2 AÑOS (28-30)
+32MACHOS CEBA 2-3 AÑOS
+33COMPRA MACHOS CEBA 2-3 AÑOS
+34TOTAL MACHOS CEBA 2-3 AÑOS (VENTA)
+35HEMBRAS 2 - 3 AÑOS
+36DESECHO HEMBRAS 2 - 3 AÑOS (%)
+37HEMBRAS DESECHO 2 - 3 AÑOS (No) - VENTA
+38TOTAL HEMBRAS 2 - 3 AÑOS (35-37)
+39TOROS Y TORETES
+40TOROS DE DESECHO (No)
+41COMPRA DE TOROS Y/O TORETES
+42TOTAL TOROS Y/O TORETES
+43TOTAL GANADO 
+44LITROS DE LECHE DIARIOS POR VACA
+45No. DIAS POR LACTANCIA
+46TOTAL LECHE PRODUCIDA EN EL AÑO
+47HECTÁREAS EN PASTOS
+48U.G.G./HA
+
+Manejo productivo y contable 
+para la rentabilidad rural
+63
+ANEXO No. 2
+GUIA SOPORTE PROYECTOS PRODUCTIVOS AGROPECUARIOS Y RURALES
+
+B.2. PORCINOS
+PROYECCIÓN DE EXISTENCIASACTUAL12345678
+1COMPRA CERDAS
+2CERDAS SELECCIONADAS
+3CERDAS CRIA
+4TOTAL CERDAS EXPLOTACIÓN (1+2+3)
+5MORTALIDAD ADULTOS ( %)
+6MORTALIDAD ADULTOS (No) (4X5)
+7CERDAS DESECHO (%)
+8CERDAS DESECHO (No) (4X7)
+9TOTAL CERDAS CRIA (4-6-8)
+10No. LECHONES POR PARTO
+11No PARTOS CERDA/PERIODO
+12TOTAL LECHONES NACIDOS (9X10X11)
+13MORTALIDAD JOVENES (%)
+14MORTALIDAD LECHONES (No) (12X13)
+15TOTAL LECHONES VIVOS (12-14)
+16CERDAS LEVANTE
+17LECHONES PARA CEBA O VENTA (15-16)
+18COMPRA LECHONES PARA CEBA
+19TOTAL LECHONES PARA CEBA (17+18)
+20MORTALIDAD LECHONES DE CEBA (%)
+21MORTALIDAD LECHONES DE CEBA (No) (19*20)
+22TOTAL LECHONES CEBA VENTA (19-21)
+23REPRODUCTORES
+24DESECHO REPRODUCTORES
+25COMPRA REPRODUCTORES
+26TOTAL REPRODUCTORES (23-24+25)
+27TOTAL CERDOS (9+16+22+26)
+28AREA PORQUERIZA (Mts2)
+29CERDOS/Mts2 
+B.3. AVICULTURA 
+PROYECCIÓN DE EXISTENCIAS ACTUAL
+PERIODOS PRODUCTIVOS
+12345678
+ENGORDE
+1AVES ENGORDE / CICLO
+2MORTALIDAD AVES ENGORDE (%)
+3MORTALIDAD AVES ENGORDE (No)
+4CICLOS ENGORDE/PERIODO
+5PESO FINAL / AVE (Kg)
+6Kg AVES / PERIODO [(1-3)X4X5]
+POSTURA
+1AVES LEVANTE (0 A 20 SEMANAS)
+2MORTALIDAD AVES LEVANTE ( %)
+3MORTALIDAD AVES LEVANTE (No)
+4TOTAL AVES LEVANTE
+5AVES POSTURA
+6MORTALIDAD AVES POSTURA ( %)
+7MORTALIDAD AVES POSTURA (No)
+8TOTAL AVES EN POSTURA
+9POSTURA PROMEDIO (%)
+10NUMERO DIAS DE POSTURA
+11TOTAL HUEVOS PRODUCIDOS
+12ROTURA DE HUEVOS (%)
+13ROTURA DE HUEVOS (No)
+14TOTAL HUEVOS PARA LA VENTA
+15AREA GALPON (Mts2)
+16AVES/Mts2 (1 ó 7 / 12)
+B.4. OTRAS ESPECIES (ESPECIFICAR) 
+PROYECCIÓN DE EXISTENCIASACTUALPERIODOS PRODUCTIVOS TRIMESTRALES
+ 12345678
+1Comercialización Hortalizas (toneladas)451559775980
+2
+3
+4
+5
+
+Manejo productivo y contable 
+para la rentabilidad rural
+64
+GUIA SOPORTE
+
+II. COSTOS DE PRODUCCION Y FINANCIEROS millones ( $ ) (Trimestral)
+ACOSTOS DE PRODUCCIÓN1234
+COSTOS DIRECTOS
+a. Agrícola y Forestal
+Valor material vegtal suministrado a los agricultores84,6102,9145,1250,4
+Mecanización (Labores culturales para preparar el terreno)
+Mano de obra
+Recolección y Cosecha
+Otros (riego, entre otros)
+SUB TOTAL a84,6102,9145,1250,4
+b. Pecuario y Pesquero
+Insumos y suplementos
+Mano de Obra
+Mantenimiento de praderas
+Otros
+SUB TOTAL b
+c. Comercializacion y servicios de apoyo
+Compra de materia prima y/o inventario161,4284,5315,2404,5
+Mano de obra125,4155,4215,4272,6
+Transporte
+Otros (administrativos, arriendo, servicios y transporte)454,8563,4781,0988,5
+SUB TOTAL c741,61.003,31.456,71.916,0
+TOTAL COSTOS DIRECTOS (a+b+c)
+COSTOS INDIRECTOS
+Arrendamiento
+Administración
+Otros
+TOTAL COSTOS INDIRECTOS
+TOTAL COSTO DE PRODUCCIÓN (Directos+Indirectos)826,21.106,21.456,71.916,0
+B. PLAN DE AMORTIZACION1234
+FECHA PAGO
+VLR DESEMBOLSO 660,9
+SALDO INICIAL661,0495,7330,5165,2
+AMORTIZACION A CAPITAL165,2165,2165,2165,2
+PAGO DE INTERESES14,010,57,03,5
+SALDO FINAL495,7330,5165,20,0
+
+Manejo productivo y contable 
+para la rentabilidad rural
+65
+GUIA SOPORTE
+
+III. ESTIMACION DE INGRESOS, Y ESTADO DE INGRESOS Y EGRESOS millones ( $ )
+AESTIMACIÓN DE INGRESOS Y/O VENTAS DE LA ACTIVIDAD
+ (Semestral)
+Producto
+Tipo 
+Producto
+Unidad
+Vr Unitario por 
+Tonelada
+1234
+1HORTALIZASTON3,4
+No451,2559,0774,7980,6
+Valor1.5341.9012.6343.334
+2
+No
+Valor
+3
+No
+Valor
+4
+No
+Valor
+5
+No
+Valor 
+TOTAL INGRESOS (SUMA 1+2+3+4+5)1.5341.9012.6343.334
+BESTADO DE INGRESOS Y EGRESOSTRIMESTRAL
+INGRESOS1234
+Ingresos generados por actividades agropecuarias/agroindustriales1.534,11.900,62.634,03.334,0
+Valor del presente crédito (1)
+Aportes con recursos propios al proyecto (1)
+Otros ingresos 
+TOTAL INGRESOS 1.534,11.900,62.634,03.334,0
+EGRESOS1234
+Valor de la inversión + costos de producción826,21.106,21.456,71.916,0
+Amortización a capital del presente crédito165,2165,2165,2165,2
+Pago de Intereses del presente crédito14,010,57,03,5
+Otros egresos incluidos otros créditos (intereses y capital)
+TOTAL EGRESOS 1.005,01.282,01.629,02.084,8
+EXCEDENTE (DEFICIT) 528,6618,61.005,01.249,3
+(1) En los ingresos no se incluye el valor del crédito ni el aporte con recursos propios por ser un proyecto para financiar capital de 
+trabajo para la compra de hortalizas y los costos de transformación y empaque para su porterior exportación.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+66
+Mediante la ley 69 del 24 de agosto de 1993, el gobierno nacional 
+estableció el seguro agrícola en Colombia como instrumento para 
+incentivar y proteger las inversiones agropecuarias financiadas con 
+recursos de crédito provenientes del Sistema Nacional de Crédito 
+Agropecuario - SNCA - o con recursos propios, con el fin de buscar el 
+mejoramiento económico y productivo del sector rural promoviendo 
+el ordenamiento económico del sector agropecuario.
+Al igual que el crédito e incentivos financieros agropecuarios, que se otorgan a través de 
+FINAGRO, el seguro agrícola es otra herramienta de ayuda a los agricultores que cuenta con 
+subsidio del gobierno, el cual es administrado por dicha entidad, facilitando el acceso de los 
+productores a las coberturas de seguro agrícola.
+En la actualidad, en el país solo se ofrece el servicio de seguro agrícola, el Plan Nacional de 
+Desarrollo 2011 – 2014 posibilita la modificación de la Ley 69 para ofrecer otras líneas como 
+por ejemplo el seguro pecuario. 
+5.1 ¿Cuándo y por qué surge el seguro agropecuario?
+El seguro agropecuario surgió hace más de 100 años con el objetivo de respaldar financiera 
+y técnicamente al productor. En la mayoría de los países en los que ha sido implantado se 
+caracteriza por ofrecer garantías suficientes a los productores del agro y ser confiable para 
+respaldar operaciones con el sector financiero.
+CAPÍTULO V
+SEGURO AGRÍCOLA
+Debes saber:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+67
+5.2 ¿Quiénes están facultados para expedir el seguro agrícola?
+Las entidades aseguradoras públicas y privadas, así como las demás entidades vigiladas por 
+la Superintendencia Financiera, facultadas por la ley para ejercer las actividades de seguros, 
+podrán asumir los riesgos del seguro, en las condiciones que establezca el Gobierno Nacio-
+nal, a través de la expedición directa de las pólizas o mediante convenios de reaseguros o 
+coaseguros. En la actualidad, la aseguradora que ofrece seguro agrícola con subsidio del 
+Estado es MAPFRE. 
+MAPFRE, presta el servicio a través de la red nacional de sus oficinas locales y cuenta con ex-
+periencia internacional por más de 76 años en esta rama, para ofrecer un servicio profesional 
+a los productores del agro colombiano.
+5.3 Cobertura del seguro agrícola
+El seguro agropecuario ampara los perjuicios causados por siniestros naturales, climáticos 
+ajenos al control del tomador, asegurado o beneficiario (productor agropecuario) que afecten 
+las actividades agropecuarias. El tomador o asegurado podrá amparar o cubrir los perjuicios 
+o daños causados por uno o varios de estos eventos.
+5.4 Fundamentos de la política de aseguramiento
+1. El seguro como instrumento de política sobre bases técnicas que garanticen su eficacia.
+2. El seguro como sistema social colectivo destinado a reducir la incertidumbre y a com-
+pensar las pérdidas económicas del sector agropecuario a través de instituciones que 
+ofrecen este servicio con autosuficiencia económica y financiera ante la presencia de 
+riesgos y variabilidad climática y se rige bajo los siguientes objetivos: 
+• Dar seguridad económica a los productores asegurados.
+• Evitar la descapitalización del productor agropecuario ante la presencia de even-
+tos fortuitos asegurables.
+• Dar seguridad al sistema crediticio a través de una póliza de seguro al crédito de 
+producción o de inversión otorgado para producir ante la presencia de fenómenos 
+fortuitos identificados como riesgos en las pólizas.
+• Disminuir la presión que los siniestros y los eventos catastróficos ejercen sobre las 
+finanzas públicas.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+68
+• En general, promover mayor productividad en las actividades económicas en cum-
+plimiento de objetivos nacionales.
+3. El seguro ofrece al agricultor la oportunidad de solidarizarse con todo el sector para 
+que a través de los grandes números y de la dispersión geográfica, se complementen 
+las pérdidas en años de siniestro, y proporcione continuidad a la recuperación de la 
+producción mediante el pago de una cuota denominada prima de seguro.
+4. El seguro garantiza la indemnización económica a los productores asegurados ante la 
+presencia de un riesgo a siniestro amparado en la política del seguro. 
+5.5 Consideraciones del asegurador
+El seguro agropecuario opera a través de un contrato que se establece en una póliza. Los 
+aseguradores ejecutan su trabajo de acompañamiento al productor asegurado partiendo de 
+las siguientes condiciones básicas:
+1. Póliza de seguro 
+La póliza de seguro consta de: 
+• Condiciones generales 
+• Condiciones específicas 
+• Tarifas 
+• Indemnizaciones 
+• Inspecciones 
+• Exclusiones
+2. Contrato de seguro
+El contrato puede ser: 
+• Contrato individual 
+• Contratato colectivo
+3.Riesgos amparados
+• Exceso de humedad 
+• Déficit de humedad 
+• Inundación 
+• Granizo 
+• Vientos fuertes 
+• Helada 
+• Avalancha 
+• Deslizamiento
+4. Productos que son asegura-
+bles 
+El seguro agropecuario ofrece sus 
+servicios a: 
+• Cultivos agrícolas 
+• Especies pecuarias 
+• Seguros de bienes agropecua-
+rios (edificaciones, infraestructu-
+ra, maquinaria y equipos)
+• Seguros de vida y salud
+
+Manejo productivo y contable 
+para la rentabilidad rural
+69
+Programas ofrecidos de acuerdo con el ciclo productivo. El seguro se ofrece como:
+• Seguros anuales 
+• Seguros por ciclos
+El seguro garantiza la continuidad de los procesos productivos teniendo como elementos 
+básicos dos aspectos: 
+• El asegurado paga una prima de seguro. El gobierno nacional a través de la Ley 101 de 
+1193 y del plan de desarrollo aprobado para el año 2011 - 2014 garantiza una partici-
+pación en el pago de la prima a los agricultores asegurados individuales y agremiados.
+• Las aseguradoras garantizan la indemnización pactada en la póliza suscrita al asegurado. 
+5.5.1 Prima
+Valor o cuota que se cancela en periodos convenidos con la compañía aseguradora, que da 
+el derecho a ser beneficiario del seguro en el momento de reclamar por el siniesto.
+El subsidio del gobierno nacional opera con el pago de la prima, subsi-
+diando porcentajes entre el 30% y el 60%.
+Tipo de subvenciónPorcentaje
+Póliza individual30%
+Póliza Colectiva60%
+Debes saber: ¿cómo opera 
+el subsidio del gobierno?
+Debes tener en cuenta los 
+siguientes ejemplos:
+
+Manejo productivo y contable 
+para la rentabilidad rural
+70
+Ejemplo ilustrativo No.1:
+VALOR DEL SEGURO PARA PLÁTANO EN TIPO DE SEGURO POR PLANTA
+Tipo de Seguro:Seguro por planta
+Amparos:Vientos y granizo
+Valor Asegurado:$6.400.000
+Densidad de Población:1.600 plantas/ha.
+Valor por Planta:$6.400.000 / 1.600 = $4.000/planta
+Vigencia:Anual
+Tasa:10%
+Deducible:10% del valor asegurado
+Indemniza el número de plantas afectadas por un evento climático
+LIQUIDACIÓN DE LA PRIMA PARA EL EJEMPLO DEL PLÁTANO EN
+TIPO DE SEGURO POR PLANTA
+Prima 10% de la suma asegurada:$640.000
+Subsidio póliza colectiva 60%:$384.000
+IVA:$102.400
+Prima no subsidiada:$256.000
+Valor a pagar por el tomador:$256.000 + iva
+Valor total a pagar por el tomador con IVA:$358.400
+LIQUIDACIÓN DEL SINIESTRO EN EL EJEMPLO DEL PLÁTANO EN
+TIPO DE SEGURO POR PLANTA
+Número de plantas aseguradas:1.600
+Número de plantas muertas:1400
+Plantas a liquidar:1.400 * $4.000 = $5.600.000
+Menos deducible 10%:$640.000
+Total indemnización:$4.960.000
+Rendimiento garantizado con ajuste a:
+• Protege el 70% del rendimiento histórico. 
+• La suma asegurada corresponde a los costos de producción
+
+Manejo productivo y contable 
+para la rentabilidad rural
+71
+Ejemplo ilustrativo No.2
+MONTO DEL SEGURO PARA MAÍZ CON TIPO SEGURO
+POR RENDIMIENTO GARANTIZADO
+Tipo de Seguro :Rendimiento garantizado
+Tomador:
+Asociación, comercializadora
+o cooperativa que agrupe productores
+Asegurado:Productor
+Beneficiario:Tomador y/o asegurado
+Amparos:Vientos, inundación, exceso de humedad
+Valor Asegurado :$2.300.000/ha
+Rendimiento Garantizado:70% del promedio histórico
+Vigencia:Ciclo vegetativo
+Deducible:10% del valor asegurado
+LIQUIDACIÓN DE LA PRIMA PARA EL EJEMPLO DEL MAÍZ EN
+TIPO DE SEGURO POR RENDIMIENTO GARANTIZADO
+Prima 9.1% de la suma asegurada:$209.300
+Subsidio póliza colectiva 60%:$125.580
+Iva 16%:$33.488
+Prima a pagar por el tomador:$83.720 + Iva.
+Prima a pagar por el tomador con IVA:$117.208
+LIQUIDACIÓN DEL SINIESTRO PARA EL EJEMPLO DEL MAÍZ EN
+TIPO DE SEGURO POR RENDIMIENTO GARANTIZADO
+Rendimiento histórico7.500 Kg/ha
+Rendimiento garantizado:7.500 * 70%= 5.250Kg/ha
+Precio de ajuste:$2.300.000/5.250Kg/ha = $438/ Kg
+Deducible:$230.000
+Rendimiento estimado:500 Kg/ha (lo que se logró salvar)
+Rendimiento indemnizable:5.250 – 500 = 4.750Kg/ha (lo que se 
+perdió)
+Indemnización bruta:4.750 * $438 = $2.080.500
+Indemnización neta:$2.080.500 - $230.000 = $1.850.500
+
+Manejo productivo y contable 
+para la rentabilidad rural
+72
+Seguro catastrófico:
+• Está diseñado para brindar recursos al Gobierno Nacional, Departamental 
+y/o Municipal.
+• Pretende mitigar las pérdidas ocasionadas por desastres naturales de origen 
+climático. 
+La suma asegurada la establece el tomador basándose en los cultivos asegurables y el valor 
+que considere a cubrir para cada uno de estos.
+El seguro agropecuario es un mecanismo financiero implementado en naciones desarrolla-
+das y en países donde la agricultura es parte integral de los procesos de desarrollo econó-
+mico y de mitigación de pobreza. Por lo tanto, el seguro agropecuario se constituye en una 
+herramienta básica para dar solución a la necesidad de protección que requiere el agricultor 
+ante la ocurrencia de riesgos fortuitos de la naturaleza y de fluctuaciones climáticas como 
+lluvias excesivas, sequías, heladas, tornados, deslizamientos de terreno que ocasionan pérdi-
+das totales o parciales en la producción agropecuaria.
+En la actualidad el área productiva asegurada representa menos del 1% del total del área 
+sembrada o establecida en el periodo 2010 – 2011. 
+A continuación expresamos un resumen por cultivo y pólizas aseguradas en el país. 
+CULTIVOPÓLIZASHECTÁREASSUBSIDIO
+Plátano81288105.342.918
+Tabaco6.6423.5811.230.539.500
+Banano26217.1305.695.608.065
+Forestal592.07969.346.252
+Maní3933943.432.903
+Sorgo8556149.638.729
+Algodón5663.790470.819.062
+Arroz3675.011636.210.556
+Maíz2.4959.884985.113.856
+Plátano13.076148.373.215
+Total10.59745.7399.434.425.056
+El seguro agropecuario, el cré-
+dito y la tecnología constitu-
+yen el triángulo de oro para el 
+desarrollo del sector rural.
+
+Manejo productivo y contable 
+para la rentabilidad rural
+73
+1. Conteste con ( F) Falso o (V) Verdadero, de acuerdo con la 
+lectura del capítulo :
+• Al igual que el crédito e incentivos financieros agropecuarios, que se otorgan a través 
+de FINAGRO el seguro agrícola es otra herramienta de ayuda que el gobierno otorga 
+a los agricultores, mediante la intermediación de FINAGRO como entidad de segun-
+do piso ( ).
+• En la actualidad el área productiva asegurada representa menos del 1% del total del 
+área sembrada o establecida en el periodo 2010 – 2011 ( ).
+• El subsidio del gobierno nacional opera con el pago de la prima, subsidiando porcen-
+tajes entre el 40% y el 50%. ( ).
+• El seguro catastrófico pretende mitigar las pérdidas ocasionadas por desastres natu-
+rales de origen climático ( ).
+2. Nombre al menos cinco consideraciones básicas del asegurador:
+• 
+• 
+• 
+• 
+• 
+3. ¿Quiénes pueden operar el seguro agrícola en Colombia?
+4.¿Cree Usted que el seguro agrícola es una buena opción para mitigar debilidades 
+o amenazas en su agroempresa? Explique.
+Debes hacer: 
+
+Manejo productivo y contable 
+para la rentabilidad rural
+74
+RAMÍREZ P. Contabilidad administrativa. Instituto Tecnológico de Estudios Superiores de 
+Monterrey, 2004. 
+MALAGÓN R. y MORENO C. Manejo Financiero de Proyectos Productivos a través de las 
+Modalidades de Crédito y Autogestión Financiera, 2008.
+SAPAG CH. Preparación y Evaluación de Proyectos. Cuarta Edición, 2000.
+VILLACRES C. Educación para el Emprendimiento Nivel E. Ed. Norma, 2009.
+EL AGRO, Periódico. Pg.10-11, Mayo 2011.
+www.finagro.com.co 
+BIBLIOGRAFÍA 
+
+Convenio SENA - SAC No. 00086 de 2011

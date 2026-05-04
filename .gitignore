@@ -7,3 +7,4 @@ build/
 public/models/
 *.gguf
 *.onnx
+public/models/model.onnx
