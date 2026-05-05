@@ -11,36 +11,53 @@ const CONFIG = {
 
 function createChunks(text: string, fileName: string) {
     const chunks = [];
+
+    // 🔥 LIMPIEZA PREVIA
+    text = cleanRawText(text);
+
     let start = 0;
 
     while (start < text.length) {
-        // Tomamos un fragmento con el tamaño definido
         let end = start + CONFIG.CHUNK_SIZE;
-        
-        // Si no es el final, buscamos el último punto o salto de línea para no cortar una idea
+
         if (end < text.length) {
             const lastBreak = text.lastIndexOf('\n', end);
             const lastPeriod = text.lastIndexOf('. ', end);
             const optimalBreak = Math.max(lastBreak, lastPeriod);
-            
+
             if (optimalBreak > start + (CONFIG.CHUNK_SIZE * 0.7)) {
                 end = optimalBreak + 1;
             }
         }
 
         const content = text.substring(start, end).trim();
-        if (content.length > 50) { // Ignorar fragmentos muy pequeños
+
+        // 🔥 FILTRO PRO
+        if (content.length > 80 && !isGarbage(content)) {
             chunks.push({
                 source: fileName,
-                content: content,
+                content,
                 index: chunks.length
             });
         }
-        
-        // Avanzamos restando el overlap para mantener el hilo
+
         start = end - CONFIG.OVERLAP;
     }
+
     return chunks;
+}
+
+function isGarbage(text: string) {
+  const words = text.split(' ');
+
+  // muy corto o repetitivo
+  if (words.length < 10) return true;
+
+  // demasiado repetido tipo "la la la"
+  const unique = new Set(words);
+  if (unique.size / words.length < 0.4) return true;
+
+  return false;
 }
 
 async function main() {

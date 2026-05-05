@@ -9,7 +9,7 @@ import { Filesystem, Directory, Encoding } from '@capacitor/filesystem'
 import { SecureStoragePlugin } from 'capacitor-secure-storage-plugin'
 
 // Importaciones de servicios para descarga de memoria
-import { unloadLlama } from '@/core/ai/llama.service'
+
 import { unloadRAG } from '@/core/rag/rag.service'
 import { unloadTokenizer } from '@/core/rag/tokenizer.service'
 import { closeDB, getCurrentSessionId } from '@/core/db/sqlite.service'
@@ -104,7 +104,6 @@ export async function activatePanicMode(): Promise<void> {
   try {
     // --- FASE 1: CIERRE DE CONEXIONES Y LIMPIEZA DE RAM ---
     await closeDB().catch(() => {});
-    unloadLlama();
     unloadRAG();
     unloadTokenizer();
 

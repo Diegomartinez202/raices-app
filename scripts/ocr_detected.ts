@@ -40,7 +40,12 @@ async function processOCR(pdfPath: string) {
             });
 
             process.stdout.write(`   ⏳ Procesada página ${i}/${pdf.numPages}\r`);
-            fullText += `--- PÁGINA ${i} ---\n${text}\n\n`;
+            const cleaned = text
+  .replace(/\n{2,}/g, '\n')
+  .replace(/\s+/g, ' ')
+  .trim();
+
+fullText += cleaned + '\n\n';
         }
 
         await worker.terminate();

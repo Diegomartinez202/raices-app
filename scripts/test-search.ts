@@ -5,49 +5,47 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 async function test() {
-    console.log("\n--- 🌱 MODO RAÍCES: Buscador Semántico con Filtro de Seguridad ---");
+    console.log("\n--- 🌱 MODO RAÍCES: Asistente Técnico de Alta Precisión (Producción) ---");
 
-    // 1. Carga de datos (Manteniendo tu estructura de rutas)
+    // 1. Carga de base de conocimiento
     const embeddingsPath = path.resolve('src/assets/corpus/embeddings.json');
     if (!fs.existsSync(embeddingsPath)) {
-        console.error("❌ No encontré el archivo embeddings.json en la ruta especificada.");
+        console.error("❌ Error: No se encontró la base de conocimientos (embeddings.json).");
         return;
     }
     
     const data = JSON.parse(fs.readFileSync(embeddingsPath, 'utf-8'));
-    // Soporte para ambos formatos de corpus (directo o anidado en .embeddings)
     const corpus = data.embeddings || data;
 
-    const userQuery = "¿Cuáles son mis derechos de reparación integral como víctima en el exterior según la ley?";
-    console.log(`\n🔎 Usuario pregunta: "${userQuery}"`);
+    const userQuery = "¿Cómo afecta la causación de una factura de proveedor al inventario y al cálculo del IVA?";
+    console.log(`\n🔎 Consulta recibida: "${userQuery}"`);
 
     try {
-        // 2. Validación de Seguridad (Capa de Protección)
-        console.log("⏳ Validando política de seguridad...");
+        // 2. Validación de Seguridad
+        console.log("⏳ Verificando protocolos de seguridad...");
         const validation = await domainService.validateQuery(userQuery);
         if (!validation.allowed) {
-            console.log(`\n🛡️ RAÍCES Seguridad: ${validation.message}`);
+            console.log(`\n🛡️ Bloqueo de Seguridad: ${validation.message}`);
             return;
         }
 
-        console.log("⏳ Inicializando motor MiniLM...");
+        // 3. Ejecución de Búsqueda Semántica y Construcción de Respuesta
+        console.log("⏳ Consultando base de datos soberana y estructurando respuesta...");
         
-        // 3. LLAMADA AL SERVICIO EXPERTO
-        // Aquí es donde ocurre la magia: usamos el método .ask() que ya tiene
-        // los verbos de acción, la limpieza y la estructura de liderazgo.
-        const respuestaFormateada = await raicesConsole.ask(userQuery, corpus);
+        // El servicio raicesConsole ahora hace todo el trabajo pesado de forma local y rápida
+        const respuesta = await raicesConsole.ask(userQuery, corpus);
 
         console.log("\n============================================================");
-        console.log("🌱 RESPUESTA DE TU ACOMPAÑANTE RAÍCES");
+        console.log("🌱 RESPUESTA TÉCNICA RAÍCES");
         console.log("============================================================");
         
-        console.log(respuestaFormateada);
+        console.log(respuesta);
         
         console.log("\n============================================================");
-        console.log("✨ RECUERDA: Este camino no lo recorres solo/a.");
+        console.log("✨ SISTEMA LISTO: Información verificada y segura.");
 
     } catch (error) {
-        console.error("❌ Error en el proceso de ejecución del experto:", error);
+        console.error("❌ Error en la ejecución del asistente:", error.message);
     }
 }
 

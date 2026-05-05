@@ -51,6 +51,10 @@ export type AuditEventType =
   | 'AUDIT_LOG_CLEARED' // Logs de auditoría borrados (pánico o limpieza)
   | 'AUDIT_LOG_EXPORT' // Logs de auditoría exportados
   | 'QUERY_REJECTED_DOMAIN'
+  | 'SEARCH_ENGINE_ERROR'
+  | 'SEMANTIC_SEARCH_PERFORMED'
+  | 'AUTH_LOGIN' 
+  | 'AUTH_LOGOUT'
 
 export interface AuditLog {
   id: string

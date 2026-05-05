@@ -1,8 +1,11 @@
 import { useState, useCallback } from 'react';
 import { saveMessage, getMessages, type DBMessage } from '@/core/db/sqlite.service';
-import { generateResponse } from '@/core/ai/llama.service';
+import { SemanticSearchService } from '@/services/semanticSearch';
 import { KeyService } from '@/core/crypto/keys.service';
 import { logger } from '@/core/config/config.service';
+
+
+const searchService = new SemanticSearchService();
 
 export const useChat = () => {
   const [messages, setMessages] = useState<any[]>([]);
@@ -68,9 +71,20 @@ export const useChat = () => {
       // 3. PERSISTENCIA CIFRADA
       await saveMessage(userMsgDB as any);
 
-      // 4. RESPUESTA DE INTELIGENCIA ARTIFICIAL
-      const aiResponseText = await generateResponse(text);
+     //   2.1 Inicializar motor (descifra el corpus en memoria)
+      await searchService.init();
       
+const fuentes = await searchService.search(text, []); 
+
+      // 2.3 Formatear la respuesta basada en hallazgos reales
+      let aiResponseText = "";
+      if (fuentes && fuentes.length > 0) {
+        aiResponseText = "He localizado las siguientes fuentes oficiales en el corpus:\n\n" +
+          fuentes.map(f => `📍 [Eje ${f.type}] ${f.text.substring(0, 160)}... (Relevancia: ${(f.score * 100).toFixed(0)}%)`).join('\n\n');
+      } else {
+        aiResponseText = "No se encontraron coincidencias directas en los documentos oficiales para esta consulta.";
+      }
+
       const aiTimestamp = Date.now();
       const aiMsgUI = {
         id: aiTimestamp.toString(),

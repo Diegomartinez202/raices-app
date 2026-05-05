@@ -50,6 +50,8 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "sql.js": "^1.11.0",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^6.0.1",
     "tesseract.js": "^7.0.0",
     "voy-search": "^0.6.3",
     "zod": "^3.23.8"
@@ -61,6 +63,7 @@
     "@types/pdfjs-dist": "^2.10.377",
     "@types/react": "^18.3.5",
     "@types/react-dom": "^18.3.0",
+    "@types/sqlite3": "^3.1.11",
     "@typescript-eslint/eslint-plugin": "^8.4.0",
     "@typescript-eslint/parser": "^8.4.0",
     "@vitejs/plugin-react": "^4.3.1",

@@ -3,8 +3,8 @@ import axios from 'axios';
 import path from 'path';
 
 /**
- * RAÍCES - Script de aprovisionamiento de modelos
- * Descarga los pesos de la IA desde Hugging Face al almacenamiento local.
+ * RAÍCES - Script de aprovisionamiento de modelos (Optimizado)
+ * Descarga exclusivamente los componentes del motor de búsqueda semántica MiniLM.
  */
 
 const ASSETS = [
@@ -19,34 +19,29 @@ const ASSETS = [
   {
     url: 'https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2/resolve/main/tokenizer_config.json',
     path: 'public/corpus/tokenizer_config.json'
-  },
-  {
-    url: 'https://huggingface.co/google/gemma-2b-it-GGUF/resolve/main/gemma-2b-it-q4_k_m.gguf',
-    path: 'public/models/gemma-2b-it-q4_k_m.gguf'
-  },
+  }
 ];
 
 async function download() {
-  console.log('[RAÍCES] Iniciando descarga de activos críticos...');
+  console.log('\n--- 🌱 RAÍCES: Protocolo de Aprovisionamiento de Motor Semántico ---');
 
-  // Asegurar que existan los directorios de destino
-  const dirs = ['public/corpus', 'public/models'];
-  dirs.forEach(dir => {
-    if (!fs.existsSync(dir)) {
-      fs.mkdirSync(dir, { recursive: true });
-      console.log(` - Directorio creado: ${dir}`);
-    }
-  });
-
-for (const asset of ASSETS) {
-  const absolutePath = path.resolve(asset.path); // <--- AQUÍ SE "LEE" EL VALOR DE path
-  
-  if (fs.existsSync(absolutePath)) {
-    console.log(` Ya existe: ${asset.path}`);
-    continue;
+  // Asegurar que exista el directorio del corpus (eliminamos /models por optimización)
+  const dir = 'public/corpus';
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
+    console.log(` ✅ Estructura de conocimiento creada: ${dir}`);
   }
 
-    console.log(` ⏳ Descargando: ${asset.path} desde Hugging Face...`);
+  for (const asset of ASSETS) {
+    const absolutePath = path.resolve(asset.path);
+    const fileName = path.basename(asset.path);
+
+    if (fs.existsSync(absolutePath)) {
+      console.log(` ✨ Activo verificado: ${fileName}`);
+      continue;
+    }
+
+    console.log(` ⏳ Adquiriendo componente: ${fileName}...`);
     
     try {
       const response = await axios({
@@ -55,24 +50,41 @@ for (const asset of ASSETS) {
         responseType: 'stream'
       });
 
-      const writer = fs.createWriteStream(asset.path);
-      response.data.pipe(writer);
+      // Implementación de barra de progreso básica para archivos grandes
+// Usamos parseInt con un fallback de string vacío para asegurar el tipo string
+      const contentLength = response.headers['content-length'];
+      const totalLength = parseInt(typeof contentLength === 'string' ? contentLength : '0', 10);
+      let downloadedLength = 0;
 
-      await new Promise((resolve, reject) => {
-      writer.on('finish', () => resolve(true));
-        writer.on('error', reject);
+      const writer = fs.createWriteStream(asset.path);
+      
+      response.data.on('data', (chunk: Buffer) => {
+        downloadedLength += chunk.length;
+        if (totalLength > 0) {
+          const progress = ((downloadedLength / totalLength) * 100).toFixed(1);
+          process.stdout.write(`    Progreso: ${progress}%\r`);
+        }
       });
 
-      console.log(` 🚀 OK: ${asset.path}`);
+      response.data.pipe(writer);
+
+      // 2. Solución al Error de Promise (Línea 70)
+      // TypeScript espera que la función resolve coincida exactamente con la firma de la Promesa
+      await new Promise<void>((resolve, reject) => {
+        writer.on('finish', () => resolve()); // Se llama sin argumentos para cumplir con Promise<void>
+        writer.on('error', (err) => reject(err));
+      });
+
+      console.log(`\n 🚀 Integración exitosa: ${fileName}`);
     } catch (error: any) {
-      console.error(` ❌ Error descargando ${asset.url}: ${error.message}`);
+      console.error(` ❌ Error crítico en ${fileName}: ${error.message}`);
     }
   }
   
-  console.log('[RAÍCES] Aprovisionamiento completado.');
+  console.log('\n✅ [RAÍCES] Aprovisionamiento completado. El motor está listo para operar.');
 }
 
 download().catch(err => {
-  console.error('[RAÍCES] Error fatal en el script de descarga:', err);
+  console.error('[RAÍCES] Error fatal en el despliegue:', err);
   process.exit(1);
 });

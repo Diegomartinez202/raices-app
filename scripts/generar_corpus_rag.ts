@@ -6,7 +6,7 @@ import PDFParser from "pdf2json";
 
 const CONFIG = {
   PDF_DIR: path.join(process.cwd(), 'docs', 'fuentes_raw'), 
-  OUTPUT_DIR: path.join(process.cwd(), 'src/assets/corpus'),
+  OUTPUT_DIR: path.join(process.cwd(), 'public', 'corpus'),
   MODEL: 'Xenova/all-MiniLM-L6-v2',
   CHUNK_SIZE: 500,
   CHUNK_OVERLAP: 50
@@ -99,10 +99,10 @@ for (const chunk of todosLosChunks) {
 }
 
   if (!fs.existsSync(CONFIG.OUTPUT_DIR)) fs.mkdirSync(CONFIG.OUTPUT_DIR, { recursive: true });
-  fs.writeFileSync(
-    path.join(CONFIG.OUTPUT_DIR, 'embeddings.json'), 
-    JSON.stringify({ embeddings: voyEmbeddings }, null, 2)
-  );
+fs.writeFileSync(
+  path.join(CONFIG.OUTPUT_DIR, 'jep_m10_corpus.json'), // 💡 Cambiado de 'embeddings.json'
+  JSON.stringify({ embeddings: voyEmbeddings }, null, 2)
+);
 
   console.log(`--- ✅ PROCESO COMPLETADO ---`);
 }

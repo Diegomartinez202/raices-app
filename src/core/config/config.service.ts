@@ -23,22 +23,23 @@ const PATHS = {
   LLM_DIR: 'llm',
   CORPUS_ENCRYPTED: 'corpus/jep_m10_corpus.json.enc',
   CORPUS_JSON: 'corpus/embeddings.json',
-  EMBEDDING_MODEL: 'models/all-MiniLM-L6-v2.onnx',
-  TOKENIZER_JSON: 'corpus/tokenizer.json',
   CORPUS_DIR: 'corpus',
   DB_NAME: 'raices_db',
   DB_PATH: 'db/raices.db',
   DB_DIR: 'db',
-  SOURCES_DIR: 'sources', // <--- AGREGAR ESTA LÍNEA
+  SOURCES_DIR: 'sources', 
   AUDIT_LOGS: 'logs/audit.db',
   EXPORTS_DIR: 'exports',
+  EMBEDDING_MODEL: 'models/all-MiniLM-L6-v2/onnx/model.onnx', 
+  TOKENIZER_JSON: 'models/all-MiniLM-L6-v2/tokenizer.json',
 };
 
 const SECURE_KEYS = {
   DB_KEY: 'RAICES_DB_KEY',
   APP_PIN: 'APP_PIN',
   USER_SESSION: 'USER_SESSION',
-  BIOMETRIC_ENABLED: 'BIOMETRIC_ENABLED', // <--- REINTEGRADO
+  BIOMETRIC_ENABLED: 'BIOMETRIC_ENABLED',
+  CORPUS_ENCRYPTION_KEY: import.meta.env.VITE_CORPUS_ENCRYPTION_KEY || process.env.CORPUS_ENCRYPTION_KEY,
 };
 
 const LLM_PARAMS = {
@@ -142,6 +143,18 @@ export function validateConfig(): void {
     errors.push('CRÍTICO: La telemetría no puede estar activada en este sistema.');
   }
   
+// 🔐 NUEVA VALIDACIÓN DE SEGURIDAD:
+  const key = SECURE_KEYS.CORPUS_ENCRYPTION_KEY;
+  if (!key) {
+    errors.push('CRÍTICO: Falta la clave de cifrado del corpus (CORPUS_ENCRYPTION_KEY).');
+} else {
+  // Verificamos la longitud de la cadena decodificada
+  const decodedKey = atob(key); 
+  if (decodedKey.length !== 32) {
+    errors.push(`CRÍTICO: La clave de seguridad debe ser de exactamente 32 bytes (detectados: ${decodedKey.length}).`);
+  }
+}
+
   // 3. Validación de Seguridad de Sesión
   if (APP_CONFIG.SESSION_TIMEOUT_MS < 60000) {
     errors.push('El tiempo de sesión es demasiado corto (mínimo 1 minuto).');

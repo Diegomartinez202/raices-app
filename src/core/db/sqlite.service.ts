@@ -8,7 +8,7 @@ import { CapacitorSQLite, SQLiteConnection, SQLiteDBConnection } from '@capacito
 import { SecureStoragePlugin } from 'capacitor-secure-storage-plugin'
 import { getPaths, getSecureKeys, getDBParams, logger } from '@/core/config/config.service'
 import { initializeAudit, logEvent } from '@/core/audit/audit.service';
-
+import { DATABASE_SCHEMA } from './schema';
 // --- INTERFACES ---
 const PATHS = getPaths();
 const KEYS = getSecureKeys();
@@ -100,30 +100,15 @@ export async function initializeDB(): Promise<boolean> {
     await db.execute(`PRAGMA cipher_default_kdf_iter = ${DB_PARAMS.KDF_ITER};`);
 
 // --- 7. ESTRUCTURA DE DATOS (Ddl) ---
-    await db.execute(`
-      CREATE TABLE IF NOT EXISTS messages (
-        id TEXT PRIMARY KEY NOT NULL,
-        text TEXT NOT NULL,
-        isUser INTEGER NOT NULL,
-        timestamp INTEGER NOT NULL,
-        source TEXT,
-        sessionId TEXT NOT NULL
-      );
-      
-      -- TABLA DE AUDITORÍA (Añade esto aquí)
-      CREATE TABLE IF NOT EXISTS audit_logs (
-        id INTEGER PRIMARY KEY AUTOINCREMENT,
-        timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
-        eventType TEXT NOT NULL,
-        severity TEXT NOT NULL,
-        metadata TEXT,
-        sessionId TEXT NOT NULL
-      );
+// Ejecutamos las sentencias definidas en el esquema centralizado
+    await db.execute(DATABASE_SCHEMA.CREATE_MESSAGES_TABLE);
+    await db.execute(DATABASE_SCHEMA.CREATE_AUDIT_TABLE);
 
-      CREATE INDEX IF NOT EXISTS idx_timestamp ON messages(timestamp);
-      CREATE INDEX IF NOT EXISTS idx_audit_type ON audit_logs(eventType); -- Para rapidez en tu query
-      CREATE INDEX IF NOT EXISTS idx_session ON messages(sessionId);
-    `);
+    // Aplicamos todos los índices definidos para optimizar SPSS/ATLAS.ti
+    for (const indexQuery of DATABASE_SCHEMA.INDICES) {
+      await db.execute(indexQuery);
+    }
+
     // --- 8. GESTIÓN DE SESIÓN Y AUDITORÍA SOBERANA ---
     // Generamos el ID de sesión definitivo para este arranque
     currentSessionId = `SESS-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`;
@@ -173,8 +158,9 @@ export async function saveMessage(msg: ChatMessage): Promise<void> {
   if (!isInitialized || !db) return;
 
   try {
+    // Usamos DATABASE_SCHEMA.TABLES.MESSAGES para asegurar consistencia
     const stmt = `
-      INSERT OR REPLACE INTO messages (id, text, isUser, timestamp, source, sessionId)
+      INSERT OR REPLACE INTO ${DATABASE_SCHEMA.TABLES.MESSAGES} (id, text, isUser, timestamp, source, sessionId)
       VALUES (?, ?, ?, ?, ?, ?);
     `;
     await db.run(stmt, [
@@ -197,7 +183,8 @@ export async function saveMessage(msg: ChatMessage): Promise<void> {
 export async function getAllMessages(): Promise<DBMessage[]> {
   if (!isInitialized || !db) return [];
   try {
-    const res = await db.query(`SELECT * FROM messages ORDER BY timestamp ASC`);
+    // Referencia dinámica a la tabla de mensajes
+    const res = await db.query(`SELECT * FROM ${DATABASE_SCHEMA.TABLES.MESSAGES} ORDER BY timestamp ASC`);
     return res.values as DBMessage[] || [];
   } catch (e) {
     logger.error('[RAÍCES DB] Error en getAllMessages:', e);
@@ -214,12 +201,12 @@ export async function getMessages(limit: number = 50): Promise<DBMessage[]> {
 
   try {
     const res = await db.query(`
-      SELECT * FROM messages
+      SELECT * FROM ${DATABASE_SCHEMA.TABLES.MESSAGES}
       ORDER BY timestamp DESC
       LIMIT ?
     `, [limit]);
 
-    // Reverse para que en la UI aparezcan en orden cronológico (abajo el más nuevo)
+    // Reverse para que en la UI aparezcan en orden cronológico
     return (res.values || []).reverse() as DBMessage[];
   } catch (e) {
     logger.error('[RAÍCES DB] Error en getMessages:', e);

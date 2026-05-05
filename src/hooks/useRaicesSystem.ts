@@ -1,7 +1,6 @@
 import { useState, useEffect } from 'react';
 import { validateConfig, logger } from '@/core/config/config.service';
 import { initializeDB, isDBReady } from '@/core/db/sqlite.service';
-import { initializeLlama, isLlamaReady } from '@/core/ai/llama.service';
 import { initializeVoy, isVoyReady } from '@/core/rag/voy.service';
 import { initializeTokenizer, isTokenizerReady } from '@/core/rag/tokenizer.service';
 import { hasPIN, onSessionStateChange, initializeSessionListeners, setPIN } from '@/core/session/session.service';
@@ -92,13 +91,14 @@ export const useRaicesSystem = () => {
         await initializeTokenizer();
         if (!isTokenizerReady()) throw new Error('Fallo crítico en el Tokenizer.');
 
+        setLoadingMsg('Abriendo Bóveda Cifrada (JEP/Finanzas)...');
+
         setLoadingMsg('Indexando contexto jurídico (Voy)...');
         await initializeVoy();
         if (!isVoyReady()) throw new Error('Fallo crítico en el motor de búsqueda (RAG).');
 
-        setLoadingMsg('Inicializando modelo IA (Llama)...');
-        await initializeLlama();
-        if (!isLlamaReady()) throw new Error('Fallo crítico en el motor de IA Llama.');
+        setLoadingMsg('Inicializando motor de búsqueda RAÍCES...');
+        await initializeRAG();
 
         // --- FASE 6: SESIÓN Y SEGURIDAD ---
         // 1. ACTIVACIÓN DE LISTENERS (Pausa/Resumen)
@@ -153,13 +153,22 @@ const setupSecurity = async (nuevoPin: string) => {
       return false;
     }
   };
+
+
 const initializeRAG = async () => {
     try {
-      // Tu lógica para cargar el índice Voy y el Corpus cifrado
-      logger.info('Reinicializando sistema RAG...');
-      // ...
+      logger.info('Abriendo Bóveda Cifrada (JEP/Finanzas)...');
+      
+      // 1. Aquí se activa la lógica de descifrado en memoria
+      // (Esta lógica debe estar dentro de tu servicio de RAG)
+      
+      // 2. Activamos el motor Voy sin pasarle argumentos para evitar el error
+      await initializeVoy(); 
+      
+      logger.info('✅ Motor de búsqueda RAÍCES inicializado correctamente.');
     } catch (e) {
       logger.error('Error al inicializar RAG', e);
+      throw e;
     }
   };
   
